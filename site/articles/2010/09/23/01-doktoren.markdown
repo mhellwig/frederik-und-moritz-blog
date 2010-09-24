@@ -1,7 +1,7 @@
 Title     : doktoren.
 Author    : michael
 Created   : 2010-09-23T16:33:35
-Tags      : frederik, elternbetrachtungen
+Tags      : frederik, elternbetrachtungen, fotos
 Comments  : Off
 Trackback : Off
 TagURI    : tag:fnanp.in-ulm.de,2010-09-23:2010/09/23/doktoren

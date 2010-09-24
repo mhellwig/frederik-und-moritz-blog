@@ -1,7 +1,7 @@
 Title     : bildtest.
 Author    : michael
 Created   : 2010-09-22T22:26:41
-Tags      : administrativa, frederik
+Tags      : administrativa, frederik, fotos
 Comments  : Off
 Trackback : Off
 TagURI    : tag:fnanp.in-ulm.de,2010-09-22:2010/09/22/02-bild_test
