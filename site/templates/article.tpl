@@ -20,6 +20,7 @@
     <body>
         <div class="header">
             <h1><a href="${top}">Frederik und Moritz Blog</a></h1>
+ 	    <p class="claim">väterliche Betrachtungen</p>
             <ul py:def="navigation(node)" class="nav">
                 <li class="prev">
                     <a py:if="c.prev" href="${top}${c.prev.get_deploy_path()}">${c.prev.get_article().title}</a>
@@ -51,7 +52,8 @@
         </div>
         <div class="footer">
             ${navigation(c)}
-        </div>
+	    <p class="claim"><a href="mailto:mhellwig@in-ulm.de">Kontakt</a></p>
+       </div>
         <!-- for the disqus commenting system
             <py:if test="article.comments">
                 <script type="text/javascript">

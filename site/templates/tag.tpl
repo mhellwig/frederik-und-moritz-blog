@@ -14,6 +14,7 @@
     <body>
         <div class="header">
             <h1><a href="${top}">Frederik und Moritz Blog</a></h1>
+	    <p class="claim">väterliche Betrachtungen</p>
             <ul py:def="navigation()" class="nav">
                 <li class="prev">
                     <span class="disabled">zurück</span>
@@ -35,6 +36,7 @@
         </div>
         <div class="footer">
             ${navigation()}
+	    <p class="claim"><a href="mailto:mhellwig@in-ulm.de">Kontakt</a></p>
         </div>
     </body>
 </html>

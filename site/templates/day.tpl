@@ -17,6 +17,7 @@
     <body>
         <div class="header">
             <h1><a href="${top}">Frederik und Moritz Blog</a></h1>
+	    <p class="claim">väterliche Betrachtungen</p>
             <ul py:def="navigation(node)" class="nav">
                 <li class="prev">
                     <a py:if="c.prev" href="${top}${c.prev.get_deploy_path()}">${unicode(c.prev.get_date().strftime("%d. %B %Y"),"utf-8")}</a>
@@ -48,6 +49,7 @@
         </div>
         <div class="footer">
             ${navigation(c)}
+	    <p class="claim"><a href="mailto:mhellwig@in-ulm.de">Kontakt</a></p>
         </div>
     </body>
 </html>
