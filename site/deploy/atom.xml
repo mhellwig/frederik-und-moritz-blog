@@ -4,8 +4,22 @@
     <id>http://example.com/</id>
     <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe" type="text/html"/>
     <link rel="self" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/atom.xml" type="application/atom+xml"/>
-    <updated>2010-09-25T23:42:05Z</updated>
+    <updated>2010-09-26T11:26:28Z</updated>
     <entry>
+        <title>photos.</title>
+        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2010/09/26/01-photos.html" type="text/html"/>
+        <id>tag:fnanp.in-ulm.de,2010-09-26:2010/09/26/photos</id>
+        <updated>2010-09-26T11:26:26Z</updated>
+        <published>2010-09-26T11:24:41Z</published>
+        <category term="fotos"/><category term="frederik"/><category term="moritz"/>
+        <author>
+            <name>michael</name>
+        </author>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>nach drei Monaten endlich wieder neue Bilder online! Einfach auf das
+Vorschau-Bild klicken (Bilder sind in den Ordnern "Juli", "August" und
+"September"):</p>
+<p><a href="http://fnanp.in-ulm.de/frederik_und_moritz/photos/index.html"><img alt="Vorschaubild" src="http://fnanp.in-ulm.de/frederik_und_moritz/photos/2010_08/tempdir/640x480/IMG_7154.jpg"/></a></p></div></content>
+    </entry><entry>
         <title>moritz.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2010/09/25/01-moritz-mischeintrag.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2010-09-25:2010/09/25/moritz-mischeintrag</id>
