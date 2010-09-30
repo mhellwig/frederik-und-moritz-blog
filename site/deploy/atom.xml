@@ -4,12 +4,24 @@
     <id>http://example.com/</id>
     <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe" type="text/html"/>
     <link rel="self" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/atom.xml" type="application/atom+xml"/>
-    <updated>2010-09-26T11:26:28Z</updated>
+    <updated>2010-09-30T10:28:33Z</updated>
     <entry>
+        <title>zahn.</title>
+        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2010/09/30/01-zahn.html" type="text/html"/>
+        <id>tag:fnanp.in-ulm.de,2010-09-30:2010/09/30/zahn</id>
+        <updated>2010-09-30T10:28:33Z</updated>
+        <published>2010-09-30T10:28:28Z</published>
+        <category term="moritz"/><category term="nahrung"/>
+        <author>
+            <name>michael</name>
+        </author>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Seit gestern hat Moritz definitv seinen zweiten Zahn! Das wäre also der
+29.9.2010, an dem wir den gespürt/gesehen haben.</p></div></content>
+    </entry><entry>
         <title>photos.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2010/09/26/01-photos.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2010-09-26:2010/09/26/photos</id>
-        <updated>2010-09-26T11:26:26Z</updated>
+        <updated>2010-09-27T11:29:02Z</updated>
         <published>2010-09-26T11:24:41Z</published>
         <category term="fotos"/><category term="frederik"/><category term="moritz"/>
         <author>
@@ -23,7 +35,7 @@ Vorschau-Bild klicken (Bilder sind in den Ordnern "Juli", "August" und
         <title>moritz.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2010/09/25/01-moritz-mischeintrag.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2010-09-25:2010/09/25/moritz-mischeintrag</id>
-        <updated>2010-09-25T23:42:04Z</updated>
+        <updated>2010-09-27T11:29:02Z</updated>
         <published>2010-09-25T23:36:32Z</published>
         <category term="moritz"/><category term="fortbewegung"/><category term="sprache"/><category term="frederik"/>
         <author>
@@ -121,7 +133,7 @@ versprochen. Und auch ein schöneres Layout für die Seite hier. Echt.</p></div>
         <title>doktoren.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2010/09/23/01-doktoren.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2010-09-23:2010/09/23/doktoren</id>
-        <updated>2010-09-24T18:04:20Z</updated>
+        <updated>2010-09-24T13:57:34Z</updated>
         <published>2010-09-23T16:33:35Z</published>
         <category term="frederik"/><category term="elternbetrachtungen"/><category term="fotos"/>
         <author>
@@ -164,7 +176,7 @@ Krankenhaus ausgesehen hat. Da war das Aug schon wieder ein bissl offen.</p>
         <title>bildtest.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2010/09/22/02-bild_test.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2010-09-22:2010/09/22/02-bild_test</id>
-        <updated>2010-09-24T18:04:20Z</updated>
+        <updated>2010-09-24T13:57:25Z</updated>
         <published>2010-09-22T22:26:41Z</published>
         <category term="administrativa"/><category term="frederik"/><category term="fotos"/>
         <author>
@@ -182,7 +194,7 @@ mache.</p></div></content>
         <title>neu.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2010/09/22/01-erster_eintrag.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2010-09-22:2010/09/22/01-erster_eintrag</id>
-        <updated>2010-09-22T21:31:46Z</updated>
+        <updated>2010-09-23T11:29:58Z</updated>
         <published>2010-09-22T21:31:34Z</published>
         <category term="administrativa"/>
         <author>
