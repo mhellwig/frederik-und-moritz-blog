@@ -1,4 +1,4 @@
-Title     : gehen.
+Title     : gehen. [UPDATE]
 Author    : michael
 Created   : 2010-10-02T18:03:31
 Tags      : moritz, fortbewegung
@@ -16,3 +16,7 @@ festhaltende) und dann in der Körperhaltung vorwärts getappst ist. Er selber
 fand das ganz toll und super.
 
 Wir natürlich auch.
+
+**UPDATE**
+Korrektur: nicht 2-3 Schritte sondern mindestens 6-7, erinnert mich Susanne
+grade.
