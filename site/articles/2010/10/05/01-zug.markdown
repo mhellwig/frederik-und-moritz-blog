@@ -13,3 +13,7 @@ TagURI    : tag:fnanp.in-ulm.de,2010-10-05:2010/10/05/zug
 das war ein Versuch, ein Foto vom Handy aus zu posten. Es handelt sich
 dabei um ein Bild aus dem Spielzimmer in der Kinderklinik, von Frederiks
 Aufenthalt dort, mit dem ich unsere schöne Bahnstrecke dokumentiert habe.
+
+**UPDATE**
+
+ich hab das Bild mal noch auf eine etwas zivilere Größe eingedampft.
