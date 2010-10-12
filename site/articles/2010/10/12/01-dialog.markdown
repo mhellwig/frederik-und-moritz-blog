@@ -15,10 +15,16 @@ das Laufrad und die neuen Schuhe .. juhu!).
 Jedenfalls relativ am Anfang unseres Weges trug sich folgende Begebenheit zu
 (wir gingen grade am Gerichtsgebäude vorbei):
 
-Frederik - ist das eine Kirche?
-ich - nein.
-Frederik - ist das eine Ritterburg?
-ich - nein.
-Frederik - was ist das?
-ich - ein Gericht.
-Frederik - ah.
+>Frederik - ist das eine Kirche?  
+>ich - nein.  
+>Frederik - ist das eine Ritterburg?  
+>ich - nein.  
+>Frederik - was ist das?  
+>ich - ein Gericht.  
+>Frederik - ah.  
+
+
+**UPDATE**  
+so, dieser Eintrag wurde jetzt ungefähr viermal geändert, bevor er korrekt
+war. Das mit dem schönen Wiedergeben von Dialogen musste ich erst rausfinden,
+wie's gscheit aussieht. Entschuldigung für die Unannehmlichkeiten ..

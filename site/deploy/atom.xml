@@ -4,12 +4,12 @@
     <id>http://example.com/</id>
     <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe" type="text/html"/>
     <link rel="self" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/atom.xml" type="application/atom+xml"/>
-    <updated>2010-10-12T15:12:46Z</updated>
+    <updated>2010-10-12T15:22:33Z</updated>
     <entry>
         <title>dialog.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2010/10/12/01-dialog.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2010-10-12:2010/10/12/dialog</id>
-        <updated>2010-10-12T15:12:49Z</updated>
+        <updated>2010-10-12T15:20:41Z</updated>
         <published>2010-10-12T15:12:40Z</published>
         <category term="frederik"/><category term="sprache"/>
         <author>
@@ -22,13 +22,20 @@ und zu kommentieren, und auf dem Rückweg musste ich ihn dann eh tragen (und
 das Laufrad und die neuen Schuhe .. juhu!).</p>
 <p>Jedenfalls relativ am Anfang unseres Weges trug sich folgende Begebenheit zu
 (wir gingen grade am Gerichtsgebäude vorbei):</p>
-<p>Frederik - ist das eine Kirche?
-ich - nein.
-Frederik - ist das eine Ritterburg?
-ich - nein.
-Frederik - was ist das?
-ich - ein Gericht.
-Frederik - ah.</p></div></content>
+<blockquote>
+<p>Frederik - ist das eine Kirche?<br/>
+ich - nein.<br/>
+Frederik - ist das eine Ritterburg?<br/>
+ich - nein.<br/>
+Frederik - was ist das?<br/>
+ich - ein Gericht.<br/>
+Frederik - ah.<br/>
+</p>
+</blockquote>
+<p><strong>UPDATE</strong><br/>
+so, dieser Eintrag wurde jetzt ungefähr viermal geändert, bevor er korrekt
+war. Das mit dem schönen Wiedergeben von Dialogen musste ich erst rausfinden,
+wie's gscheit aussieht. Entschuldigung für die Unannehmlichkeiten ..</p></div></content>
     </entry><entry>
         <title>zug</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2010/10/05/01-zug.html" type="text/html"/>
