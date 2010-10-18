@@ -4,12 +4,12 @@
     <id>http://example.com/</id>
     <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe" type="text/html"/>
     <link rel="self" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/atom.xml" type="application/atom+xml"/>
-    <updated>2010-10-18T12:17:38Z</updated>
+    <updated>2010-10-18T17:07:15Z</updated>
     <entry>
         <title>furchtlos.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2010/10/18/01-furchtlos.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2010-10-18:2010/10/18/furchtlos</id>
-        <updated>2010-10-18T12:17:38Z</updated>
+        <updated>2010-10-18T17:07:07Z</updated>
         <published>2010-10-18T12:17:33Z</published>
         <category term="frederik"/><category term="moritz"/><category term="fortbewegung"/><category term="video"/>
         <author>
@@ -17,16 +17,20 @@
         </author>
         <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Hier mal noch eine kleine filmische Illustration der Tatsache, dass Moritz
 deutlich weniger Angst hat, als manchmal gut für ihn wäre. </p>
-<embed src="http://fnanp.in-ulm.de/flv/mediaplayer.swf" width="480" height="380" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" flashvars="file=http://fnanp.in-ulm.de/flv/rutschbahn-2010-10-17.flv&amp;image=http://fnanp.in-ulm.de/flv/rutschbahn-2010-10-17.jpg"/>
+<p><embed src="http://fnanp.in-ulm.de/flv/mediaplayer.swf" width="480" height="380" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" flashvars="file=http://fnanp.in-ulm.de/flv/rutschbahn-2010-10-17.flv&amp;image=http://fnanp.in-ulm.de/flv/rutschbahn-2010-10-17.jpg"/></p>
 <p>Zusätzlicher Bericht: Moritz übt ja derzeit freies Stehen. Er ist
 draufgekommen, dass er besonders viele Reaktionen erntet, wenn er das oben auf
 der Rutschbahn macht. I.e. er klettert da rauf, richtet sich oben auf und
-lässt dann das Geländer los (Arme in die Höhe). Grinsend.</p></div></content>
+lässt dann das Geländer los (Arme in die Höhe). Grinsend.</p>
+<p><strong>UPDATE</strong></p>
+<p>was ich noch erläutern sollte, das "bumm!" das man im Video hören kann ist
+Moritz' Reaktion auf so ziemlich alle Unfälle, die nicht zu Weinen führen,
+i.e. seiner Meinung nach nicht so schlimm sind.</p></div></content>
     </entry><entry>
         <title>dialog.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2010/10/12/01-dialog.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2010-10-12:2010/10/12/dialog</id>
-        <updated>2010-10-18T12:11:33Z</updated>
+        <updated>2010-10-12T15:20:41Z</updated>
         <published>2010-10-12T15:12:40Z</published>
         <category term="frederik"/><category term="sprache"/>
         <author>
@@ -57,7 +61,7 @@ wie's gscheit aussieht. Entschuldigung für die Unannehmlichkeiten ..</p></div><
         <title>zug</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2010/10/05/01-zug.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2010-10-05:2010/10/05/zug</id>
-        <updated>2010-10-11T15:15:11Z</updated>
+        <updated>2010-10-11T14:57:44Z</updated>
         <published>2010-10-05T15:48:47Z</published>
         <category term="fotos"/><category term="frederik"/>
         <author>
@@ -74,7 +78,7 @@ Aufenthalt dort, mit dem ich unsere schöne Bahnstrecke dokumentiert habe.</p>
         <title>reden.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2010/10/02/02-reden.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2010-10-02:2010/10/02/reden</id>
-        <updated>2010-10-02T18:52:25Z</updated>
+        <updated>2010-10-05T15:48:00Z</updated>
         <published>2010-10-02T18:52:20Z</published>
         <category term="frederik"/><category term="moritz"/><category term="sprache"/>
         <author>
@@ -104,7 +108,7 @@ sich zu geben als das bis jetzt der Fall war, so zB eben sein Versuch
         <title>gehen. [update]</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2010/10/02/01-gehen.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2010-10-02:2010/10/02/gehen</id>
-        <updated>2010-10-02T19:16:34Z</updated>
+        <updated>2010-10-05T15:48:00Z</updated>
         <published>2010-10-02T18:03:31Z</published>
         <category term="moritz"/><category term="fortbewegung"/>
         <author>
@@ -125,7 +129,7 @@ grade.</p></div></content>
         <title>zahn.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2010/09/30/01-zahn.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2010-09-30:2010/09/30/zahn</id>
-        <updated>2010-10-02T15:51:30Z</updated>
+        <updated>2010-10-05T15:48:00Z</updated>
         <published>2010-09-30T10:28:28Z</published>
         <category term="moritz"/><category term="nahrung"/>
         <author>
@@ -137,7 +141,7 @@ grade.</p></div></content>
         <title>photos.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2010/09/26/01-photos.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2010-09-26:2010/09/26/photos</id>
-        <updated>2010-09-26T11:26:26Z</updated>
+        <updated>2010-10-05T15:48:00Z</updated>
         <published>2010-09-26T11:24:41Z</published>
         <category term="fotos"/><category term="frederik"/><category term="moritz"/>
         <author>
@@ -151,7 +155,7 @@ Vorschau-Bild klicken (Bilder sind in den Ordnern "Juli", "August" und
         <title>moritz.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2010/09/25/01-moritz-mischeintrag.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2010-09-25:2010/09/25/moritz-mischeintrag</id>
-        <updated>2010-09-25T23:42:04Z</updated>
+        <updated>2010-10-05T15:48:00Z</updated>
         <published>2010-09-25T23:36:32Z</published>
         <category term="moritz"/><category term="fortbewegung"/><category term="sprache"/><category term="frederik"/>
         <author>
@@ -249,7 +253,7 @@ versprochen. Und auch ein schöneres Layout für die Seite hier. Echt.</p></div>
         <title>doktoren.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2010/09/23/01-doktoren.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2010-09-23:2010/09/23/doktoren</id>
-        <updated>2010-09-24T18:04:20Z</updated>
+        <updated>2010-10-05T15:48:00Z</updated>
         <published>2010-09-23T16:33:35Z</published>
         <category term="frederik"/><category term="elternbetrachtungen"/><category term="fotos"/>
         <author>
@@ -292,7 +296,7 @@ Krankenhaus ausgesehen hat. Da war das Aug schon wieder ein bissl offen.</p>
         <title>bildtest.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2010/09/22/02-bild_test.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2010-09-22:2010/09/22/02-bild_test</id>
-        <updated>2010-09-24T18:04:20Z</updated>
+        <updated>2010-10-05T15:48:00Z</updated>
         <published>2010-09-22T22:26:41Z</published>
         <category term="administrativa"/><category term="frederik"/><category term="fotos"/>
         <author>
@@ -310,7 +314,7 @@ mache.</p></div></content>
         <title>neu.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2010/09/22/01-erster_eintrag.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2010-09-22:2010/09/22/01-erster_eintrag</id>
-        <updated>2010-09-22T21:31:46Z</updated>
+        <updated>2010-10-05T15:48:00Z</updated>
         <published>2010-09-22T21:31:34Z</published>
         <category term="administrativa"/>
         <author>
