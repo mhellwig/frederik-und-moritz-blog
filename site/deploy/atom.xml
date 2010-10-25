@@ -4,8 +4,40 @@
     <id>http://example.com/</id>
     <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe" type="text/html"/>
     <link rel="self" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/atom.xml" type="application/atom+xml"/>
-    <updated>2010-10-18T18:31:44Z</updated>
+    <updated>2010-10-25T22:36:14Z</updated>
     <entry>
+        <title>zitate.</title>
+        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2010/10/25/01-zitate.html" type="text/html"/>
+        <id>tag:fnanp.in-ulm.de,2010-10-25:2010/10/25/zitate</id>
+        <updated>2010-10-25T22:36:15Z</updated>
+        <published>2010-10-25T22:36:09Z</published>
+        <category term="frederik"/><category term="sprache"/>
+        <author>
+            <name>michael</name>
+        </author>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Ein paar kleine Probestücke aus dem Alltag.</p>
+<p>Heute war Susanne einkaufen und hat für die zwei Burschen so kleine
+viertel-Liter Tetrapacks mit Apfelsaft gekauft, die mit den kurzen Strohhalmen
+zum bei einem mit Alufolie verschlossenen Loch reinstecken wie sie vermutlich
+die meisten von früher kennen ("Sunkist" war glaub ich eine Marke früher wo
+so verkauft wurde). Jedenfalls, wers kennt weiss auch, dass nachdem man
+kräftig am Strohhalm gesaugt hat und wieder abgesetzt hat, Luft durch den
+Strohhalm zurück in die Packung strömt und weil der Strohhalm natürlich in der
+Flüssigkeit steckt gibt das so ein gurgelnd-schlürfendes Geräusch.</p>
+<p>Frederik meinte dazu heute "Mama, der Saft ürpst!"</p>
+<hr/>
+<p>Ich hab ihn heut, wie oft ins Bett gebracht. Dabei entspannte sich folgender
+Dialog:</p>
+<blockquote>
+<p>Frederik - ich will noch was trinken
+ich - <em>reiche ihm die Flasche</em>
+Frederik - nicht die Flasche, aus einem Glas!
+ich - nein, wir gehn jetzt nicht mehr in die Küche
+Frederik - ich will aber nicht ins Bett, ich will nicht schlafen!
+ich - warum denn nicht?
+Frederik - das is halt so.</p>
+</blockquote></div></content>
+    </entry><entry>
         <title>laufradausflug.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2010/10/18/02-laufradausflug.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2010-10-18:2010/10/18/laufradausflug</id>
