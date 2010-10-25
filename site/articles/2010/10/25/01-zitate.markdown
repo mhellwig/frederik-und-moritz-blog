@@ -24,10 +24,10 @@ Frederik meinte dazu heute "Mama, der Saft ürpst!"
 Ich hab ihn heut, wie oft ins Bett gebracht. Dabei entspannte sich folgender
 Dialog:
 
->Frederik - ich will noch was trinken
->ich - *reiche ihm die Flasche*
->Frederik - nicht die Flasche, aus einem Glas!
->ich - nein, wir gehn jetzt nicht mehr in die Küche
->Frederik - ich will aber nicht ins Bett, ich will nicht schlafen!
->ich - warum denn nicht?
->Frederik - das is halt so.
+>Frederik - ich will noch was trinken  
+>ich - *reiche ihm die Flasche*  
+>Frederik - nicht die Flasche, aus einem Glas!  
+>ich - nein, wir gehn jetzt nicht mehr in die Küche  
+>Frederik - ich will aber nicht ins Bett, ich will nicht schlafen!  
+>ich - warum denn nicht?  
+>Frederik - das is halt so.  
