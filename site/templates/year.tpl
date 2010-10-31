@@ -63,6 +63,9 @@
 	    <li><a href="mailto:mhellwig@in-ulm.de">Mail</a></li>
 	  </ul>
 	  <hr />
+	  <h2>Info</h2>
+	  <p>This blog is statically generated with <a href="http://www.holgerfrey.de/tags/sbe.html">sbe.py</a></p>
+	  <hr />
 
 	</div>
 	<div id="footer">
