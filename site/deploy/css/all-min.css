@@ -34,6 +34,12 @@ h2 {
 	font:120% Courier, monospace;
 }
 
+#header a {
+	color:#FFF;
+	font:90% Terminus, Bitstream Vera Sans Mono, Lucida Console, Courier, monospace;
+}
+
+
 #header .claim {
 	color:#FFF;
 	font:100% Terminus, Bitstream Vera Sans Mono, Lucida Console, Courier, monospace;
