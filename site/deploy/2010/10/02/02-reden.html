@@ -14,7 +14,8 @@
         <link rel="start" href="../../../">
     </head>
     <body>
-        <div class="header">
+    <div id="wrap">
+        <div id="header">
             <h1><a href="../../../">Frederik und Moritz Blog</a></h1>
  	    <p class="claim">väterliche Betrachtungen</p>
             <ul class="nav">
@@ -31,11 +32,13 @@
                 </li>
             </ul>
         </div>
+	<div id="main">
         <div class="article">
             <h2 class="title">reden.</h2>
             <div class="info">
-                Samstag, 02. Oktober 2010, Themen:
+                Samstag, 02. Oktober 2010,
                 <ul class="tags">
+		    <li>Tags:</li>
                     <li>
                         <a href="../../../tags/frederik.html">frederik</a>,
                     </li><li>
@@ -66,7 +69,32 @@ konnten wir uns sein als er eines morgens während dem hinbringen verkündete
 sich zu geben als das bis jetzt der Fall war, so zB eben sein Versuch
 "Kastanie" zu sagen und so. </p>
         </div>
-        <div class="footer">
+	</div>
+	<div id="sidebar">
+	  <h2>Navigation</h2>
+	  <ul>
+	    <li><a href="../../../">Blog-Ursprung</a></li>
+	    <li><a href="http://fnanp.in-ulm.de/frederik_und_moritz/photos/">Photo-Seite</a></li>
+	  </ul>
+	  <hr>
+	  <h2>Externe Links</h2>
+	  <ul>
+	    <li><a href="http://blog.wired.com/geekdad/">Geekdad Blog</a></li>
+	    <li><a href="http://www.babylonia.be/">Babylonia Tragetücher</a></li>
+	  </ul>
+	  <hr>
+	  <h2>Feed</h2>
+	  <ul>
+	    <li><a href="../../../atom.xml">ATOM</a></li>
+	  </ul>
+	  <hr>
+	  <h2>Contact</h2>
+	  <ul>
+	    <li><a href="mailto:mhellwig@in-ulm.de">Mail</a></li>
+	  </ul>
+	  <hr>
+	</div>
+        <div id="footer">
             <ul class="nav">
                 <li class="prev">
                     <a href="../../../2010/10/02/01-gehen.html">gehen. [update]</a>
@@ -80,7 +108,6 @@ sich zu geben als das bis jetzt der Fall war, so zB eben sein Versuch
                     <a href="../../../2010/10/02/">02</a>
                 </li>
             </ul>
-	    <p class="claim"><a href="mailto:mhellwig@in-ulm.de">Kontakt</a></p>
        </div>
         <!-- for the disqus commenting system
             <py:if test="article.comments">
@@ -100,5 +127,6 @@ sich zu geben als das bis jetzt der Fall war, so zB eben sein Versuch
                     </script>
             </py:if>
         -->
+    </div>
     </body>
 </html>

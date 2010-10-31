@@ -14,7 +14,8 @@
         <link rel="start" href="${top}" />
     </head>
     <body>
-        <div class="header">
+    <div id="wrap">
+        <div id="header">
             <h1><a href="${top}">Frederik und Moritz Blog</a></h1>
 	    <p class="claim">väterliche Betrachtungen</p>
             <ul py:def="navigation(node)" class="nav">
@@ -32,6 +33,7 @@
             </ul>
             ${navigation(c)}
         </div>
+	<div id="main">
         <div class="article">
             <ul py:if="c.children">
                 <li py:for="day in c.children">
@@ -39,9 +41,35 @@
                 </li>
             </ul>
         </div>
-        <div class="footer">
+	</div>
+	<div id="sidebar">
+	  <h2>Navigation</h2>
+	  <ul>
+	    <li><a href="${top}">Blog-Ursprung</a></li>
+	    <li><a href="http://fnanp.in-ulm.de/frederik_und_moritz/photos/">Photo-Seite</a></li>
+	  </ul>
+	  <hr />
+	  <h2>Externe Links</h2>
+	  <ul>
+	    <li><a href="http://blog.wired.com/geekdad/">Geekdad Blog</a></li>
+	    <li><a href="http://www.babylonia.be/">Babylonia Tragetücher</a></li>
+	  </ul>
+	  <hr />
+	  <h2>Feed</h2>
+	  <ul>
+	    <li><a href="${top}atom.xml">ATOM</a></li>
+	  </ul>
+	  <hr />
+	  <h2>Contact</h2>
+	  <ul>
+	    <li><a href="mailto:mhellwig@in-ulm.de">Mail</a></li>
+	  </ul>
+	  <hr />
+
+	</div>
+        <div id="footer">
             ${navigation(c)}
-	    <p class="claim"><a href="mailto:mhellwig@in-ulm.de">Kontakt</a></p>
         </div>
+    </div>
     </body>
 </html>

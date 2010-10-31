@@ -14,7 +14,8 @@
         <link rel="start" href="../../../">
     </head>
     <body>
-        <div class="header">
+    <div id="wrap">
+        <div id="header">
             <h1><a href="../../../">Frederik und Moritz Blog</a></h1>
  	    <p class="claim">väterliche Betrachtungen</p>
             <ul class="nav">
@@ -31,11 +32,13 @@
                 </li>
             </ul>
         </div>
+	<div id="main">
         <div class="article">
             <h2 class="title">bilder.</h2>
             <div class="info">
-                Donnerstag, 28. Oktober 2010, Themen:
+                Donnerstag, 28. Oktober 2010,
                 <ul class="tags">
+		    <li>Tags:</li>
                     <li>
                         <a href="../../../tags/fotos.html">fotos</a>,
                     </li><li>
@@ -49,7 +52,32 @@
 dorthin zu gelangen, die neuen sind im "Oktober 2010"-Ordner.</p>
 <p><a href="http://fnanp.in-ulm.de/frederik_und_moritz/photos/index.html"><img alt="Vorschaubild" src="http://fnanp.in-ulm.de/frederik_und_moritz/photos/2010_10/tempdir/640x480/IMG_7276.jpg"></a></p>
         </div>
-        <div class="footer">
+	</div>
+	<div id="sidebar">
+	  <h2>Navigation</h2>
+	  <ul>
+	    <li><a href="../../../">Blog-Ursprung</a></li>
+	    <li><a href="http://fnanp.in-ulm.de/frederik_und_moritz/photos/">Photo-Seite</a></li>
+	  </ul>
+	  <hr>
+	  <h2>Externe Links</h2>
+	  <ul>
+	    <li><a href="http://blog.wired.com/geekdad/">Geekdad Blog</a></li>
+	    <li><a href="http://www.babylonia.be/">Babylonia Tragetücher</a></li>
+	  </ul>
+	  <hr>
+	  <h2>Feed</h2>
+	  <ul>
+	    <li><a href="../../../atom.xml">ATOM</a></li>
+	  </ul>
+	  <hr>
+	  <h2>Contact</h2>
+	  <ul>
+	    <li><a href="mailto:mhellwig@in-ulm.de">Mail</a></li>
+	  </ul>
+	  <hr>
+	</div>
+        <div id="footer">
             <ul class="nav">
                 <li class="prev">
                     <a href="../../../2010/10/25/01-zitate.html">zitate.</a>
@@ -63,7 +91,6 @@ dorthin zu gelangen, die neuen sind im "Oktober 2010"-Ordner.</p>
                     <a href="../../../2010/10/28/">28</a>
                 </li>
             </ul>
-	    <p class="claim"><a href="mailto:mhellwig@in-ulm.de">Kontakt</a></p>
        </div>
         <!-- for the disqus commenting system
             <py:if test="article.comments">
@@ -83,5 +110,6 @@ dorthin zu gelangen, die neuen sind im "Oktober 2010"-Ordner.</p>
                     </script>
             </py:if>
         -->
+    </div>
     </body>
 </html>

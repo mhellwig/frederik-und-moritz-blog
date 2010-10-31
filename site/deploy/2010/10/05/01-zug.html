@@ -14,7 +14,8 @@
         <link rel="start" href="../../../">
     </head>
     <body>
-        <div class="header">
+    <div id="wrap">
+        <div id="header">
             <h1><a href="../../../">Frederik und Moritz Blog</a></h1>
  	    <p class="claim">väterliche Betrachtungen</p>
             <ul class="nav">
@@ -31,11 +32,13 @@
                 </li>
             </ul>
         </div>
+	<div id="main">
         <div class="article">
             <h2 class="title">zug</h2>
             <div class="info">
-                Dienstag, 05. Oktober 2010, Themen:
+                Dienstag, 05. Oktober 2010,
                 <ul class="tags">
+		    <li>Tags:</li>
                     <li>
                         <a href="../../../tags/fotos.html">fotos</a>,
                     </li><li>
@@ -51,7 +54,32 @@ Aufenthalt dort, mit dem ich unsere schöne Bahnstrecke dokumentiert habe.</p>
 <p><strong>UPDATE</strong></p>
 <p>ich hab das Bild mal noch auf eine etwas zivilere Größe eingedampft.</p>
         </div>
-        <div class="footer">
+	</div>
+	<div id="sidebar">
+	  <h2>Navigation</h2>
+	  <ul>
+	    <li><a href="../../../">Blog-Ursprung</a></li>
+	    <li><a href="http://fnanp.in-ulm.de/frederik_und_moritz/photos/">Photo-Seite</a></li>
+	  </ul>
+	  <hr>
+	  <h2>Externe Links</h2>
+	  <ul>
+	    <li><a href="http://blog.wired.com/geekdad/">Geekdad Blog</a></li>
+	    <li><a href="http://www.babylonia.be/">Babylonia Tragetücher</a></li>
+	  </ul>
+	  <hr>
+	  <h2>Feed</h2>
+	  <ul>
+	    <li><a href="../../../atom.xml">ATOM</a></li>
+	  </ul>
+	  <hr>
+	  <h2>Contact</h2>
+	  <ul>
+	    <li><a href="mailto:mhellwig@in-ulm.de">Mail</a></li>
+	  </ul>
+	  <hr>
+	</div>
+        <div id="footer">
             <ul class="nav">
                 <li class="prev">
                     <a href="../../../2010/10/02/02-reden.html">reden.</a>
@@ -65,7 +93,6 @@ Aufenthalt dort, mit dem ich unsere schöne Bahnstrecke dokumentiert habe.</p>
                     <a href="../../../2010/10/05/">05</a>
                 </li>
             </ul>
-	    <p class="claim"><a href="mailto:mhellwig@in-ulm.de">Kontakt</a></p>
        </div>
         <!-- for the disqus commenting system
             <py:if test="article.comments">
@@ -85,5 +112,6 @@ Aufenthalt dort, mit dem ich unsere schöne Bahnstrecke dokumentiert habe.</p>
                     </script>
             </py:if>
         -->
+    </div>
     </body>
 </html>
