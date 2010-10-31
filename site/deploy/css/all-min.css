@@ -46,9 +46,9 @@ h2 {
 	font:100% Bitstream Vera Sans, Verdana, Arial, sans-serif;
 }
 
-#main .title  a{
+#main .title {
 	color:#36648B;
-	font:100% Terminus, Bitstream Vera Sans Mono, Lucida Console, Courier, monospace;
+	font:160% Terminus, Bitstream Vera Sans Mono, Lucida Console, Courier, monospace;
 }
 
 #main a{
@@ -69,6 +69,11 @@ h2 {
 #main .article {
 	font:100% Bitstream Vera Sans, Verdana, Arial, sans-serif;
 	text-align:justify;
+}
+
+#main blockquote {
+	color:#36648B;
+	background:#DDD;
 }
 
 #sidebar {
