@@ -134,25 +134,3 @@ ul.nav li.up {
 	color:#FFF;
 }
 
-#header ul.nav {
-	margin:0 0 1em 0;
-}
-#header ul.nav li {
-	list-style:none;
-	color:#FFF;
-	font:90% Terminus,Bitstream Vera Sans Mono, Lucida Console, Courier, monospace;
-}
-#header ul.nav li.prev {
-	float:left;
-	color:#FFF;
-}
-#header ul.nav li.next {
-	float:right;
-	text-align:right;
-	color:#FFF;
-}
-#header ul.nav li.up {
-	float:center;
-	text-align:center;
-	color:#FFF;
-}
