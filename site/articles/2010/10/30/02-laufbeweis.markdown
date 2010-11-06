@@ -1,7 +1,7 @@
 Title     : laufbeweis.
 Author    : michael
 Created   : 2010-10-30T17:31:18
-Tags      : moritz, fortbewegung
+Tags      : moritz, fortbewegung, video
 Comments  : Off
 Trackback : Off
 TagURI    : tag:fnanp.in-ulm.de,2010-10-30:2010/10/30/laufbeweis

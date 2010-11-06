@@ -4,8 +4,23 @@
     <id>http://example.com/</id>
     <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe" type="text/html"/>
     <link rel="self" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/atom.xml" type="application/atom+xml"/>
-    <updated>2010-11-04T11:19:18Z</updated>
+    <updated>2010-11-06T19:13:08Z</updated>
     <entry>
+        <title>zug.</title>
+        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2010/11/06/01-zug.html" type="text/html"/>
+        <id>tag:fnanp.in-ulm.de,2010-11-06:2010/11/06/zug</id>
+        <updated>2010-11-06T19:12:47Z</updated>
+        <published>2010-11-06T19:08:31Z</published>
+        <category term="frederik"/><category term="fotos"/>
+        <author>
+            <name>michael</name>
+        </author>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Wir sind derzeit grad bei meinen Eltern in Innsbruck, und Frederik hat
+eigentlich dauerhaft genau einen Wunsch: "Opa, ich will mit dir Eisenbahn
+spielen!"</p>
+<p>Das ist die Strecke, die die beiden aufgebaut haben:</p>
+<p><a href="2010/11/06/IMG_7281.JPG"><img alt="Zug" src="2010/11/06/zug.jpg"/></a></p></div></content>
+    </entry><entry>
         <title>bobbycar2.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2010/11/04/01-bobbycar2.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2010-11-04:2010/11/04/bobbycar2</id>
@@ -146,9 +161,9 @@ Info-Navigations-Dings hingetan. Hoffe es gefällt.</p></div></content>
         <title>laufbeweis.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2010/10/30/02-laufbeweis.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2010-10-30:2010/10/30/laufbeweis</id>
-        <updated>2010-10-30T17:33:28Z</updated>
+        <updated>2010-11-06T18:27:04Z</updated>
         <published>2010-10-30T17:31:18Z</published>
-        <category term="moritz"/><category term="fortbewegung"/>
+        <category term="moritz"/><category term="fortbewegung"/><category term="video"/>
         <author>
             <name>michael</name>
         </author>
