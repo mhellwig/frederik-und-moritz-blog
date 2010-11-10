@@ -4,8 +4,42 @@
     <id>http://example.com/</id>
     <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe" type="text/html"/>
     <link rel="self" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/atom.xml" type="application/atom+xml"/>
-    <updated>2010-11-06T19:13:08Z</updated>
+    <updated>2010-11-10T21:21:02Z</updated>
     <entry>
+        <title>puppentheater.</title>
+        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2010/11/10/01-puppentheater.html" type="text/html"/>
+        <id>tag:fnanp.in-ulm.de,2010-11-10:2010/11/10/puppentheater</id>
+        <updated>2010-11-10T21:21:03Z</updated>
+        <published>2010-11-10T21:20:55Z</published>
+        <category term="frederik"/><category term="elternbetrachtungen"/><category term="produkt"/>
+        <author>
+            <name>michael</name>
+        </author>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Neulich war ich mit Frederik (eigentlich sollte Susanne mit ihm gehn, es hat
+sich dann aber anders ergeben) in Neu-Ulm im Puppentheater
+<a href="http://www.topolino-figurentheater.de/">Topolino</a>, wo wir uns das Stück
+"Freunde" angeschaut haben (ein Dank hier an Denise, die die Idee hatte und
+auch die Karten organisiert hat undsoweiter).</p>
+<p>Zuerst mal ist zu sagen, dass sowohl das Stück als auch die Aufführung sehr
+nett gemacht sind und dass es Frederik (und den anderen anwesenden Kindern)
+sehr gut gefallen zu haben scheint.</p>
+<p>Was ich selber daran faszinierend fand: Wenn man naiv über ein Puppentheater
+nachdenkt, dann denkt man sich halt dass entweder immer ein Operateur je eine
+Puppe bedient, oder, wenn die Kontrollmöglichkeiten kleiner sind, vielleicht
+jeder je zwei oder so.</p>
+<p>Das ist aber mitnichten der Fall.</p>
+<p>Hier sind zwei Personen am Werk, die gemeinsam drei Puppen bedienen. Dabei
+läuft das meistens so ab, dass jeder eine Puppe fix bedient, die dritte Puppe
+wird von beiden gemeinsam und/oder abwechselnd bedient. Wobei die
+Sprech-Rollen nicht notwendigerweise mit den Bediener-Rollen zusammefallen.
+I.e. die Frau hat sowohl die Maus als auch das Schwein gesprochen, der Mann
+nur den Hahn, wobei aber immer wieder der Mann auch das Schwein bedient hat,
+teilweise aber auch die Frau das Schwein bedient hat, manchmal aber auch beide
+einen Teil des Schweins bedient haben (der Mann hat immer den Hahn bedient und
+die Frau immer die Maus, wenn ich mich recht erinnere).</p>
+<p>Jedenfalls ist das von der dahinterstehenden Planungs- und
+Koordinationsleistung durchaus komplexer als man sich das naiv so vorstellt.</p></div></content>
+    </entry><entry>
         <title>zug.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2010/11/06/01-zug.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2010-11-06:2010/11/06/zug</id>
