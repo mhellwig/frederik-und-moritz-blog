@@ -4,8 +4,22 @@
     <id>http://example.com/</id>
     <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe" type="text/html"/>
     <link rel="self" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/atom.xml" type="application/atom+xml"/>
-    <updated>2010-11-14T18:07:45Z</updated>
+    <updated>2010-11-27T12:34:13Z</updated>
     <entry>
+        <title>bobbycar2.</title>
+        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2010/11/27/01-bobbycar2.html" type="text/html"/>
+        <id>tag:fnanp.in-ulm.de,2010-11-27:2010/11/27/bobbycar2</id>
+        <updated>2010-11-27T12:34:13Z</updated>
+        <published>2010-11-27T12:33:56Z</published>
+        <category term="produkt"/>
+        <author>
+            <name>michael</name>
+        </author>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Kleiner Nachtrag:</p>
+<p>Das <a href="http://www.big.de/de/produkte/big-bobby-car-family/rutscher_1/details.shtml?sArtNr=800056200">New Bobby Car von
+BIG</a>
+hat auch das Problem mit den sich lösenden Aufklebern ..</p></div></content>
+    </entry><entry>
         <title>martin.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2010/11/14/01-martin.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2010-11-14:2010/11/14/martin</id>
