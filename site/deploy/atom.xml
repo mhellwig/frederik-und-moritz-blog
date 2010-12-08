@@ -4,8 +4,27 @@
     <id>http://example.com/</id>
     <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe" type="text/html"/>
     <link rel="self" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/atom.xml" type="application/atom+xml"/>
-    <updated>2010-12-05T13:55:19Z</updated>
+    <updated>2010-12-09T00:15:39Z</updated>
     <entry>
+        <title>moritzworte.</title>
+        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2010/12/09/01-moritzworte.html" type="text/html"/>
+        <id>tag:fnanp.in-ulm.de,2010-12-09:2010/12/09/moritzworte</id>
+        <updated>2010-12-09T00:15:36Z</updated>
+        <published>2010-12-09T00:14:36Z</published>
+        <category term="moritz"/><category term="sprache"/>
+        <author>
+            <name>michael</name>
+        </author>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Folgende Wörter gibt Moritz nun plötzlich von sich</p>
+<ul>
+<li>"Uuh!" <em>zeigt auf Schuhe</em></li>
+<li>"Papa!" (darüber freu ich mich besonders, ich heiss jetzt nicht mehr "Mama")</li>
+<li>"das", wahlweise "das da" <em>zeigt auf etwas, das er haben will</em></li>
+</ul>
+<p>ausserdem nickt er mit dem Kopf oder schüttelt ihn für "ja" oder "nein".</p>
+<p>Ich bild mir grad ein dass da noch mehr waren aber sie fallen mir nicht ein ..
+wenn mein Hirn wieder funktioniert füg ich also vielleicht noch was hinzu.</p></div></content>
+    </entry><entry>
         <title>monster.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2010/12/05/02-monster.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2010-12-05:2010/12/05/monster</id>
@@ -735,64 +754,5 @@ ernst genommen (wenn das anders wäre wärs anders. schöner Satz.)</p>
 <p>Und zum Abschluss noch ein "währenddessen"-Bild von Frederik, wie er im
 Krankenhaus ausgesehen hat. Da war das Aug schon wieder ein bissl offen.</p>
 <p><img alt="auge" src="2010/09/23/aug2.jpg"/></p></div></content>
-    </entry><entry>
-        <title>bildtest.</title>
-        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2010/09/22/02-bild_test.html" type="text/html"/>
-        <id>tag:fnanp.in-ulm.de,2010-09-22:2010/09/22/02-bild_test</id>
-        <updated>2010-11-29T00:09:32Z</updated>
-        <published>2010-09-22T22:26:41Z</published>
-        <category term="administrativa"/><category term="frederik"/><category term="fotos"/>
-        <author>
-            <name>michael</name>
-        </author>
-        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>so, und jetz versuch ich mal wie das mit dem Bilder einbinden. Das hier jetzt
-gezeigte ist ein mit Susannes Handy aufgenommenes Bild von Frederiks Auge, am
-Tag bevor wir deswegen ins Krankenhaus sind. I.e. da wars schon komisch, aber
-noch nicht so wirklich zugeschwollen. Susanne hatte mir das geschickt, damit
-ich mir auch eine Meinung bilden kann drüber, ob das schlimm is oder nicht.</p>
-<p><img alt="Augenfoto" src="2010/09/22/aug.jpg"/></p>
-<p>Hinweis: mehr Bilder vom Aug kommen später, wenn ich insgesamt ein Foto-Update
-mache.</p></div></content>
-    </entry><entry>
-        <title>neu.</title>
-        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2010/09/22/01-erster_eintrag.html" type="text/html"/>
-        <id>tag:fnanp.in-ulm.de,2010-09-22:2010/09/22/01-erster_eintrag</id>
-        <updated>2010-11-29T00:09:32Z</updated>
-        <published>2010-09-22T21:31:34Z</published>
-        <category term="administrativa"/>
-        <author>
-            <name>michael</name>
-        </author>
-        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Hallo erstmal.</p>
-<p>Das hier ist das neue Frederik und Moritz Blog.</p>
-<p>Es sieht noch ziemlich mistig aus, aber das wird sich noch ändern (i.e.
-vorerst steht mal nur das logische Gerüst der Seiten, das Aussehen kommt erst
-noch).</p>
-<p>Alle alten Blogpostings sind noch vorhanden, nämlich dort wo das alte blog
-noch immer ist und halt nicht mehr upgedatet wird. Das ist
-<a href="http://fnanp.in-ulm.de/frederik/nanoblog/index.html">hier</a>.</p>
-<p>Wer das alte Blog als feed abonniert hatte (im Mail-Programm zum Beispiel)
-kann das jetzt wieder tun und zwar mit <a href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/atom.xml">diesem
-Link</a> (den tu ich
-dann auch noch in den Balken auf der Seite, sobald der existieren wird).</p>
-<p><em>Hinweis</em>: ab hier uninteressant für nicht technisch-Interessierte</p>
-<p>Ich hab also das System, das das Blog erstellt, gewechselt. Warum?</p>
-<p>Ja mei.</p>
-<p><a href="http://nanoblogger.sourceforge.net/">nanoblogger</a> hat zwar lange gute Dienste
-geleistet und ein schönes Blog erzeugt, auf der andern seite ist er halt
-schnarchlahm beim erstellen der Webseiten. Also das geht so weit, dass ich
-nach dem Schreiben eines Eintrags gute 2-3 Minuten warten muss, bis die Seite
-fertig erzeugt ist. Wenn man bedenkt, dass man das dann danach nochmal
-durchliest und sich uU denkt, man will was ändern, dann ist das einfach
-lästig.</p>
-<p>Derzeit versuch ichs alternativ mit
-<a href="http://www.holgerfrey.de/tags/sbe.html">sbe</a>, einer in
-<a href="http://www.python.org/">Python</a> programmierten engine, nachdem ich diverse in
-<a href="http://ruby-lang.org/">Ruby</a> geschrieben ausprobiert und verworfen hatte (was
-nicht an der Sprache liegt, das feature-set hat mir nur einfach nicht ganz
-genau gepasst).</p>
-<p>So, und jetzt versuch ich das mal zu rendern.</p>
-<p>Text ist btw in <a href="http://daringfireball.net/projects/markdown/">markdown</a>
-geschrieben, was ich ganz fein find.</p></div></content>
     </entry>
 </feed>
