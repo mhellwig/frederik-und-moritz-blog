@@ -4,8 +4,29 @@
     <id>http://example.com/</id>
     <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe" type="text/html"/>
     <link rel="self" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/atom.xml" type="application/atom+xml"/>
-    <updated>2010-12-11T20:21:39Z</updated>
+    <updated>2010-12-13T11:21:55Z</updated>
     <entry>
+        <title>frisur.</title>
+        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2010/12/13/01-frisur.html" type="text/html"/>
+        <id>tag:fnanp.in-ulm.de,2010-12-13:2010/12/13/frisur</id>
+        <updated>2010-12-13T11:21:55Z</updated>
+        <published>2010-12-13T11:21:49Z</published>
+        <category term="moritz"/>
+        <author>
+            <name>michael</name>
+        </author>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Wir haben Moritz gestern zum ersten mal die Haare geschnitten. Also nicht
+vollständig, nur mal schnell die Stirnfransen gekürzt, aber das war leider
+überfällig weil ihm die inzwischen in die Augen hingen. Und nachdem die Augen
+immer wieder wg Erkältung latent entzündet waren wars sicher besser da eine
+Quelle für Reizung zu reduzieren.</p>
+<p>Also einen Kamm hingehalten und mit der Schere rübergeschnitten ..</p>
+<p>Leider hab ich mich dabei um ein oder zwei Zentimeter verschätzt und er sieht
+jetzt ein bissl doof aus, weil ich zu weit oben abgeschnitten hab .. irgendwie
+Mönch-mäßig (wenn auch die Tonsur fehlt).</p>
+<p>Naja gottseidank wachsen die wieder schnell nach und er selber merkts ja
+nicht.</p></div></content>
+    </entry><entry>
         <title>saft.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2010/12/11/03-saft.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2010-12-11:2010/12/11/saft</id>
@@ -650,17 +671,5 @@ fand das ganz toll und super.</p>
 <p><strong>UPDATE</strong>
 Korrektur: nicht 2-3 Schritte sondern mindestens 6-7, erinnert mich Susanne
 grade.</p></div></content>
-    </entry><entry>
-        <title>zahn.</title>
-        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2010/09/30/01-zahn.html" type="text/html"/>
-        <id>tag:fnanp.in-ulm.de,2010-09-30:2010/09/30/zahn</id>
-        <updated>2010-11-29T00:09:32Z</updated>
-        <published>2010-09-30T10:28:28Z</published>
-        <category term="moritz"/><category term="nahrung"/>
-        <author>
-            <name>michael</name>
-        </author>
-        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Seit gestern hat Moritz definitv seinen zweiten Zahn! Das wäre also der
-29.9.2010, an dem wir den gespürt/gesehen haben.</p></div></content>
     </entry>
 </feed>
