@@ -4,8 +4,22 @@
     <id>http://example.com/</id>
     <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe" type="text/html"/>
     <link rel="self" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/atom.xml" type="application/atom+xml"/>
-    <updated>2010-12-13T11:21:55Z</updated>
+    <updated>2010-12-14T12:39:02Z</updated>
     <entry>
+        <title>bilder.</title>
+        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2010/12/14/01-bilder.html" type="text/html"/>
+        <id>tag:fnanp.in-ulm.de,2010-12-14:2010/12/14/bilder</id>
+        <updated>2010-12-14T12:39:00Z</updated>
+        <published>2010-12-14T12:36:18Z</published>
+        <category term="frederik"/><category term="moritz"/><category term="fotos"/>
+        <author>
+            <name>michael</name>
+        </author>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Es ist mal wieder Zeit für neue Photos. Ausserdem war Nikolaus. Also hier aufs
+Bild klicken oder rechts auf den "Photo-Seite"-link:</p>
+<p><a href="http://fnanp.in-ulm.de/frederik_und_moritz/photos/"><img alt="Nikolausi!" src="http://fnanp.in-ulm.de/frederik_und_moritz/photos/2010_12/tempdir/640x480/IMG_7307.jpg"/></a></p>
+<p>(neue Bilder befinden sich im Oktober (die 3 letzten), November und Dezember)</p></div></content>
+    </entry><entry>
         <title>frisur.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2010/12/13/01-frisur.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2010-12-13:2010/12/13/frisur</id>
