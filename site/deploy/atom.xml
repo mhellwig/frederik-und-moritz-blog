@@ -4,8 +4,25 @@
     <id>http://example.com/</id>
     <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe" type="text/html"/>
     <link rel="self" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/atom.xml" type="application/atom+xml"/>
-    <updated>2010-12-14T12:39:02Z</updated>
+    <updated>2010-12-17T13:54:46Z</updated>
     <entry>
+        <title>fernsehkoch.</title>
+        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2010/12/17/01-fernsehkoch.html" type="text/html"/>
+        <id>tag:fnanp.in-ulm.de,2010-12-17:2010/12/17/fernsehkoch</id>
+        <updated>2010-12-17T13:54:46Z</updated>
+        <published>2010-12-17T13:54:40Z</published>
+        <category term="frederik"/><category term="sprache"/>
+        <author>
+            <name>michael</name>
+        </author>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Frederik wird offensichtlich mal Fernsehkoch. Dialog grade eben:</p>
+<blockquote>
+<p>Frederik - spielst du noch mit mir Autos?<br/>
+Susanne - OK, das können wir schon machen.<br/>
+Frederik - Ich hab sie schon mal vorbereitet <em>deutet auf Autos</em><br/>
+</p>
+</blockquote></div></content>
+    </entry><entry>
         <title>bilder.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2010/12/14/01-bilder.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2010-12-14:2010/12/14/bilder</id>
@@ -634,56 +651,5 @@ dabei um ein Bild aus dem Spielzimmer in der Kinderklinik, von Frederiks
 Aufenthalt dort, mit dem ich unsere schöne Bahnstrecke dokumentiert habe.</p>
 <p><strong>UPDATE</strong></p>
 <p>ich hab das Bild mal noch auf eine etwas zivilere Größe eingedampft.</p></div></content>
-    </entry><entry>
-        <title>reden.</title>
-        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2010/10/02/02-reden.html" type="text/html"/>
-        <id>tag:fnanp.in-ulm.de,2010-10-02:2010/10/02/reden</id>
-        <updated>2010-11-29T00:09:32Z</updated>
-        <published>2010-10-02T18:52:20Z</published>
-        <category term="frederik"/><category term="moritz"/><category term="sprache"/>
-        <author>
-            <name>michael</name>
-        </author>
-        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Frederik war ja eigentlich bis .. Ende August und davor <em>immer</em> ein sehr
-ruhiges Kind, das wenig (oft zu wenig) geredet hat. Besonders ist das
-aufgefallen bei so Dingen wie den ärztlichen Untersuchungen, wo uA der
-Entwicklungsstand festgestellt werden soll, wo er kein Wort gesagt hat.
-Nur bös geschaut. Auf jede Frage noch mehr. Am Ende hat er, gottseidank noch
-während der Arzt im Raum war, zu mir gesagt "ich hab den Mund gar nicht
-aufgemacht!" Na war immerhin das geklärt.</p>
-<p>Ja und jetzt, seit er im Kindergarten ist, hört er plötzlich überhaupt nicht
-mehr auf mit reden. Die <em>ganze</em> Zeit. Wobei er sehr hartnäckig ist, man muss
-jeden Satz mit "ja" oder ähnlich quittieren, und solang man das nicht tut
-wiederholt er ihn einfach immer wieder. Also quasi wie ein Netzwerk-Protokoll
-(die funktionieren oft ähnlich).</p>
-<p>Teilweise erzählt er da auch völligen Stuss, was ihm selber auch bewusst ist.
-Letzte Woche hat er jeden Tag behauptet, er hätte im Kindergarten "Pommes"
-gegessen. Wir haben nicht angenommen, dass das stimmt, aber ganz sicher
-konnten wir uns sein als er eines morgens während dem hinbringen verkündete
-"nachher werd ich sagen, ich hab Pommes gegessen". Ah. Na gut.</p>
-<p>Moritz hat auch relativ plötzlich angefangen, unterschiedlichere Laute von
-sich zu geben als das bis jetzt der Fall war, so zB eben sein Versuch
-"Kastanie" zu sagen und so. </p></div></content>
-    </entry><entry>
-        <title>gehen. [update]</title>
-        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2010/10/02/01-gehen.html" type="text/html"/>
-        <id>tag:fnanp.in-ulm.de,2010-10-02:2010/10/02/gehen</id>
-        <updated>2010-11-29T00:09:32Z</updated>
-        <published>2010-10-02T18:03:31Z</published>
-        <category term="moritz"/><category term="fortbewegung"/>
-        <author>
-            <name>michael</name>
-        </author>
-        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Gestern (am 01.10.2010) hab ich selber definitiv gesehn, dass Moritz 2-3
-Schritte weit gegangen ist, und zwar absichtlich. Direkt von Susannes Armen
-in meine gestolpert!</p>
-<p>Er hat das leicht seitlich getan, weil er mit einer Hand noch Susannes Hand
-festgehalten hat (wodurch sich die andre Seite weiter vor bewegt hat als die
-festhaltende) und dann in der Körperhaltung vorwärts getappst ist. Er selber
-fand das ganz toll und super.</p>
-<p>Wir natürlich auch.</p>
-<p><strong>UPDATE</strong>
-Korrektur: nicht 2-3 Schritte sondern mindestens 6-7, erinnert mich Susanne
-grade.</p></div></content>
     </entry>
 </feed>
