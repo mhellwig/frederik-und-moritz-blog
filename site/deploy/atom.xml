@@ -4,8 +4,24 @@
     <id>http://example.com/</id>
     <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe" type="text/html"/>
     <link rel="self" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/atom.xml" type="application/atom+xml"/>
-    <updated>2010-12-17T13:54:46Z</updated>
+    <updated>2010-12-18T16:26:15Z</updated>
     <entry>
+        <title>vo.</title>
+        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2010/12/18/01-vo.html" type="text/html"/>
+        <id>tag:fnanp.in-ulm.de,2010-12-18:2010/12/18/vo</id>
+        <updated>2010-12-18T16:26:15Z</updated>
+        <published>2010-12-18T16:26:09Z</published>
+        <category term="frederik"/><category term="sprache"/>
+        <author>
+            <name>michael</name>
+        </author>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Ein Wort wollte ich mal erwähnen, das Frederik sehr gerne benutzt, das ist
+nämlich irgendwie eine Mischung aus "abgeknickt" und "verbogen" oder so.
+Jedenfalls scheint er zu glauben, dass es ein Wort gibt, das "verknickt"
+heisst. Nur dass er das "ver" nicht als "ver" ausspricht sondern als "vo".</p>
+<p>Herauskommt dabei also "vokniggt". Oder so ähnlich. Schriftliches Darstellen
+von Aussprache ist ja nicht ganz einfach ..</p></div></content>
+    </entry><entry>
         <title>fernsehkoch.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2010/12/17/01-fernsehkoch.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2010-12-17:2010/12/17/fernsehkoch</id>
@@ -634,22 +650,5 @@ Frederik - ah.<br/>
 so, dieser Eintrag wurde jetzt ungefähr viermal geändert, bevor er korrekt
 war. Das mit dem schönen Wiedergeben von Dialogen musste ich erst rausfinden,
 wie's gscheit aussieht. Entschuldigung für die Unannehmlichkeiten ..</p></div></content>
-    </entry><entry>
-        <title>zug</title>
-        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2010/10/05/01-zug.html" type="text/html"/>
-        <id>tag:fnanp.in-ulm.de,2010-10-05:2010/10/05/zug</id>
-        <updated>2010-11-29T00:09:32Z</updated>
-        <published>2010-10-05T15:48:47Z</published>
-        <category term="fotos"/><category term="frederik"/>
-        <author>
-            <name>michael</name>
-        </author>
-        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p><img alt="zug" src="2010/10/05/Image0142.jpg"/></p>
-<p><strong>UPDATE</strong></p>
-<p>das war ein Versuch, ein Foto vom Handy aus zu posten. Es handelt sich
-dabei um ein Bild aus dem Spielzimmer in der Kinderklinik, von Frederiks
-Aufenthalt dort, mit dem ich unsere schöne Bahnstrecke dokumentiert habe.</p>
-<p><strong>UPDATE</strong></p>
-<p>ich hab das Bild mal noch auf eine etwas zivilere Größe eingedampft.</p></div></content>
     </entry>
 </feed>
