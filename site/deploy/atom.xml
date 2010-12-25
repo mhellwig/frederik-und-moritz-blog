@@ -4,8 +4,23 @@
     <id>http://example.com/</id>
     <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe" type="text/html"/>
     <link rel="self" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/atom.xml" type="application/atom+xml"/>
-    <updated>2010-12-18T16:26:15Z</updated>
+    <updated>2010-12-25T15:00:03Z</updated>
     <entry>
+        <title>weihnachten.</title>
+        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2010/12/25/01-weihnachten.html" type="text/html"/>
+        <id>tag:fnanp.in-ulm.de,2010-12-25:2010/12/25/weihnachten</id>
+        <updated>2010-12-25T15:00:00Z</updated>
+        <published>2010-12-25T14:48:28Z</published>
+        <category term="frederik"/><category term="moritz"/><category term="fotos"/>
+        <author>
+            <name>michael</name>
+        </author>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Damit hier auch mal was halbwegs aktuell passiert und nicht Monate später erst
+online geht, hier die Weihnachtsbilder (i.e. von gestern) und ein paar von
+noch davor:</p>
+<p><a href="http://fnanp.in-ulm.de/frederik_und_moritz/photos/2010_12/index.html"><img alt="Weihnachtsfotos" src="http://fnanp.in-ulm.de/frederik_und_moritz/photos/2010_12/tempdir/640x480/IMG_7344.jpg"/></a></p>
+<p>(einfach aufs Bild klicken oder rechts im Menü auf den Photo-Link)</p></div></content>
+    </entry><entry>
         <title>vo.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2010/12/18/01-vo.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2010-12-18:2010/12/18/vo</id>
@@ -619,36 +634,5 @@ lässt dann das Geländer los (Arme in die Höhe). Grinsend.</p>
 <p>was ich noch erläutern sollte, das "bumm!" das man im Video hören kann ist
 Moritz' Reaktion auf so ziemlich alle Unfälle, die nicht zu Weinen führen,
 i.e. seiner Meinung nach nicht so schlimm sind.</p></div></content>
-    </entry><entry>
-        <title>dialog.</title>
-        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2010/10/12/01-dialog.html" type="text/html"/>
-        <id>tag:fnanp.in-ulm.de,2010-10-12:2010/10/12/dialog</id>
-        <updated>2010-11-29T00:09:32Z</updated>
-        <published>2010-10-12T15:12:40Z</published>
-        <category term="frederik"/><category term="sprache"/>
-        <author>
-            <name>michael</name>
-        </author>
-        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Gestern abends waren Frederik und ich noch unterwegs (er auf dem Laufrad, ich
-zu Fuß), um ihm Winterschuhe zu kaufen. Das wäre halbwegs schnell gegangen,
-wenn er nicht alle 5-10 Meter stehen bleiben würde, um irgendwas anzuschauen
-und zu kommentieren, und auf dem Rückweg musste ich ihn dann eh tragen (und
-das Laufrad und die neuen Schuhe .. juhu!).</p>
-<p>Jedenfalls relativ am Anfang unseres Weges trug sich folgende Begebenheit zu
-(wir gingen grade am Gerichtsgebäude vorbei):</p>
-<blockquote>
-<p>Frederik - ist das eine Kirche?<br/>
-ich - nein.<br/>
-Frederik - ist das eine Ritterburg?<br/>
-ich - nein.<br/>
-Frederik - was ist das?<br/>
-ich - ein Gericht.<br/>
-Frederik - ah.<br/>
-</p>
-</blockquote>
-<p><strong>UPDATE</strong><br/>
-so, dieser Eintrag wurde jetzt ungefähr viermal geändert, bevor er korrekt
-war. Das mit dem schönen Wiedergeben von Dialogen musste ich erst rausfinden,
-wie's gscheit aussieht. Entschuldigung für die Unannehmlichkeiten ..</p></div></content>
     </entry>
 </feed>
