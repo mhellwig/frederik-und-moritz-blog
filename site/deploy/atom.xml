@@ -4,8 +4,35 @@
     <id>http://example.com/</id>
     <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe" type="text/html"/>
     <link rel="self" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/atom.xml" type="application/atom+xml"/>
-    <updated>2010-12-25T15:00:03Z</updated>
+    <updated>2011-01-07T19:04:31Z</updated>
     <entry>
+        <title>photos.</title>
+        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2011/01/07/02-photos.html" type="text/html"/>
+        <id>tag:fnanp.in-ulm.de,2011-01-07:2011/01/07/photos</id>
+        <updated>2011-01-07T19:04:31Z</updated>
+        <published>2011-01-07T19:04:26Z</published>
+        <category term="frederik"/><category term="moritz"/><category term="fotos"/>
+        <author>
+            <name>michael</name>
+        </author>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Die ersten Jänner-Bilder sind auch schon online, mehrere Winterspaziergänge
+haben wir gemacht und zumindest einen davon dokumentiert:</p>
+<p><a href="http://fnanp.in-ulm.de/frederik_und_moritz/photos/2011_01/index.html"><img alt="rodel" src="http://fnanp.in-ulm.de/frederik_und_moritz/photos/2011_01/tempdir/640x480/IMG_7408.jpg"/></a></p>
+<p>(einfach aufs Bild klicken)</p></div></content>
+    </entry><entry>
+        <title>tv.</title>
+        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2011/01/07/01-tv.html" type="text/html"/>
+        <id>tag:fnanp.in-ulm.de,2011-01-07:2011/01/07/tv</id>
+        <updated>2011-01-07T18:54:21Z</updated>
+        <published>2011-01-07T18:54:15Z</published>
+        <category term="fotos"/><category term="moritz"/>
+        <author>
+            <name>michael</name>
+        </author>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Moritz in korrekter Fernseh-Haltung:</p>
+<p><img alt="fernseh-haltung" src="2011/01/07/tv.jpg"/></p>
+<p>(mit Handy aufgenommen, daher bescheidene Qualität)</p></div></content>
+    </entry><entry>
         <title>weihnachten.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2010/12/25/01-weihnachten.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2010-12-25:2010/12/25/weihnachten</id>
@@ -601,38 +628,5 @@ ich - warum denn nicht?<br/>
 Frederik - das is halt so.<br/>
 </p>
 </blockquote></div></content>
-    </entry><entry>
-        <title>laufradausflug.</title>
-        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2010/10/18/02-laufradausflug.html" type="text/html"/>
-        <id>tag:fnanp.in-ulm.de,2010-10-18:2010/10/18/laufradausflug</id>
-        <updated>2010-11-29T00:09:32Z</updated>
-        <published>2010-10-18T18:29:39Z</published>
-        <category term="fotos"/><category term="frederik"/>
-        <author>
-            <name>michael</name>
-        </author>
-        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p><img alt="laufradausflug" src="2010/10/18/Image0147.jpg"/></p>
-<p>vom Handy aus gepostet.</p></div></content>
-    </entry><entry>
-        <title>furchtlos.</title>
-        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2010/10/18/01-furchtlos.html" type="text/html"/>
-        <id>tag:fnanp.in-ulm.de,2010-10-18:2010/10/18/furchtlos</id>
-        <updated>2010-11-29T00:09:32Z</updated>
-        <published>2010-10-18T12:17:33Z</published>
-        <category term="frederik"/><category term="moritz"/><category term="fortbewegung"/><category term="video"/>
-        <author>
-            <name>michael</name>
-        </author>
-        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Hier mal noch eine kleine filmische Illustration der Tatsache, dass Moritz
-deutlich weniger Angst hat, als manchmal gut für ihn wäre. </p>
-<p><embed src="http://fnanp.in-ulm.de/flv/mediaplayer.swf" width="480" height="380" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" flashvars="file=http://fnanp.in-ulm.de/flv/rutschbahn-2010-10-17.flv&amp;image=http://fnanp.in-ulm.de/flv/rutschbahn-2010-10-17.jpg"/></p>
-<p>Zusätzlicher Bericht: Moritz übt ja derzeit freies Stehen. Er ist
-draufgekommen, dass er besonders viele Reaktionen erntet, wenn er das oben auf
-der Rutschbahn macht. I.e. er klettert da rauf, richtet sich oben auf und
-lässt dann das Geländer los (Arme in die Höhe). Grinsend.</p>
-<p><strong>UPDATE</strong></p>
-<p>was ich noch erläutern sollte, das "bumm!" das man im Video hören kann ist
-Moritz' Reaktion auf so ziemlich alle Unfälle, die nicht zu Weinen führen,
-i.e. seiner Meinung nach nicht so schlimm sind.</p></div></content>
     </entry>
 </feed>
