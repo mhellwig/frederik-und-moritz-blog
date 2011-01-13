@@ -4,8 +4,37 @@
     <id>http://example.com/</id>
     <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe" type="text/html"/>
     <link rel="self" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/atom.xml" type="application/atom+xml"/>
-    <updated>2011-01-07T19:04:31Z</updated>
+    <updated>2011-01-13T20:41:45Z</updated>
     <entry>
+        <title>witzig.</title>
+        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2011/01/13/01-witzig.html" type="text/html"/>
+        <id>tag:fnanp.in-ulm.de,2011-01-13:2011/01/13/witzig</id>
+        <updated>2011-01-13T20:41:44Z</updated>
+        <published>2011-01-13T20:39:51Z</published>
+        <category term="frederik"/><category term="sprache"/>
+        <author>
+            <name>michael</name>
+        </author>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Ich hab Frederik heut abends vorm Schlafengehn mal wieder aus einem Sachbuch
+mit dem Titel "alles über Autos" vorgelesen. Gleich auf der ersten Seite ist
+ein Autohaus abgebildet wo diverse Leute verschiedene Modelle anschaun.</p>
+<p>Frederik hat dann auf eine Abbildung (also gezeichnet, aber erkennbar) eines
+grasgrünen VW Touareg gezeigt und gesagt</p>
+<blockquote>
+<p>Frederik - ich will dass wir morgen das schwarze Auto zurückbringen und so
+eines kaufen<br/>
+ich - ah ja? warum?<br/>
+Frederik - das gefällt mir besser<br/>
+ich - aber das ist nicht so einfach<br/>
+Frederik - ja, so ein Auto kostet viel Geld.<br/>
+ich - ja genau<br/>
+Frederik - deswegen müssen wir das andere eben wieder zurückbringen<br/>
+ich - nein so einfach ist das nicht, wir haben nicht so viel Geld<br/>
+Frederik - witzig.<br/>
+</p>
+</blockquote>
+<p>aha. witzig. Na dann ...</p></div></content>
+    </entry><entry>
         <title>photos.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2011/01/07/02-photos.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2011-01-07:2011/01/07/photos</id>
@@ -595,38 +624,5 @@ wärs ganz super ..</p></div></content>
         <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Es gibt wieder neue Bilder. Wie gehabt einfach auf das Vorschaubild klicken um
 dorthin zu gelangen, die neuen sind im "Oktober 2010"-Ordner.</p>
 <p><a href="http://fnanp.in-ulm.de/frederik_und_moritz/photos/index.html"><img alt="Vorschaubild" src="http://fnanp.in-ulm.de/frederik_und_moritz/photos/2010_10/tempdir/640x480/IMG_7276.jpg"/></a></p></div></content>
-    </entry><entry>
-        <title>zitate.</title>
-        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2010/10/25/01-zitate.html" type="text/html"/>
-        <id>tag:fnanp.in-ulm.de,2010-10-25:2010/10/25/zitate</id>
-        <updated>2010-11-29T00:09:32Z</updated>
-        <published>2010-10-25T22:36:09Z</published>
-        <category term="frederik"/><category term="sprache"/>
-        <author>
-            <name>michael</name>
-        </author>
-        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Ein paar kleine Probestücke aus dem Alltag.</p>
-<p>Heute war Susanne einkaufen und hat für die zwei Burschen so kleine
-viertel-Liter Tetrapacks mit Apfelsaft gekauft, die mit den kurzen Strohhalmen
-zum bei einem mit Alufolie verschlossenen Loch reinstecken wie sie vermutlich
-die meisten von früher kennen ("Sunkist" war glaub ich eine Marke früher wo
-so verkauft wurde). Jedenfalls, wers kennt weiss auch, dass nachdem man
-kräftig am Strohhalm gesaugt hat und wieder abgesetzt hat, Luft durch den
-Strohhalm zurück in die Packung strömt und weil der Strohhalm natürlich in der
-Flüssigkeit steckt gibt das so ein gurgelnd-schlürfendes Geräusch.</p>
-<p>Frederik meinte dazu heute "Mama, der Saft ürpst!"</p>
-<hr/>
-<p>Ich hab ihn heut, wie oft ins Bett gebracht. Dabei entspannte sich folgender
-Dialog:</p>
-<blockquote>
-<p>Frederik - ich will noch was trinken<br/>
-ich - <em>reiche ihm die Flasche</em><br/>
-Frederik - nicht die Flasche, aus einem Glas!<br/>
-ich - nein, wir gehn jetzt nicht mehr in die Küche<br/>
-Frederik - ich will aber nicht ins Bett, ich will nicht schlafen!<br/>
-ich - warum denn nicht?<br/>
-Frederik - das is halt so.<br/>
-</p>
-</blockquote></div></content>
     </entry>
 </feed>
