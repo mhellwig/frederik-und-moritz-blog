@@ -4,8 +4,21 @@
     <id>http://example.com/</id>
     <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe" type="text/html"/>
     <link rel="self" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/atom.xml" type="application/atom+xml"/>
-    <updated>2011-01-23T17:01:13Z</updated>
+    <updated>2011-02-11T11:29:19Z</updated>
     <entry>
+        <title>bilder.</title>
+        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2011/02/11/01-bilder.html" type="text/html"/>
+        <id>tag:fnanp.in-ulm.de,2011-02-11:2011/02/11/bilder</id>
+        <updated>2011-02-11T11:29:16Z</updated>
+        <published>2011-02-11T11:28:26Z</published>
+        <category term="moritz"/><category term="frederik"/><category term="fotos"/>
+        <author>
+            <name>michael</name>
+        </author>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Ganz gschwind nur: es gibt zusätzliche Bilder im Januar, hab die gestern grad
+hinzugefügt. Zugriff wie gehabt, Teaser gleich hier:</p>
+<p><a href="http://fnanp.in-ulm.de/frederik_und_moritz/photos/index.html"><img alt="Moritzkorb" src="http://fnanp.in-ulm.de/frederik_und_moritz/photos/2011_01/tempdir/640x480/IMG_7465.jpg"/></a></p></div></content>
+    </entry><entry>
         <title>uuh.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2011/01/23/01-uuh.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2011-01-23:2011/01/23/uuh</id>
@@ -644,33 +657,5 @@ gelaufen!"</p></div></content>
         </author>
         <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>So, ich hab jetzt mal ein bissl schönere Farben und am rechten Rand so einen
 Info-Navigations-Dings hingetan. Hoffe es gefällt.</p></div></content>
-    </entry><entry>
-        <title>laufbeweis.</title>
-        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2010/10/30/02-laufbeweis.html" type="text/html"/>
-        <id>tag:fnanp.in-ulm.de,2010-10-30:2010/10/30/laufbeweis</id>
-        <updated>2010-11-29T00:09:32Z</updated>
-        <published>2010-10-30T17:31:18Z</published>
-        <category term="moritz"/><category term="fortbewegung"/><category term="video"/>
-        <author>
-            <name>michael</name>
-        </author>
-        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Um die Lauf-Sache noch mal genauer zu beweisen bzw ein Video nachzuliefern,
-hier eine Kurz-Dokumentation von Moritz' Fortschritten:</p>
-<p><embed src="http://fnanp.in-ulm.de/flv/mediaplayer.swf" width="480" height="380" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" flashvars="file=http://fnanp.in-ulm.de/flv/lauf-2010-10-30.flv&amp;image=http://fnanp.in-ulm.de/flv/lauf-2010-10-30.jpg"/></p></div></content>
-    </entry><entry>
-        <title>stillen.</title>
-        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2010/10/30/01-stillen.html" type="text/html"/>
-        <id>tag:fnanp.in-ulm.de,2010-10-30:2010/10/30/stillen</id>
-        <updated>2010-11-29T00:09:32Z</updated>
-        <published>2010-10-30T00:34:22Z</published>
-        <category term="moritz"/><category term="nahrung"/>
-        <author>
-            <name>michael</name>
-        </author>
-        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Nur damit das dokumentiert ist, seit ca zwei Wochen wird Moritz auch nachts
-nicht mehr gestillt. Er wollte einfach plötzlich nicht mehr und ist jetzt mit
-einem Wasserfläschchen zufrieden. Ausserdem schläft er in seinem eigenen Bett.</p>
-<p>Letzteres müsste jetzt nur noch bei Frederik auch konstant funktionieren, dann
-wärs ganz super ..</p></div></content>
     </entry>
 </feed>
