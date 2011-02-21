@@ -4,8 +4,25 @@
     <id>http://example.com/</id>
     <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe" type="text/html"/>
     <link rel="self" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/atom.xml" type="application/atom+xml"/>
-    <updated>2011-02-11T11:29:19Z</updated>
+    <updated>2011-02-21T22:14:08Z</updated>
     <entry>
+        <title>boh.</title>
+        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2011/02/21/01-boh.html" type="text/html"/>
+        <id>tag:fnanp.in-ulm.de,2011-02-21:2011/02/21/boh</id>
+        <updated>2011-02-21T22:14:08Z</updated>
+        <published>2011-02-21T22:14:01Z</published>
+        <category term="moritz"/><category term="sprache"/>
+        <author>
+            <name>michael</name>
+        </author>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Wir haben einen neuen Ausspruch von Moritz. Nämlich, ich versuch das jetzt mal
+schriftlich darzustellen, "de de de boh!"</p>
+<p>Ganz genau wissen wir nicht was es heisst, es wurde bis jetzt immer angewandt,
+wenn irgendwas irgendwo runtergefallen war (aber nicht nur Dinge, auch bei
+Flüssigkeiten die wo runtertropfen) oder von ihm runtergeworfen/umgeschüttet
+worden waren. Aber immer in einem "schau mal, da" Kontext. Also er hats auch
+öfters wiederholt, wenn man nicht gleich reagiert hat oder geschaut hat.</p></div></content>
+    </entry><entry>
         <title>bilder.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2011/02/11/01-bilder.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2011-02-11:2011/02/11/bilder</id>
@@ -645,17 +662,5 @@ Frederik die neue, saubere Windel anzulegen. Hat er natürlich nicht geschafft
 (vA weil Frederik nicht mitgeholfen hat), aber er hats definitiv versucht.</p>
 <p>Derzeitige Lieblingsmeldung von Frederik übrigens: "Mama, der Moritz is
 gelaufen!"</p></div></content>
-    </entry><entry>
-        <title>design.</title>
-        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2010/10/31/01-design.html" type="text/html"/>
-        <id>tag:fnanp.in-ulm.de,2010-10-31:2010/10/31/design</id>
-        <updated>2010-11-29T00:09:32Z</updated>
-        <published>2010-10-31T18:21:42Z</published>
-        <category term="administrativa"/>
-        <author>
-            <name>michael</name>
-        </author>
-        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>So, ich hab jetzt mal ein bissl schönere Farben und am rechten Rand so einen
-Info-Navigations-Dings hingetan. Hoffe es gefällt.</p></div></content>
     </entry>
 </feed>
