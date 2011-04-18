@@ -4,12 +4,26 @@
     <id>http://example.com/</id>
     <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe" type="text/html"/>
     <link rel="self" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/atom.xml" type="application/atom+xml"/>
-    <updated>2011-04-02T16:33:35Z</updated>
+    <updated>2011-04-18T15:39:25Z</updated>
     <entry>
+        <title>photos.</title>
+        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2011/04/18/01-photos.html" type="text/html"/>
+        <id>tag:fnanp.in-ulm.de,2011-04-18:2011/04/18/photos</id>
+        <updated>2011-04-18T15:39:25Z</updated>
+        <published>2011-04-18T15:39:20Z</published>
+        <category term="frederik"/><category term="moritz"/><category term="fotos"/>
+        <author>
+            <name>michael</name>
+        </author>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Es gibt neue Bilder online, hab ich ganz vergessen zu erwähnen. Zu finden in
+den Ordnern für Februar, März und April 2011.</p>
+<p>Vorschau:
+<a href="http://fnanp.in-ulm.de/frederik_und_moritz/photos/index.html"><img alt="Vorschaubild" src="http://fnanp.in-ulm.de/frederik_und_moritz/photos/2011_03/tempdir/640x480/IMG_7521.jpg"/></a></p></div></content>
+    </entry><entry>
         <title>räuber.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2011/04/02/01-raeuber.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2011-04-02:2011/04/02/raeuber</id>
-        <updated>2011-04-02T15:34:29Z</updated>
+        <updated>2011-04-02T16:24:19Z</updated>
         <published>2011-04-02T15:34:20Z</published>
         <category term="frederik"/><category term="sprache"/>
         <author>
@@ -36,7 +50,7 @@ Ja das Räuberleben mag ich sehr</p>
         <title>zoologie.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2011/03/30/01-zoologie.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2011-03-30:2011/03/30/zoologie</id>
-        <updated>2011-04-02T16:26:09Z</updated>
+        <updated>2011-04-02T16:25:13Z</updated>
         <published>2011-03-30T11:05:08Z</published>
         <category term="frederik"/><category term="sprache"/>
         <author>
@@ -58,7 +72,7 @@ loszulachen.</p></div></content>
         <title>normalität.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2011/03/25/01-normalitaet.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2011-03-25:2011/03/25/normalitaet</id>
-        <updated>2011-03-25T10:53:32Z</updated>
+        <updated>2011-03-25T11:12:01Z</updated>
         <published>2011-03-25T10:53:27Z</published>
         <category term="frederik"/><category term="moritz"/><category term="elternbetrachtungen"/>
         <author>
@@ -98,7 +112,7 @@ Gefühl bekommt..</p></div></content>
         <title>transport.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2011/03/13/01-transport.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2011-03-13:2011/03/13/transport</id>
-        <updated>2011-03-15T21:59:50Z</updated>
+        <updated>2011-03-15T22:04:50Z</updated>
         <published>2011-03-13T12:27:47Z</published>
         <category term="moritz"/><category term="fortbewegung"/>
         <author>
@@ -116,7 +130,7 @@ bissl breitbeinig gehn, aber es hat funktioniert.</p>
         <title>google.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2011/02/26/01-google.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2011-02-26:2011/02/26/google</id>
-        <updated>2011-02-26T18:29:28Z</updated>
+        <updated>2011-02-26T18:33:33Z</updated>
         <published>2011-02-26T18:29:17Z</published>
         <category term="moritz"/><category term="frederik"/><category term="sprache"/><category term="produkt"/>
         <author>
@@ -143,7 +157,7 @@ macht) und rief, auf Frederiks Schüssel deutend, "gugl! gugl!"</p>
         <title>boh.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2011/02/21/01-boh.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2011-02-21:2011/02/21/boh</id>
-        <updated>2011-02-21T22:14:08Z</updated>
+        <updated>2011-02-21T22:19:36Z</updated>
         <published>2011-02-21T22:14:01Z</published>
         <category term="moritz"/><category term="sprache"/>
         <author>
@@ -160,7 +174,7 @@ worden waren. Aber immer in einem "schau mal, da" Kontext. Also er hats auch
         <title>bilder.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2011/02/11/01-bilder.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2011-02-11:2011/02/11/bilder</id>
-        <updated>2011-02-11T11:29:16Z</updated>
+        <updated>2011-02-11T11:38:54Z</updated>
         <published>2011-02-11T11:28:26Z</published>
         <category term="moritz"/><category term="frederik"/><category term="fotos"/>
         <author>
@@ -173,7 +187,7 @@ hinzugefügt. Zugriff wie gehabt, Teaser gleich hier:</p>
         <title>uuh.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2011/01/23/01-uuh.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2011-01-23:2011/01/23/uuh</id>
-        <updated>2011-01-23T16:56:28Z</updated>
+        <updated>2011-01-23T17:17:42Z</updated>
         <published>2011-01-23T16:56:20Z</published>
         <category term="moritz"/><category term="fortbewegung"/>
         <author>
@@ -216,7 +230,7 @@ mit folgendem Text an Susanne geschrieben:</p>
         <title>verneinung.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2011/01/14/01-verneinung.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2011-01-14:2011/01/14/verneinung</id>
-        <updated>2011-01-14T15:37:07Z</updated>
+        <updated>2011-01-14T15:44:16Z</updated>
         <published>2011-01-14T15:37:00Z</published>
         <category term="moritz"/><category term="sprache"/>
         <author>
@@ -234,7 +248,7 @@ halt gar nicht. Meint er.</p>
         <title>witzig.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2011/01/13/01-witzig.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2011-01-13:2011/01/13/witzig</id>
-        <updated>2011-01-13T20:41:44Z</updated>
+        <updated>2011-01-13T20:43:17Z</updated>
         <published>2011-01-13T20:39:51Z</published>
         <category term="frederik"/><category term="sprache"/>
         <author>
@@ -263,7 +277,7 @@ Frederik - witzig.<br/>
         <title>photos.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2011/01/07/02-photos.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2011-01-07:2011/01/07/photos</id>
-        <updated>2011-01-07T19:04:31Z</updated>
+        <updated>2011-01-07T19:06:21Z</updated>
         <published>2011-01-07T19:04:26Z</published>
         <category term="frederik"/><category term="moritz"/><category term="fotos"/>
         <author>
@@ -277,7 +291,7 @@ haben wir gemacht und zumindest einen davon dokumentiert:</p>
         <title>tv.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2011/01/07/01-tv.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2011-01-07:2011/01/07/tv</id>
-        <updated>2011-01-07T18:54:21Z</updated>
+        <updated>2011-01-07T19:06:21Z</updated>
         <published>2011-01-07T18:54:15Z</published>
         <category term="fotos"/><category term="moritz"/>
         <author>
@@ -290,7 +304,7 @@ haben wir gemacht und zumindest einen davon dokumentiert:</p>
         <title>weihnachten.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2010/12/25/01-weihnachten.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2010-12-25:2010/12/25/weihnachten</id>
-        <updated>2010-12-25T15:00:00Z</updated>
+        <updated>2010-12-25T15:01:49Z</updated>
         <published>2010-12-25T14:48:28Z</published>
         <category term="frederik"/><category term="moritz"/><category term="fotos"/>
         <author>
@@ -305,7 +319,7 @@ noch davor:</p>
         <title>vo.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2010/12/18/01-vo.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2010-12-18:2010/12/18/vo</id>
-        <updated>2010-12-18T16:26:15Z</updated>
+        <updated>2010-12-18T16:27:53Z</updated>
         <published>2010-12-18T16:26:09Z</published>
         <category term="frederik"/><category term="sprache"/>
         <author>
@@ -321,7 +335,7 @@ von Aussprache ist ja nicht ganz einfach ..</p></div></content>
         <title>fernsehkoch.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2010/12/17/01-fernsehkoch.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2010-12-17:2010/12/17/fernsehkoch</id>
-        <updated>2010-12-17T13:54:46Z</updated>
+        <updated>2010-12-17T13:56:14Z</updated>
         <published>2010-12-17T13:54:40Z</published>
         <category term="frederik"/><category term="sprache"/>
         <author>
@@ -338,7 +352,7 @@ Frederik - Ich hab sie schon mal vorbereitet <em>deutet auf Autos</em><br/>
         <title>bilder.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2010/12/14/01-bilder.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2010-12-14:2010/12/14/bilder</id>
-        <updated>2010-12-14T12:39:00Z</updated>
+        <updated>2010-12-14T12:40:51Z</updated>
         <published>2010-12-14T12:36:18Z</published>
         <category term="frederik"/><category term="moritz"/><category term="fotos"/>
         <author>
@@ -352,7 +366,7 @@ Bild klicken oder rechts auf den "Photo-Seite"-link:</p>
         <title>frisur.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2010/12/13/01-frisur.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2010-12-13:2010/12/13/frisur</id>
-        <updated>2010-12-13T11:21:55Z</updated>
+        <updated>2010-12-13T11:26:14Z</updated>
         <published>2010-12-13T11:21:49Z</published>
         <category term="moritz"/>
         <author>
@@ -373,7 +387,7 @@ nicht.</p></div></content>
         <title>saft.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2010/12/11/03-saft.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2010-12-11:2010/12/11/saft</id>
-        <updated>2010-12-11T20:21:39Z</updated>
+        <updated>2010-12-11T20:23:13Z</updated>
         <published>2010-12-11T20:21:35Z</published>
         <category term="frederik"/><category term="moritz"/><category term="elternbetrachtungen"/>
         <author>
@@ -400,7 +414,7 @@ stellt er sie weg und sagt "das schmeckt mir gar nicht!"</p>
         <title>film.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2010/12/11/02-film.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2010-12-11:2010/12/11/film</id>
-        <updated>2010-12-11T20:16:13Z</updated>
+        <updated>2010-12-11T20:23:13Z</updated>
         <published>2010-12-11T20:13:00Z</published>
         <category term="frederik"/><category term="video"/>
         <author>
@@ -420,7 +434,7 @@ meint, kommt bei ca 2:43)</p></div></content>
         <title>mama/papa.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2010/12/11/01-mama_papa.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2010-12-11:2010/12/11/mama_papa</id>
-        <updated>2010-12-11T10:22:21Z</updated>
+        <updated>2010-12-11T10:23:26Z</updated>
         <published>2010-12-11T10:22:05Z</published>
         <category term="moritz"/><category term="sprache"/>
         <author>
@@ -436,7 +450,7 @@ für "das will ich haben" reserviert.</p>
         <title>moritzworte.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2010/12/09/01-moritzworte.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2010-12-09:2010/12/09/moritzworte</id>
-        <updated>2010-12-09T00:15:36Z</updated>
+        <updated>2010-12-09T00:16:55Z</updated>
         <published>2010-12-09T00:14:36Z</published>
         <category term="moritz"/><category term="sprache"/>
         <author>
@@ -455,7 +469,7 @@ wenn mein Hirn wieder funktioniert füg ich also vielleicht noch was hinzu.</p><
         <title>monster.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2010/12/05/02-monster.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2010-12-05:2010/12/05/monster</id>
-        <updated>2010-12-05T13:55:19Z</updated>
+        <updated>2010-12-05T13:58:00Z</updated>
         <published>2010-12-05T13:55:13Z</published>
         <category term="frederik"/><category term="moritz"/><category term="sprache"/>
         <author>
@@ -473,7 +487,7 @@ Frederik - blaue!<br/>
         <title>hilfsbereit.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2010/12/05/01-hilfsbereit.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2010-12-05:2010/12/05/hilfsbereit</id>
-        <updated>2010-12-05T13:55:19Z</updated>
+        <updated>2010-12-05T13:58:00Z</updated>
         <published>2010-12-05T13:14:04Z</published>
         <category term="moritz"/><category term="frederik"/>
         <author>
@@ -501,7 +515,7 @@ grad möchten sollen, rausgehn zum Beispiel).</p></div></content>
         <title>bobbycar2.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2010/11/27/01-bobbycar2.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2010-11-27:2010/11/27/bobbycar2</id>
-        <updated>2010-11-29T00:09:32Z</updated>
+        <updated>2010-11-27T13:58:00Z</updated>
         <published>2010-11-27T12:33:56Z</published>
         <category term="produkt"/>
         <author>
@@ -515,7 +529,7 @@ hat auch das Problem mit den sich lösenden Aufklebern ..</p></div></content>
         <title>martin.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2010/11/14/01-martin.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2010-11-14:2010/11/14/martin</id>
-        <updated>2010-11-29T00:09:32Z</updated>
+        <updated>2010-11-14T18:09:14Z</updated>
         <published>2010-11-14T18:05:45Z</published>
         <category term="produkt"/>
         <author>
@@ -553,74 +567,5 @@ verzweifeln.</p>
 </ul>
 <p>Und für <em>sowas</em> soll man ca EUR 3 bezahlen? Ehrlich? Ich find das eine
 Frechheit.</p></div></content>
-    </entry><entry>
-        <title>geschenksbringer.</title>
-        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2010/11/13/01-geschenksbringer.html" type="text/html"/>
-        <id>tag:fnanp.in-ulm.de,2010-11-13:2010/11/13/geschenksbringer</id>
-        <updated>2010-11-29T00:09:32Z</updated>
-        <published>2010-11-13T23:31:24Z</published>
-        <category term="frederik"/><category term="sprache"/>
-        <author>
-            <name>michael</name>
-        </author>
-        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Zwei Begebenheiten aus der jüngeren Vergangenheit:</p>
-<p>Frederik hat ein Spielzeug, mit dem er oft und gerne spielt, das sind so
-magnetische Kugeln und Stäbe, aus denen man Dinge bauen kann. Bevor jetzt
-jemand <a href="http://www.geomagworld.com/">Geomag</a> ruft, nein, nicht das, sondern
-<em>viel</em> größere Kugeln und Stäbe (so richtig Kleinkindtauglich, i.e. nicht
-verschluckbar). Jedenfalls haben wir da das Problem, dass Moritz die Dinger
-dann auch immer haben will. Daher entspannte sich neulich folgender Dialog:</p>
-<blockquote>
-<p><strong>Susanne</strong> - Ja dann wird das Christkind eben dem Moritz auch sowas bringen
-müssen<br/>
-<strong>Frederik</strong> - Das Christkind bringt dem Moritz eins und mir eins!<br/>
-<strong>Susanne</strong> - das sind aber langsam ganz schön viele Wünsche, die du da hast, so
-viel kann das Christkind doch gar nicht tragen!<br/>
-<strong>Frederik</strong> - <em>streckt die Arme zur Seite raus</em> das Christkind hat doch zwei
-Arme!</p>
-</blockquote>
-<p>Ja ..</p>
-<p>und dann gabs heut noch was: Wir haben in der Wohnung unter uns, die niemand
-bewohnt, einen Raum zusätzlich als Abstellraum gemietet (Fahrräder,
-Kinderwagen, Akten, Ski, Reisekoffer, Zelt .. Zeug halt). Susanne war heute
-vormittag runter gegangen um was zu suchen bei den Unterlagen und auch um was
-wegzubringen. Moritz schlief gerade. Frederik fragte mich, wo denn die Mama
-sei. Ich, grade am Küche saubermachen, sage ihm also "die ist unten". Frederik
-ging aus der Küche, ich dachte ins Wohnzimmer. Kurze Zeit später kam er wieder
-und meinte "ich war unten, ich hab sie nicht gesehn!"</p>
-<p>Also hab ich noch dazugesagt, sie sei "im Zimmer, unten". Frederik darauf "ah
-so, ich geh nochmal runter".</p>
-<p>Unten kam er dann ins Zimmer rein. Dann sah er im Regal, zwischen meinem
-Werkzeug, einen Meterstab (der Deutsche sagt dazu wohl "Zollstock" .. seit wann
-benutzen wir eigentlich "Meter" als Einheit? Ist schon eine Weile, oder?).
-Den nahm er aus dem Regal und rief "Oh, der
-Nikolaus hat mir einen neuen gebracht!" (er hat irgendwann, vor .. mehr als
-einem halben Jahr schätz ich, meinen alten Meterstab zerbrochen, weil er das
-mit dem auseinanderklappen noch nicht ganz verstand dort .. den hatte er wohl
-auch als seinen interpretiert).</p>
-<p>Ausserdem heute, unabhängig von Geschenken, folgender Dialog am Abend:</p>
-<blockquote>
-<p><strong>Frederik</strong> - <em>nimmt Susannes Handy in die Hand</em> ich will den Onkel Bile
-anrufen<br/>
-<strong>ich</strong> - was willst du ihm denn sagen?<br/>
-<strong>Frederik</strong> - hallo<br/>
-<strong>ich</strong> - ah<br/>
-<strong>ich</strong> - <em>wähle die Nummer und rufe an</em><br/>
-<strong>Bile</strong> - ja hallo?<br/>
-<strong>Frederik</strong> - <em>Stille</em><br/>
-<strong>Frederik</strong> - Hallo.<br/>
-<strong>Bile</strong> - <em>Pause</em> Frederik?<br/>
-<strong>Frederik</strong> - <em>Stille</em><br/>
-<strong>ich</strong> - <em>nehme das Handy, erkläre die Situation, bespreche Zeug, verabschiede
-mich, lege auf</em><br/>
-<strong>Frederik</strong> - ich will ihm noch was sagen!<br/>
-<strong>ich</strong> - was denn?<br/>
-<strong>Frederik</strong> - Tschüss<br/>
-<strong>ich</strong> - ah, ahso <em>wähle nochmal</em><br/>
-<strong>Bile</strong> - ja?<br/>
-<strong>Frederik</strong> - Tschüss <em>gibt mir das Handy wieder</em><br/>
-<strong>ich</strong> - äh .. ja, der Frederik wollte noch tschüss sagen</p>
-</blockquote>
-<p>das mit den Inhalten beim telefonieren üben wir noch ..</p></div></content>
     </entry>
 </feed>
