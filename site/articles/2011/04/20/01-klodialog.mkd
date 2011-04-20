@@ -1,7 +1,7 @@
-Title     : klodialog.                                                               tags: frederik, sprache
+Title     : klodialog.
 Author    : michael
 Created   : 2011-04-20T10:24:49
-Tags      : untagged
+Tags      : frederik, sprache
 Comments  : Off
 Trackback : Off
 TagURI    : tag:fnanp.in-ulm.de,2011-04-20:2011/04/20/klodialog
