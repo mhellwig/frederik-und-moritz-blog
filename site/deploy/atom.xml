@@ -4,8 +4,21 @@
     <id>http://example.com/</id>
     <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe" type="text/html"/>
     <link rel="self" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/atom.xml" type="application/atom+xml"/>
-    <updated>2011-05-08T15:38:13Z</updated>
+    <updated>2011-05-20T10:26:07Z</updated>
     <entry>
+        <title>photos</title>
+        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2011/05/20/01-photos.html" type="text/html"/>
+        <id>tag:fnanp.in-ulm.de,2011-05-20:2011/05/20/photos</id>
+        <updated>2011-05-20T10:26:07Z</updated>
+        <published>2011-05-20T10:26:02Z</published>
+        <category term="frederik"/><category term="moritz"/><category term="fotos"/>
+        <author>
+            <name>michael</name>
+        </author>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Ich hab grad neue Bilder hochgeladen, die von Ostern nämlich.</p>
+<p>Hier eine Vorschau:</p>
+<p><a href="http://fnanp.in-ulm.de/frederik_und_moritz/photos/2011_04/index.html"><img alt="Fahrzeuge" src="http://fnanp.in-ulm.de/frederik_und_moritz/photos/2011_04/tempdir/640x480/IMG_7590.jpg"/></a></p></div></content>
+    </entry><entry>
         <title>taktgefuehl2.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2011/05/08/01-taktgefuehl2.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2011-05-08:2011/05/08/taktgefuehl2</id>
@@ -536,51 +549,5 @@ für "das will ich haben" reserviert.</p>
 <p>ausserdem nickt er mit dem Kopf oder schüttelt ihn für "ja" oder "nein".</p>
 <p>Ich bild mir grad ein dass da noch mehr waren aber sie fallen mir nicht ein ..
 wenn mein Hirn wieder funktioniert füg ich also vielleicht noch was hinzu.</p></div></content>
-    </entry><entry>
-        <title>monster.</title>
-        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2010/12/05/02-monster.html" type="text/html"/>
-        <id>tag:fnanp.in-ulm.de,2010-12-05:2010/12/05/monster</id>
-        <updated>2010-12-05T13:55:19Z</updated>
-        <published>2010-12-05T13:55:13Z</published>
-        <category term="frederik"/><category term="moritz"/><category term="sprache"/>
-        <author>
-            <name>michael</name>
-        </author>
-        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Neulich in der früh wachte Frederik auf und erklärte:</p>
-<blockquote>
-<p>Frederik - kleine Monster haben meine Baustelle umgeworfen<br/>
-Susanne - was für Monster denn?<br/>
-Frederik - blaue!<br/>
-</p>
-</blockquote>
-<p>Ob das damit zusammenhängt, dass Moritz' Pyjama blau war wissen wir nicht.</p></div></content>
-    </entry><entry>
-        <title>hilfsbereit.</title>
-        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2010/12/05/01-hilfsbereit.html" type="text/html"/>
-        <id>tag:fnanp.in-ulm.de,2010-12-05:2010/12/05/hilfsbereit</id>
-        <updated>2010-12-05T13:55:19Z</updated>
-        <published>2010-12-05T13:14:04Z</published>
-        <category term="moritz"/><category term="frederik"/>
-        <author>
-            <name>michael</name>
-        </author>
-        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Szene gestern:</p>
-<p>Ich sitze grade im Bad, Susanne ist nicht da und deswegen versuch ich grad
-allein auf die Kinder aufzupassen. Frederik und Moritz sind im Schlafzimmer
-und spielen auf dem Strassen-Teppich und es ist ruhig.</p>
-<p>Plötzlich sehe ich Moritz an der Badezimmer-Tür vorbeigehn, in Richtung Küche.
-Zerst hab ich gedacht er sucht mich, dann dass er in der Küche was anstellen
-will (den einen Schrank aufmachen, den er nicht aufmachen soll, den
-Geschirrspüler ausräumen oder irgendsowas), also rufe ich ihn. Er reagiert
-nicht.</p>
-<p>Kurze Zeit später seh ich ihn in die andre Richtung wieder vorbeigehn, mit
-einem Putz-Fetzen in der Hand. Ich geh ihm also nach ins Schlafzimmer, wo wir
-Frederik vorfinden, der sich wohl mit einem Fläschchen die Strumpfhose
-nass-geschüttet hat. Moritz geht grad auf ihn zu und hält ihm den Putz-Fetzen
-hin.</p>
-<p>Auch sonst bringt er uns ständig irgendwas, von dem er denkt dass wirs grad
-brauchen könnten (meistens ziemlich gut geraten, manchmal aber auch falsch,
-aber das liegt dann daran dass wir nicht das möchten, was wir seiner Meinung
-grad möchten sollen, rausgehn zum Beispiel).</p></div></content>
     </entry>
 </feed>
