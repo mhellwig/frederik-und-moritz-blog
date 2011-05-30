@@ -36,13 +36,13 @@ h2 {
 
 #header a {
 	color:#FFF;
-	font:90% Terminus, Bitstream Vera Sans Mono, Lucida Console, Courier, monospace;
+	font:90% Terminus, Consolas, Bitstream Vera Sans Mono, Lucida Console, Courier, monospace;
 }
 
 
 #header .claim {
 	color:#FFF;
-	font:100% Terminus, Bitstream Vera Sans Mono, Lucida Console, Courier, monospace;
+	font:100% Terminus, Consolas, Bitstream Vera Sans Mono, Lucida Console, Courier, monospace;
 }
 
 #main {
@@ -54,7 +54,7 @@ h2 {
 
 #main .title {
 	color:#36648B;
-	font:160% Terminus, Bitstream Vera Sans Mono, Lucida Console, Courier, monospace;
+	font:160% Terminus, Consolas, Bitstream Vera Sans Mono, Lucida Console, Courier, monospace;
 }
 
 #main a{
@@ -63,13 +63,13 @@ h2 {
 
 #main .tags {
 	float:right;
-	font:80% Terminus,Bitstream Vera Sans Mono, Lucida Console, Courier, monospace;
+	font:80% Terminus, Consolas, Bitstream Vera Sans Mono, Lucida Console, Courier, monospace;
 }
 #main ul.tags li {
 	list-style:none;
 }
 #main .info {
-	font:80% Terminus,Bitstream Vera Sans Mono, Lucida Console, Courier, monospace;
+	font:80% Terminus, Consolas, Bitstream Vera Sans Mono, Lucida Console, Courier, monospace;
 }
 
 #main .article {
@@ -88,7 +88,7 @@ h2 {
 	padding:10px;
 	color:#36648B;
 	background:#DDD;
-	font:60% Terminus,Bitstream Vera Sans Mono, Lucida Console, Courier, monospace;
+	font:60% Terminus, Consolas, Bitstream Vera Sans Mono, Lucida Console, Courier, monospace;
 }
 
 
@@ -98,7 +98,7 @@ h2 {
 	background:#999;
 	text-align:center;
 	color:#FFF;
-	font:90% Terminus,Bitstream Vera Sans Mono, Lucida Console, Courier, monospace;
+	font:90% Terminus, Consolas, Bitstream Vera Sans Mono, Lucida Console, Courier, monospace;
 }
 
 #footer p {
@@ -128,7 +128,7 @@ ul.nav {
 ul.nav li {
 	list-style:none;
 	color:#FFF;
-	font:90% Terminus,Bitstream Vera Sans Mono, Lucida Console, Courier, monospace;
+	font:90% Terminus, Consolas, Bitstream Vera Sans Mono, Lucida Console, Courier, monospace;
 }
 ul.nav li.prev {
 	float:left;
