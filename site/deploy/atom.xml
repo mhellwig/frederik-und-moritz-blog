@@ -4,12 +4,30 @@
     <id>http://example.com/</id>
     <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe" type="text/html"/>
     <link rel="self" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/atom.xml" type="application/atom+xml"/>
-    <updated>2011-06-30T11:22:26Z</updated>
+    <updated>2011-07-12T21:05:35Z</updated>
     <entry>
+        <title>fuenf.</title>
+        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2011/07/12/01-fuenf.html" type="text/html"/>
+        <id>tag:fnanp.in-ulm.de,2011-07-12:2011/07/12/fuenf</id>
+        <updated>2011-07-12T21:05:35Z</updated>
+        <published>2011-07-12T21:05:25Z</published>
+        <category term="frederik"/><category term="sprache"/>
+        <author>
+            <name>michael</name>
+        </author>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Susanne hatte heute ein Dialog-Erlebnis der besonderen Art, nämlich eins, das
+man sich eigentlich erst mit 14 oder so erwartet.</p>
+<blockquote>
+<p>Susanne - <em>sagt irgendwas</em><br/>
+Frederik - <em>reagiert nicht</em><br/>
+Susanne - sag mal, wie oft hab ich das jetzt schon gesagt?<br/>
+Frederik - fünf mal.</p>
+</blockquote></div></content>
+    </entry><entry>
         <title>abends.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2011/06/30/01-abends.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2011-06-30:2011/06/30/abends</id>
-        <updated>2011-06-30T11:22:27Z</updated>
+        <updated>2011-07-02T11:50:39Z</updated>
         <published>2011-06-30T11:20:42Z</published>
         <category term="moritz"/><category term="frederik"/><category term="elternbetrachtungen"/>
         <author>
@@ -58,7 +76,7 @@ zu werden. Juhu.</p></div></content>
         <title>morgens.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2011/06/29/01-morgens.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2011-06-29:2011/06/29/morgens</id>
-        <updated>2011-06-29T10:46:09Z</updated>
+        <updated>2011-07-02T11:50:39Z</updated>
         <published>2011-06-29T10:45:58Z</published>
         <category term="frederik"/><category term="sprache"/><category term="elternbetrachtungen"/>
         <author>
@@ -83,7 +101,7 @@ ziemlich egal war. Auf Nachfrage, warum er denn nicht aufs Klo gegangen sei
         <title>bilder.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2011/05/31/01-bilder.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2011-05-31:2011/05/31/bilder</id>
-        <updated>2011-05-31T10:38:08Z</updated>
+        <updated>2011-06-09T07:54:07Z</updated>
         <published>2011-05-31T10:37:26Z</published>
         <category term="frederik"/><category term="fotos"/>
         <author>
@@ -131,7 +149,7 @@ jeweils mit draufklicken.</p>
         <title>kontext.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2011/05/29/01-kontext.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2011-05-29:2011/05/29/kontext</id>
-        <updated>2011-05-29T20:49:01Z</updated>
+        <updated>2011-06-09T07:54:07Z</updated>
         <published>2011-05-29T20:48:13Z</published>
         <category term="frederik"/><category term="sprache"/>
         <author>
@@ -149,7 +167,7 @@ ja irgendwann eine kriegen. </p>
         <title>zeug.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2011/05/28/01-zeug.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2011-05-28:2011/05/28/zeug</id>
-        <updated>2011-05-28T12:49:16Z</updated>
+        <updated>2011-06-09T07:54:07Z</updated>
         <published>2011-05-28T12:49:10Z</published>
         <category term="frederik"/><category term="moritz"/><category term="sprache"/>
         <author>
@@ -176,7 +194,7 @@ Kullernde Tränen, weinen, schluchzen. Bemerkenswert.</p></div></content>
         <title>photos</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2011/05/20/01-photos.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2011-05-20:2011/05/20/photos</id>
-        <updated>2011-05-20T10:27:56Z</updated>
+        <updated>2011-05-20T10:26:07Z</updated>
         <published>2011-05-20T10:26:02Z</published>
         <category term="frederik"/><category term="moritz"/><category term="fotos"/>
         <author>
@@ -189,7 +207,7 @@ Kullernde Tränen, weinen, schluchzen. Bemerkenswert.</p></div></content>
         <title>taktgefuehl2.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2011/05/08/01-taktgefuehl2.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2011-05-08:2011/05/08/taktgefuehl2</id>
-        <updated>2011-05-08T15:39:41Z</updated>
+        <updated>2011-05-08T15:38:13Z</updated>
         <published>2011-05-08T15:38:08Z</published>
         <category term="frederik"/><category term="sprache"/>
         <author>
@@ -207,7 +225,7 @@ Frederik-Zitat:</p>
         <title>taktgefühl.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2011/04/26/01-taktgefuehl.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2011-04-26:2011/04/26/taktgefuehl</id>
-        <updated>2011-04-26T10:28:09Z</updated>
+        <updated>2011-05-01T13:45:03Z</updated>
         <published>2011-04-26T10:28:01Z</published>
         <category term="frederik"/><category term="sprache"/>
         <author>
@@ -227,7 +245,7 @@ nicht sagen"-Erklärungen.</p>
         <title>klodialog.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2011/04/20/01-klodialog.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2011-04-20:2011/04/20/klodialog</id>
-        <updated>2011-04-26T16:40:06Z</updated>
+        <updated>2011-05-01T13:45:03Z</updated>
         <published>2011-04-20T10:24:49Z</published>
         <category term="frederik"/><category term="sprache"/>
         <author>
@@ -260,7 +278,7 @@ F: Dann bin ich eben ein Drache, der aufs Klo gehn kann.<br/>
         <title>photos.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2011/04/18/01-photos.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2011-04-18:2011/04/18/photos</id>
-        <updated>2011-04-18T15:39:25Z</updated>
+        <updated>2011-04-21T21:04:17Z</updated>
         <published>2011-04-18T15:39:20Z</published>
         <category term="frederik"/><category term="moritz"/><category term="fotos"/>
         <author>
@@ -274,7 +292,7 @@ den Ordnern für Februar, März und April 2011.</p>
         <title>räuber.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2011/04/02/01-raeuber.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2011-04-02:2011/04/02/raeuber</id>
-        <updated>2011-04-02T16:24:19Z</updated>
+        <updated>2011-04-02T15:34:29Z</updated>
         <published>2011-04-02T15:34:20Z</published>
         <category term="frederik"/><category term="sprache"/>
         <author>
@@ -301,7 +319,7 @@ Ja das Räuberleben mag ich sehr</p>
         <title>zoologie.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2011/03/30/01-zoologie.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2011-03-30:2011/03/30/zoologie</id>
-        <updated>2011-04-02T16:25:13Z</updated>
+        <updated>2011-04-02T16:26:09Z</updated>
         <published>2011-03-30T11:05:08Z</published>
         <category term="frederik"/><category term="sprache"/>
         <author>
@@ -323,7 +341,7 @@ loszulachen.</p></div></content>
         <title>normalität.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2011/03/25/01-normalitaet.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2011-03-25:2011/03/25/normalitaet</id>
-        <updated>2011-03-25T11:12:01Z</updated>
+        <updated>2011-03-25T10:53:32Z</updated>
         <published>2011-03-25T10:53:27Z</published>
         <category term="frederik"/><category term="moritz"/><category term="elternbetrachtungen"/>
         <author>
@@ -363,7 +381,7 @@ Gefühl bekommt..</p></div></content>
         <title>transport.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2011/03/13/01-transport.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2011-03-13:2011/03/13/transport</id>
-        <updated>2011-03-15T22:04:50Z</updated>
+        <updated>2011-03-15T21:59:50Z</updated>
         <published>2011-03-13T12:27:47Z</published>
         <category term="moritz"/><category term="fortbewegung"/>
         <author>
@@ -381,7 +399,7 @@ bissl breitbeinig gehn, aber es hat funktioniert.</p>
         <title>google.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2011/02/26/01-google.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2011-02-26:2011/02/26/google</id>
-        <updated>2011-02-26T18:33:33Z</updated>
+        <updated>2011-02-26T18:29:28Z</updated>
         <published>2011-02-26T18:29:17Z</published>
         <category term="moritz"/><category term="frederik"/><category term="sprache"/><category term="produkt"/>
         <author>
@@ -408,7 +426,7 @@ macht) und rief, auf Frederiks Schüssel deutend, "gugl! gugl!"</p>
         <title>boh.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2011/02/21/01-boh.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2011-02-21:2011/02/21/boh</id>
-        <updated>2011-02-21T22:19:36Z</updated>
+        <updated>2011-02-21T22:14:08Z</updated>
         <published>2011-02-21T22:14:01Z</published>
         <category term="moritz"/><category term="sprache"/>
         <author>
@@ -425,7 +443,7 @@ worden waren. Aber immer in einem "schau mal, da" Kontext. Also er hats auch
         <title>bilder.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2011/02/11/01-bilder.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2011-02-11:2011/02/11/bilder</id>
-        <updated>2011-02-11T11:38:54Z</updated>
+        <updated>2011-02-11T11:29:16Z</updated>
         <published>2011-02-11T11:28:26Z</published>
         <category term="moritz"/><category term="frederik"/><category term="fotos"/>
         <author>
@@ -438,7 +456,7 @@ hinzugefügt. Zugriff wie gehabt, Teaser gleich hier:</p>
         <title>uuh.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2011/01/23/01-uuh.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2011-01-23:2011/01/23/uuh</id>
-        <updated>2011-01-23T17:17:42Z</updated>
+        <updated>2011-01-23T16:56:28Z</updated>
         <published>2011-01-23T16:56:20Z</published>
         <category term="moritz"/><category term="fortbewegung"/>
         <author>
@@ -481,7 +499,7 @@ mit folgendem Text an Susanne geschrieben:</p>
         <title>verneinung.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2011/01/14/01-verneinung.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2011-01-14:2011/01/14/verneinung</id>
-        <updated>2011-01-14T15:44:16Z</updated>
+        <updated>2011-01-14T15:37:07Z</updated>
         <published>2011-01-14T15:37:00Z</published>
         <category term="moritz"/><category term="sprache"/>
         <author>
@@ -499,7 +517,7 @@ halt gar nicht. Meint er.</p>
         <title>witzig.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2011/01/13/01-witzig.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2011-01-13:2011/01/13/witzig</id>
-        <updated>2011-01-13T20:43:17Z</updated>
+        <updated>2011-01-13T20:41:44Z</updated>
         <published>2011-01-13T20:39:51Z</published>
         <category term="frederik"/><category term="sprache"/>
         <author>
@@ -528,7 +546,7 @@ Frederik - witzig.<br/>
         <title>photos.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2011/01/07/02-photos.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2011-01-07:2011/01/07/photos</id>
-        <updated>2011-01-07T19:06:21Z</updated>
+        <updated>2011-01-07T19:04:31Z</updated>
         <published>2011-01-07T19:04:26Z</published>
         <category term="frederik"/><category term="moritz"/><category term="fotos"/>
         <author>
@@ -542,7 +560,7 @@ haben wir gemacht und zumindest einen davon dokumentiert:</p>
         <title>tv.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2011/01/07/01-tv.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2011-01-07:2011/01/07/tv</id>
-        <updated>2011-01-07T19:06:21Z</updated>
+        <updated>2011-01-07T18:54:21Z</updated>
         <published>2011-01-07T18:54:15Z</published>
         <category term="fotos"/><category term="moritz"/>
         <author>
@@ -555,7 +573,7 @@ haben wir gemacht und zumindest einen davon dokumentiert:</p>
         <title>weihnachten.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2010/12/25/01-weihnachten.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2010-12-25:2010/12/25/weihnachten</id>
-        <updated>2010-12-25T15:01:49Z</updated>
+        <updated>2010-12-25T15:00:00Z</updated>
         <published>2010-12-25T14:48:28Z</published>
         <category term="frederik"/><category term="moritz"/><category term="fotos"/>
         <author>
@@ -570,7 +588,7 @@ noch davor:</p>
         <title>vo.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2010/12/18/01-vo.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2010-12-18:2010/12/18/vo</id>
-        <updated>2010-12-18T16:27:53Z</updated>
+        <updated>2010-12-18T16:26:15Z</updated>
         <published>2010-12-18T16:26:09Z</published>
         <category term="frederik"/><category term="sprache"/>
         <author>
@@ -586,7 +604,7 @@ von Aussprache ist ja nicht ganz einfach ..</p></div></content>
         <title>fernsehkoch.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2010/12/17/01-fernsehkoch.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2010-12-17:2010/12/17/fernsehkoch</id>
-        <updated>2010-12-17T13:56:14Z</updated>
+        <updated>2010-12-17T13:54:46Z</updated>
         <published>2010-12-17T13:54:40Z</published>
         <category term="frederik"/><category term="sprache"/>
         <author>
@@ -599,19 +617,5 @@ Susanne - OK, das können wir schon machen.<br/>
 Frederik - Ich hab sie schon mal vorbereitet <em>deutet auf Autos</em><br/>
 </p>
 </blockquote></div></content>
-    </entry><entry>
-        <title>bilder.</title>
-        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2010/12/14/01-bilder.html" type="text/html"/>
-        <id>tag:fnanp.in-ulm.de,2010-12-14:2010/12/14/bilder</id>
-        <updated>2010-12-14T12:40:51Z</updated>
-        <published>2010-12-14T12:36:18Z</published>
-        <category term="frederik"/><category term="moritz"/><category term="fotos"/>
-        <author>
-            <name>michael</name>
-        </author>
-        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Es ist mal wieder Zeit für neue Photos. Ausserdem war Nikolaus. Also hier aufs
-Bild klicken oder rechts auf den "Photo-Seite"-link:</p>
-<p><a href="http://fnanp.in-ulm.de/frederik_und_moritz/photos/"><img alt="Nikolausi!" src="http://fnanp.in-ulm.de/frederik_und_moritz/photos/2010_12/tempdir/640x480/IMG_7307.jpg"/></a></p>
-<p>(neue Bilder befinden sich im Oktober (die 3 letzten), November und Dezember)</p></div></content>
     </entry>
 </feed>
