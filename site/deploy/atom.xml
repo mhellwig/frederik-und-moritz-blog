@@ -4,8 +4,22 @@
     <id>http://example.com/</id>
     <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe" type="text/html"/>
     <link rel="self" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/atom.xml" type="application/atom+xml"/>
-    <updated>2011-07-27T10:07:56Z</updated>
+    <updated>2011-07-27T10:14:33Z</updated>
     <entry>
+        <title>nochwas.</title>
+        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2011/07/27/02-nochwas.html" type="text/html"/>
+        <id>tag:fnanp.in-ulm.de,2011-07-27:2011/07/27/nochwas</id>
+        <updated>2011-07-27T10:14:33Z</updated>
+        <published>2011-07-27T10:14:29Z</published>
+        <category term="frederik"/><category term="moritz"/><category term="fotos"/>
+        <author>
+            <name>michael</name>
+        </author>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Was vielleicht auch noch erwähnt werden sollte ist, dass im
+<a href="http://fnanp.in-ulm.de/frederik_und_moritz/photos/2011_05/index.html">Mai-Folder</a>
+noch nachgeholt eine Dokumentation der diesjährigen Faschingskostüme
+vorzufinden ist.</p></div></content>
+    </entry><entry>
         <title>bilder.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2011/07/27/01-bilder.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2011-07-27:2011/07/27/bilder</id>
@@ -611,21 +625,5 @@ online geht, hier die Weihnachtsbilder (i.e. von gestern) und ein paar von
 noch davor:</p>
 <p><a href="http://fnanp.in-ulm.de/frederik_und_moritz/photos/2010_12/index.html"><img alt="Weihnachtsfotos" src="http://fnanp.in-ulm.de/frederik_und_moritz/photos/2010_12/tempdir/640x480/IMG_7344.jpg"/></a></p>
 <p>(einfach aufs Bild klicken oder rechts im Menü auf den Photo-Link)</p></div></content>
-    </entry><entry>
-        <title>vo.</title>
-        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2010/12/18/01-vo.html" type="text/html"/>
-        <id>tag:fnanp.in-ulm.de,2010-12-18:2010/12/18/vo</id>
-        <updated>2010-12-18T16:27:53Z</updated>
-        <published>2010-12-18T16:26:09Z</published>
-        <category term="frederik"/><category term="sprache"/>
-        <author>
-            <name>michael</name>
-        </author>
-        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Ein Wort wollte ich mal erwähnen, das Frederik sehr gerne benutzt, das ist
-nämlich irgendwie eine Mischung aus "abgeknickt" und "verbogen" oder so.
-Jedenfalls scheint er zu glauben, dass es ein Wort gibt, das "verknickt"
-heisst. Nur dass er das "ver" nicht als "ver" ausspricht sondern als "vo".</p>
-<p>Herauskommt dabei also "vokniggt". Oder so ähnlich. Schriftliches Darstellen
-von Aussprache ist ja nicht ganz einfach ..</p></div></content>
     </entry>
 </feed>
