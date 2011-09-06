@@ -4,8 +4,42 @@
     <id>http://example.com/</id>
     <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe" type="text/html"/>
     <link rel="self" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/atom.xml" type="application/atom+xml"/>
-    <updated>2011-08-23T12:03:47Z</updated>
+    <updated>2011-09-06T12:29:23Z</updated>
     <entry>
+        <title>cool.</title>
+        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2011/09/06/01-cool.html" type="text/html"/>
+        <id>tag:fnanp.in-ulm.de,2011-09-06:2011/09/06/cool</id>
+        <updated>2011-09-06T12:29:24Z</updated>
+        <published>2011-09-06T12:29:19Z</published>
+        <category term="frederik"/><category term="sprache"/>
+        <author>
+            <name>michael</name>
+        </author>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Und es begab sich dass mal wieder der Onkel Bile zu Gast war für ein
+Wochenende. Die Kinder fanden das auch wieder toll und haben ihn recht
+ausgiebig genutzt (Auto-spielen, auf-ihm-rumklettern, vorlesen lassen usw).</p>
+<p>Das kann auch durch folgenden Dialog ca einen halben Tag vor des Onkels
+Ankunft illustriert werden:</p>
+<blockquote>
+<p>Frederik - wo hat der Onkel Bile geparkt?<br/>
+Susanne - der kommt doch erst am Abend.<br/>
+F - aber am Abend muss ich doch schlafen, und ich will doch ganz lang mit
+dem Onkel Bile Autos spielen!<br/>
+</p>
+</blockquote>
+<p>Jedenfalls hatte er vor, am Montag früh in der Früh wieder abzufahren. Sonntag
+abends lag dann also Frederik im Bett und wir fragten ihn, ob denn der Onkel
+Bile noch sich verabschieden kommen solle.</p>
+<blockquote>
+<p>Frederik - nein.<br/>
+Susanne - warum denn nicht?<br/>
+F - ich will das nicht.<br/>
+S - warum denn nicht?<br/>
+F - das ist nicht cool.<br/>
+</p>
+</blockquote>
+<p>oh je .. jetzt schon unter solchen Zwängen leiden ..</p></div></content>
+    </entry><entry>
         <title>zeug.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2011/08/23/01-zeug.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2011-08-23:2011/08/23/zeug</id>
@@ -695,34 +729,5 @@ oder -papa auf dem Arm ist und wir anbieten, dass er doch zu uns wechseln
 könnte. Dann schaut er sehr bedauernd, weils ihm ja leid tut, aber das geht
 halt gar nicht. Meint er.</p>
 <p>Immerhin bedauert er uns.</p></div></content>
-    </entry><entry>
-        <title>witzig.</title>
-        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2011/01/13/01-witzig.html" type="text/html"/>
-        <id>tag:fnanp.in-ulm.de,2011-01-13:2011/01/13/witzig</id>
-        <updated>2011-01-13T20:43:17Z</updated>
-        <published>2011-01-13T20:39:51Z</published>
-        <category term="frederik"/><category term="sprache"/>
-        <author>
-            <name>michael</name>
-        </author>
-        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Ich hab Frederik heut abends vorm Schlafengehn mal wieder aus einem Sachbuch
-mit dem Titel "alles über Autos" vorgelesen. Gleich auf der ersten Seite ist
-ein Autohaus abgebildet wo diverse Leute verschiedene Modelle anschaun.</p>
-<p>Frederik hat dann auf eine Abbildung (also gezeichnet, aber erkennbar) eines
-grasgrünen VW Touareg gezeigt und gesagt</p>
-<blockquote>
-<p>Frederik - ich will dass wir morgen das schwarze Auto zurückbringen und so
-eines kaufen<br/>
-ich - ah ja? warum?<br/>
-Frederik - das gefällt mir besser<br/>
-ich - aber das ist nicht so einfach<br/>
-Frederik - ja, so ein Auto kostet viel Geld.<br/>
-ich - ja genau<br/>
-Frederik - deswegen müssen wir das andere eben wieder zurückbringen<br/>
-ich - nein so einfach ist das nicht, wir haben nicht so viel Geld<br/>
-Frederik - witzig.<br/>
-</p>
-</blockquote>
-<p>aha. witzig. Na dann ...</p></div></content>
     </entry>
 </feed>
