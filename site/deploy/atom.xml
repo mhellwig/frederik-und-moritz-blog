@@ -4,8 +4,32 @@
     <id>http://example.com/</id>
     <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe" type="text/html"/>
     <link rel="self" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/atom.xml" type="application/atom+xml"/>
-    <updated>2011-09-06T12:29:23Z</updated>
+    <updated>2011-09-09T14:12:21Z</updated>
     <entry>
+        <title>kiga.</title>
+        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2011/09/09/01-kiga.html" type="text/html"/>
+        <id>tag:fnanp.in-ulm.de,2011-09-09:2011/09/09/kiga</id>
+        <updated>2011-09-09T14:12:21Z</updated>
+        <published>2011-09-09T14:12:10Z</published>
+        <category term="moritz"/>
+        <author>
+            <name>michael</name>
+        </author>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Seit dem 30.8.2011 geht der Moritz ja jetzt in den gleichen Kindergarten wie
+Frederik. Das ist schon mal ganz prinzipiell sehr angehem für uns, weil
+einiges an Transport-Zeit in der früh wegfällt wenn man nicht zur Krippe <em>und</em>
+zum Kindergarten muss.</p>
+<p>Die Eingewöhnung verlief jedenfalls fast ereignislos, Moritz kannte den
+Kindergarten ansich ja schon vom Frederik-hinbringen, und er scheint sich in
+den zwei Wochen jetzt gut eingelebt zu haben.</p>
+<p>Heute morgen zum Beispiel (Zusatzinfo: Freitags ist der Tag, wo die Kinder
+selbst Spielzeug mitbringen dürfen) hat er sich in Deckung hinter mir an eine
+Betreuerin angeschlichen (die ihn trotzdem gesehen hat natürlich) und ist dann
+aus kurzer Distanz ihr um den Hals gefallen (sie sass am Boden). Dann hat er
+ihr ein Buch hingestreckt, das er von zu Hause mithatte und sich umgedreht und
+auf ihren Schoss gesetzt.</p>
+<p>Ich würde mal behaupten, er hat keine Schwierigkeiten mit dem Kindergarten.</p></div></content>
+    </entry><entry>
         <title>cool.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2011/09/06/01-cool.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2011-09-06:2011/09/06/cool</id>
@@ -711,23 +735,5 @@ mit folgendem Text an Susanne geschrieben:</p>
 <blockquote>
 <p>Mit Moritz ca 15 Minuten daheim. Jetz will er wieder gehn.</p>
 </blockquote></div></content>
-    </entry><entry>
-        <title>verneinung.</title>
-        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2011/01/14/01-verneinung.html" type="text/html"/>
-        <id>tag:fnanp.in-ulm.de,2011-01-14:2011/01/14/verneinung</id>
-        <updated>2011-01-14T15:44:16Z</updated>
-        <published>2011-01-14T15:37:00Z</published>
-        <category term="moritz"/><category term="sprache"/>
-        <author>
-            <name>michael</name>
-        </author>
-        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Inzwischen hat Moritz herausgefunden, wie er uns seine nicht-Zustimmung
-effizient mitteilen kann. Er schüttelt energisch den Kopf, sagt "nö!" (oder
-"ne!" oder so ähnlich, vielleicht eher ein Laut zwischen "ö" und "e"). Je
-nachdem schaut er auch sehr bedauernd dabei. zB wenn er grade bei Großmama
-oder -papa auf dem Arm ist und wir anbieten, dass er doch zu uns wechseln
-könnte. Dann schaut er sehr bedauernd, weils ihm ja leid tut, aber das geht
-halt gar nicht. Meint er.</p>
-<p>Immerhin bedauert er uns.</p></div></content>
     </entry>
 </feed>
