@@ -4,8 +4,22 @@
     <id>http://example.com/</id>
     <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe" type="text/html"/>
     <link rel="self" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/atom.xml" type="application/atom+xml"/>
-    <updated>2011-09-20T16:11:24Z</updated>
+    <updated>2011-10-05T12:15:32Z</updated>
     <entry>
+        <title>moritz.</title>
+        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2011/10/05/01-moritz.html" type="text/html"/>
+        <id>tag:fnanp.in-ulm.de,2011-10-05:2011/10/05/moritz</id>
+        <updated>2011-10-05T12:15:33Z</updated>
+        <published>2011-10-05T12:15:24Z</published>
+        <category term="moritz"/><category term="sprache"/>
+        <author>
+            <name>michael</name>
+        </author>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Kurze Durchsage: Moritz spricht von sich selbst seit ca 6 Tagen nicht mehr als
+"Mose" sondern als zuerst für einen Tag lang "Roritz" und danach gleich
+"Moritz".</p>
+<p>Ausserdem: eine "Raße-Zine" ist eine Straßenkehrmaschine.</p></div></content>
+    </entry><entry>
         <title>umzug.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2011/09/20/01-umzug.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2011-09-20:2011/09/20/umzug</id>
@@ -709,32 +723,5 @@ wohl auch zu weit, um mehrmals hin- und herzulaufen.</p>
 füllte die Steine in die so entstandene Tasche. Da musste er dann zwar ein
 bissl breitbeinig gehn, aber es hat funktioniert.</p>
 <p>Problem gelöst.</p></div></content>
-    </entry><entry>
-        <title>google.</title>
-        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2011/02/26/01-google.html" type="text/html"/>
-        <id>tag:fnanp.in-ulm.de,2011-02-26:2011/02/26/google</id>
-        <updated>2011-02-26T18:33:33Z</updated>
-        <published>2011-02-26T18:29:17Z</published>
-        <category term="moritz"/><category term="frederik"/><category term="sprache"/><category term="produkt"/>
-        <author>
-            <name>michael</name>
-        </author>
-        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Grade saßen Moritz und Frederik am Küchentisch und aßen jeweils einen
-Krapfen. Also der Deutsche sagt dazu ja "Berliner" (ausser er ist aus Berlin,
-dann sagt er anders dazu, Pfannkuchen glaubich) und es gibt auch kleine
-Unterschiede zum in Österreich beliebten Faschingskrapfen. So enthält ja
-meines Wissens der Faschingskrapfen eigentlich immer Marillenmarmelade (für
-unsre deutschen Freunde "Aprikosenkonfitüre") als Füllung, während ich bei den
-sogenannten Berlinern bis jetzt nur irgend eine Form von roter Fülle
-wahrgenommen habe (Erdbeere oder so Zeug). Ausser natürlich die extra als
-solche verkauften Pudding- oder Schoko- oder Eierlikör-Berliner undsoweiter.</p>
-<p>Jedenfalls saßen die beiden also da und waren grade mit ihren Krapfen fertig,
-da beschloss Frederik, dass er seine Mittags-Nudeln (diesmal Tagliatelle,
-natürlich wie immer "mit grüner Sauce" (Pesto Genovese)) aufessen will.</p>
-<p>Als Moritz Frederiks Nudel-Schüssel ansichtig wurde sprang er ganz aufgeregt
-auf seinem Stuhl auf (er steht sehr oft auf der Sitzfläche von seinem <a href="http://www.stokke.com/de-de/highchair.aspx">Tripp
-Trapp</a>, was uns durchaus Angst
-macht) und rief, auf Frederiks Schüssel deutend, "gugl! gugl!"</p>
-<p>Oder halt google. Also es klang genau wie google.</p></div></content>
     </entry>
 </feed>
