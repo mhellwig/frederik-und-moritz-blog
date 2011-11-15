@@ -4,8 +4,20 @@
     <id>http://example.com/</id>
     <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe" type="text/html"/>
     <link rel="self" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/atom.xml" type="application/atom+xml"/>
-    <updated>2011-11-14T09:01:24Z</updated>
+    <updated>2011-11-15T15:56:01Z</updated>
     <entry>
+        <title>rererik.</title>
+        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2011/11/15/01-rererik.html" type="text/html"/>
+        <id>tag:fnanp.in-ulm.de,2011-11-15:2011/11/15/rererik</id>
+        <updated>2011-11-15T15:56:01Z</updated>
+        <published>2011-11-15T15:55:52Z</published>
+        <category term="moritz"/><category term="sprache"/>
+        <author>
+            <name>michael</name>
+        </author>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Ich wurde grade drüber informiert, dass Moritz jetzt nicht mehr "E-I" zum
+Frederik sagt sondern "Rererik".</p></div></content>
+    </entry><entry>
         <title>wim.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2011/11/14/01-wim.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2011-11-14:2011/11/14/wim</id>
@@ -668,38 +680,5 @@ nicht sagen"-Erklärungen.</p>
 <p>Papa, die Frau da hat ja einen Riiiiiiiiesenpopo!</p>
 </blockquote>
 <p>Also er hatte ja recht, aber ... Verdammt.</p></div></content>
-    </entry><entry>
-        <title>klodialog.</title>
-        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2011/04/20/01-klodialog.html" type="text/html"/>
-        <id>tag:fnanp.in-ulm.de,2011-04-20:2011/04/20/klodialog</id>
-        <updated>2011-04-26T16:40:06Z</updated>
-        <published>2011-04-20T10:24:49Z</published>
-        <category term="frederik"/><category term="sprache"/>
-        <author>
-            <name>michael</name>
-        </author>
-        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Frederik geht ja gottseidank seit jetzt ca 2 Wochen endlich aufs Klo. Das ist   schon eher spät, so im Vergleich, aber immerhin hats jetzt am Ende doch         hingehaut. Der Start war auch etwas holprig (i.e. wir hatten schon geglaubt es
-läuft und dann hat er noch eine Woche eingelegt, wo er aus Trotz oder Spass
-oder wieauchimmer nochmal in die Hose gemacht hat und zwar ausschliesslich, da
-ging gar nix) aber inzwischen ist alles wunderbar.</p>
-<p>Gestern, ich war grad mit den Kindern vom Spielplatz heimgekommen (bin nach
-der Arbeit direkt dorthin damit Susanne zu einem Termin kann), ergab sich
-folgendes, leicht surreales Gespräch:</p>
-<blockquote>
-<p>Michael: Frederik, gehst bitte vor dem Essen noch aufs Klo?<br/>
-Frederik: Aber Drachen können das doch nicht!<br/>
-M: Warum denn nicht?<br/>
-F: Das is halt so. <em>schulterzucken</em><br/>
-M: Du bist also jetzt ein Drache?<br/>
-F: Ja.<br/>
-M: Da bin ich aber traurig, ich möchte doch meinen Frederik haben ..<br/>
-F: Das is halt so. <em>schulterzucken</em><br/>
-M: Ich möchte aber, dass du trotzdem aufs Klo gehst!<br/>
-F: Dann bin ich eben ein Drache, der aufs Klo gehn kann.<br/>
-</p>
-</blockquote>
-<p>sprachs und verschwand ins Bad, wo man kurz darauf ein plätschern hören konnte
-(es war also durchaus an der Zeit).</p>
-<p>Normalerweise laufen Konflikte mit ihm nicht so harmonisch ab.</p></div></content>
     </entry>
 </feed>
