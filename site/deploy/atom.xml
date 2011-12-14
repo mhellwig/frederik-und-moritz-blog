@@ -4,8 +4,27 @@
     <id>http://example.com/</id>
     <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe" type="text/html"/>
     <link rel="self" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/atom.xml" type="application/atom+xml"/>
-    <updated>2011-11-28T09:32:35Z</updated>
+    <updated>2011-12-14T10:09:32Z</updated>
     <entry>
+        <title>r.</title>
+        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2011/12/14/01-r.html" type="text/html"/>
+        <id>tag:fnanp.in-ulm.de,2011-12-14:2011/12/14/r</id>
+        <updated>2011-12-14T10:09:34Z</updated>
+        <published>2011-12-14T10:09:27Z</published>
+        <category term="moritz"/><category term="sprache"/>
+        <author>
+            <name>michael</name>
+        </author>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Bis vor kurzem hatte Moritz noch ein bissl Probleme mit dem "r" als
+Buchstaben, sehr lange hiess der Frederik bei ihm ja auch einfach nur "E-i"
+bei ihm. Inzwischen heisst der Frederik ja "Rererik" und letztes Wochenende,
+da waren wir zum Nikolaus-nachfeiern bei den verehrten Grosseltern unserer
+Kinder in Dornbirn, bekamen wir einen weiteren Beweis für die Einführung des
+"r" in seinen aktiven Wortschatz.</p>
+<p>Bis jetzt hiess die Pippi Langstrumpf, die er in Anlehnung an Frederik auch
+sehr verehrt, bei ihm "Pippi Lumpf", die wurde nun zur "Pippi Rampfrumpf", was
+ich besonders schön finde. Rampfrumpf. Ein toller Name.</p></div></content>
+    </entry><entry>
         <title>kutt.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2011/11/28/01-kutt.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2011-11-28:2011/11/28/kutt</id>
@@ -661,18 +680,5 @@ wäre, den Frederik zu beissen. Also teile ich ihm mit, dass er das nicht darf.
 Er beginnt zu weinen, kullernde Tränen. Er geht. Kullernde Tränen, schluchzen.
 Er klettert auf die Rutsche. Kullernde Tränen, weinen. Er rutscht runter.
 Kullernde Tränen, weinen, schluchzen. Bemerkenswert.</p></div></content>
-    </entry><entry>
-        <title>photos</title>
-        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2011/05/20/01-photos.html" type="text/html"/>
-        <id>tag:fnanp.in-ulm.de,2011-05-20:2011/05/20/photos</id>
-        <updated>2011-05-20T10:27:56Z</updated>
-        <published>2011-05-20T10:26:02Z</published>
-        <category term="frederik"/><category term="moritz"/><category term="fotos"/>
-        <author>
-            <name>michael</name>
-        </author>
-        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Ich hab grad neue Bilder hochgeladen, die von Ostern nämlich.</p>
-<p>Hier eine Vorschau:</p>
-<p><a href="http://fnanp.in-ulm.de/frederik_und_moritz/photos/2011_04/index.html"><img alt="Fahrzeuge" src="http://fnanp.in-ulm.de/frederik_und_moritz/photos/2011_04/tempdir/640x480/IMG_7590.jpg"/></a></p></div></content>
     </entry>
 </feed>
