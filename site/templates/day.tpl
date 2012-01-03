@@ -60,6 +60,7 @@
 	    <li><a href="${top}tags/index.html">Tags (Themen)</a></li>
 	    <li><a href="${top}2010/index.html">Archiv 2010</a></li>
 	    <li><a href="${top}2011/index.html">Archiv 2011</a></li>
+	    <li><a href="${top}2012/index.html">Archiv 2012</a></li>
 	    <li><a href="http://fnanp.in-ulm.de/frederik_und_moritz/photos/">Photo-Seite</a></li>
 	    <li><a href="http://fnanp.in-ulm.de/">FNANP Hauptseite</a></li>
 	  </ul>
