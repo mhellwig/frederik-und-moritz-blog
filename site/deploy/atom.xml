@@ -4,8 +4,27 @@
     <id>http://example.com/</id>
     <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe" type="text/html"/>
     <link rel="self" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/atom.xml" type="application/atom+xml"/>
-    <updated>2012-01-03T11:40:18Z</updated>
+    <updated>2012-01-25T10:46:25Z</updated>
     <entry>
+        <title>serverausfall.</title>
+        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2012/01/25/01-serverausfall.html" type="text/html"/>
+        <id>tag:fnanp.in-ulm.de,2012-01-25:2012/01/25/serverausfall</id>
+        <updated>2012-01-25T10:46:26Z</updated>
+        <published>2012-01-25T10:46:09Z</published>
+        <category term="administrativa"/>
+        <author>
+            <name>michael</name>
+        </author>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Nur für all jene, die sich fragen, was da die letzte Woche über eigentlich los
+war: Der Computer, auf dem sich dieses Webangebot findet, ist verstorben (für
+technisch interessierte: auf dem Motherboard waren mehrere Kondensatoren
+geplatzt, eine typische Alterserscheinung).</p>
+<p>Daher musste ich neue Hardware kaufen, warten bis die geliefert wurde und das
+ganze schliesslich gestern abend zusammenbauen und das alte System drauf
+umziehen.</p>
+<p>Momentan siehts so aus als wäre alles korrekt gelaufen und es sollte jetzt
+wieder alles gehn. Falls ich nichts übersehen habe.</p></div></content>
+    </entry><entry>
         <title>archiv.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2012/01/03/03-archiv.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2012-01-03:2012/01/03/archiv</id>
@@ -624,30 +643,5 @@ Freizeitgestaltung kommt da halt nicht oft vor.</p>
 hin, wenn man halt dann sagt OK dann bleiben wir halt länger auf, weil in der
 Früh müssen wir nicht raus .. Um dann um spätestens 7 von den Kindern geweckt
 zu werden. Juhu.</p></div></content>
-    </entry><entry>
-        <title>morgens.</title>
-        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2011/06/29/01-morgens.html" type="text/html"/>
-        <id>tag:fnanp.in-ulm.de,2011-06-29:2011/06/29/morgens</id>
-        <updated>2011-06-29T10:46:09Z</updated>
-        <published>2011-06-29T10:45:58Z</published>
-        <category term="frederik"/><category term="sprache"/><category term="elternbetrachtungen"/>
-        <author>
-            <name>michael</name>
-        </author>
-        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Wie man definitiv nicht aufwachen will (Frederik war schon vor mir
-aufgestanden und hat im Wohnzimmer gespielt):</p>
-<blockquote>
-<p>Ich hab Pisi und Kacka in die Hose gemacht.</p>
-</blockquote>
-<p>Was uns dran am meisten fertig gemacht hat (also während man sich drum kümmert
-isses natürlich schon auch schlicht unangenehm, zu versuchen den Pyjama
-auszuwaschen und das Kind abzuduschen) ist, dass es ihm selber wohl einfach
-ziemlich egal war. Auf Nachfrage, warum er denn nicht aufs Klo gegangen sei
-(weil sonst macht er das einfach selber) hat er gemeint</p>
-<blockquote>
-<p>Weisst du, ich vergess das immer.</p>
-</blockquote>
-<p>("immer" ist bei ihm ein dehnbarer Begriff).</p>
-<p>Na hoffentlich haben wir sowas nicht öfter.</p></div></content>
     </entry>
 </feed>

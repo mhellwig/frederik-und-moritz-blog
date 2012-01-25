@@ -1,0 +1,19 @@
+Title     : serverausfall.
+Author    : michael
+Created   : 2012-01-25T10:46:09
+Tags      : administrativa
+Comments  : Off
+Trackback : Off
+TagURI    : tag:fnanp.in-ulm.de,2012-01-25:2012/01/25/serverausfall
+
+Nur für all jene, die sich fragen, was da die letzte Woche über eigentlich los
+war: Der Computer, auf dem sich dieses Webangebot findet, ist verstorben (für
+technisch interessierte: auf dem Motherboard waren mehrere Kondensatoren
+geplatzt, eine typische Alterserscheinung).
+
+Daher musste ich neue Hardware kaufen, warten bis die geliefert wurde und das
+ganze schliesslich gestern abend zusammenbauen und das alte System drauf
+umziehen.
+
+Momentan siehts so aus als wäre alles korrekt gelaufen und es sollte jetzt
+wieder alles gehn. Falls ich nichts übersehen habe.
