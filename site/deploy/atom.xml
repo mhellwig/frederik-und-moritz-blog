@@ -4,8 +4,21 @@
     <id>http://example.com/</id>
     <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe" type="text/html"/>
     <link rel="self" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/atom.xml" type="application/atom+xml"/>
-    <updated>2012-04-03T11:38:21Z</updated>
+    <updated>2012-04-10T19:51:25Z</updated>
     <entry>
+        <title>opa.</title>
+        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2012/04/10/01-opa.html" type="text/html"/>
+        <id>tag:fnanp.in-ulm.de,2012-04-10:2012/04/10/opa</id>
+        <updated>2012-04-10T19:51:25Z</updated>
+        <published>2012-04-10T19:51:17Z</published>
+        <category term="frederik"/>
+        <author>
+            <name>michael</name>
+        </author>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Frederik kann jetz mit seinem Opa einen Verein aufmachen.</p>
+<p>Er ist nämlich grade auf dem Sofa vorm Fernseher beim Michel-schauen
+eingeschlafen.</p></div></content>
+    </entry><entry>
         <title>mammut.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2012/04/03/02-mammut.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2012-04-03:2012/04/03/mammut</id>
@@ -538,53 +551,5 @@ Wohnung aufzuwachen.</p></div></content>
         </author>
         <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Kurze Durchsage: Frederik ist der Meinung, die Mehrzahl von "Schal" sei
 "Schäle".</p></div></content>
-    </entry><entry>
-        <title>katzen.</title>
-        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2011/09/09/02-katzen.html" type="text/html"/>
-        <id>tag:fnanp.in-ulm.de,2011-09-09:2011/09/09/katzen</id>
-        <updated>2011-09-09T14:28:19Z</updated>
-        <published>2011-09-09T14:28:15Z</published>
-        <category term="frederik"/><category term="sprache"/>
-        <author>
-            <name>michael</name>
-        </author>
-        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Grade eben hat wohl Susanne folgenden Dialog mit Frederik erlebt:</p>
-<blockquote>
-<p>F - Können Katzen Kacka machen?<br/>
-S - ja, klar.<br/>
-F - ich hab mal eine Feder gehabt und einen Stock. Und den Stock hab ich
-hochgeworfen und die Feder fallen gelassen. Und der Stock ist auf eine Wolke
-gefallen und runtergekullert und in Katzenkacka gefallen, und die Feder ist
-auch rein gefallen.<br/>
-Und dann hat der Papa gesagt er tuts vorsichtig raus fischen und daheim im
-Waschbecken sauber machen.</p>
-</blockquote>
-<p>(Also, nur so als Hinweis, falls das nicht klar wird (Wolke), das hat er
-entweder erfunden oder geträumt oder so .. dass man Katzenkot von einer Feder
-einfach abwaschen kann bezweifle ich ..)</p></div></content>
-    </entry><entry>
-        <title>kiga.</title>
-        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2011/09/09/01-kiga.html" type="text/html"/>
-        <id>tag:fnanp.in-ulm.de,2011-09-09:2011/09/09/kiga</id>
-        <updated>2011-09-09T14:12:21Z</updated>
-        <published>2011-09-09T14:12:10Z</published>
-        <category term="moritz"/>
-        <author>
-            <name>michael</name>
-        </author>
-        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Seit dem 30.8.2011 geht der Moritz ja jetzt in den gleichen Kindergarten wie
-Frederik. Das ist schon mal ganz prinzipiell sehr angehem für uns, weil
-einiges an Transport-Zeit in der früh wegfällt wenn man nicht zur Krippe <em>und</em>
-zum Kindergarten muss.</p>
-<p>Die Eingewöhnung verlief jedenfalls fast ereignislos, Moritz kannte den
-Kindergarten ansich ja schon vom Frederik-hinbringen, und er scheint sich in
-den zwei Wochen jetzt gut eingelebt zu haben.</p>
-<p>Heute morgen zum Beispiel (Zusatzinfo: Freitags ist der Tag, wo die Kinder
-selbst Spielzeug mitbringen dürfen) hat er sich in Deckung hinter mir an eine
-Betreuerin angeschlichen (die ihn trotzdem gesehen hat natürlich) und ist dann
-aus kurzer Distanz ihr um den Hals gefallen (sie sass am Boden). Dann hat er
-ihr ein Buch hingestreckt, das er von zu Hause mithatte und sich umgedreht und
-auf ihren Schoss gesetzt.</p>
-<p>Ich würde mal behaupten, er hat keine Schwierigkeiten mit dem Kindergarten.</p></div></content>
     </entry>
 </feed>
