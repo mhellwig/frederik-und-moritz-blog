@@ -4,8 +4,26 @@
     <id>http://example.com/</id>
     <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe" type="text/html"/>
     <link rel="self" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/atom.xml" type="application/atom+xml"/>
-    <updated>2012-05-15T08:13:21Z</updated>
+    <updated>2012-05-15T20:12:01Z</updated>
     <entry>
+        <title>sohn.</title>
+        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2012/05/15/02-sohn.html" type="text/html"/>
+        <id>tag:fnanp.in-ulm.de,2012-05-15:2012/05/15/sohn</id>
+        <updated>2012-05-15T20:12:01Z</updated>
+        <published>2012-05-15T20:11:53Z</published>
+        <category term="frederik"/><category term="sprache"/>
+        <author>
+            <name>michael</name>
+        </author>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Und es begab sich, dass Susanne den Kindern erklären wollte, warum sie im Bus
+lieber nicht möchte, dass sie eine offene Saftflasche in der Hand halten:</p>
+<blockquote>
+<p>Susanne - und wenn der Bus plötzlich bremsen muss, dann ist alles nass!<br/>
+Frederik - dann <em>wird</em> alles nass!<br/>
+</p>
+</blockquote>
+<p><em>Mein</em> Sohn!</p></div></content>
+    </entry><entry>
         <title>anatomie.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2012/05/15/01-anatomie.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2012-05-15:2012/05/15/anatomie</id>
@@ -522,38 +540,5 @@ i - *sprachlos*<br/>
 </blockquote>
 <p>Aber er hat offensichtlich viel Vertrauen in seine Großeltern, was ja auch
 schön ist.</p></div></content>
-    </entry><entry>
-        <title>bilder.</title>
-        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2011/11/01/02-01photos.html" type="text/html"/>
-        <id>tag:fnanp.in-ulm.de,2011-11-01:2011/11/01/01photos</id>
-        <updated>2011-11-01T22:20:05Z</updated>
-        <published>2011-11-01T22:19:56Z</published>
-        <category term="frederik"/><category term="moritz"/><category term="fotos"/>
-        <author>
-            <name>michael</name>
-        </author>
-        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Nach ewig langer Wartezeit gibts wieder neue Bilder. Im Juni kamen noch 3
-dazu, im Juli sinds dann wenige, dafür <em>sehr</em> viele im August (Moritz'
-Geburtstag und der Urlaub, zuerst in Innsbruck dann in Dorbirn). Dann wieder
-wenige im September und etwas mehr im Oktober. Und ein Anfang für November ist
-auch gemacht.</p>
-<p>Teaser:</p>
-<p><a href="http://fnanp.in-ulm.de/frederik_und_moritz/photos/index.html"><img alt="Teaser Balkon" src="http://fnanp.in-ulm.de/frederik_und_moritz/photos/2011_08/tempdir/640x480/IMG_7770.jpg"/></a></p></div></content>
-    </entry><entry>
-        <title>pirat.</title>
-        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2011/11/01/01-02pirat.html" type="text/html"/>
-        <id>tag:fnanp.in-ulm.de,2011-11-01:2011/11/01/02pirat</id>
-        <updated>2011-11-01T22:20:05Z</updated>
-        <published>2011-11-01T22:11:19Z</published>
-        <category term="moritz"/><category term="sprache"/>
-        <author>
-            <name>michael</name>
-        </author>
-        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Gestern gegen Abend rannte Moritz wie vom wilden Affen gebissen in der Wohnung
-herum, mit einem Schaumstoff-Piratensäbel fuchtelnd, und rief immer wieder
-"Kämpf, kämpf, 'rat bin! 'rat bin!" ("'rat" war ein verschlucktes "Pirat").</p>
-<p>Na fein.</p>
-<p>Dokumentationsbild:</p>
-<p><img alt="Pirat" src="http://fnanp.in-ulm.de/frederik_und_moritz/photos/2011_10/tempdir/640x480/IMG_7920.jpg"/></p></div></content>
     </entry>
 </feed>
