@@ -4,8 +4,38 @@
     <id>http://example.com/</id>
     <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe" type="text/html"/>
     <link rel="self" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/atom.xml" type="application/atom+xml"/>
-    <updated>2012-06-04T11:38:39Z</updated>
+    <updated>2012-06-07T11:36:32Z</updated>
     <entry>
+        <title>floeten.</title>
+        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2012/06/07/01-floeten.html" type="text/html"/>
+        <id>tag:fnanp.in-ulm.de,2012-06-07:2012/06/07/floeten</id>
+        <updated>2012-06-07T11:36:32Z</updated>
+        <published>2012-06-07T11:36:28Z</published>
+        <category term="moritz"/><category term="sprache"/>
+        <author>
+            <name>michael</name>
+        </author>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Grade sind wir auf Kurzurlaub in Gnadenwald, weil langes Wochenende ist. Heute
+ist Fronleichnam, ein Feiertag der am Land traditionell zuerst mit einer
+Prozession und dann mit Frühschoppen begangen wird. Jetzt grade ist bei der
+Kirche (ein Stück weit weg) der Frühschoppen im Gange und man hört die
+Blaskapelle spielen.</p>
+<p>Moritz hat vorhin die Haustüre geöffnet und kurz rausgehört, dann gerufen "da
+ist Musik draussen". Dann hat er die Türe wieder zugemacht und erklärt</p>
+<blockquote>
+<p>ich hab die Türe zugemacht, damit keine Flöten reinkommen!<br/>
+</p>
+</blockquote>
+<p>Na gottseidank sind wir davor jetzt geschützt!</p>
+<p>Kurz darauf hat er eine Ameise gesehen und gerufen</p>
+<blockquote>
+<p>ich muss sie totmachen!</p>
+</blockquote>
+<p>ist wie von der Tarantel gestochen aufgesprungen, gerannt um die
+Fliegenklatsche zu holen, wieder zurückgerannt und hat wie wild auf den Boden
+damit gehaut.</p>
+<p>Also auch vor Ameisen sind wir gut geschützt.</p></div></content>
+    </entry><entry>
         <title>nerv.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2012/06/04/01-nerv.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2012-06-04:2012/06/04/nerv</id>
@@ -518,17 +548,5 @@ folgender Frage führte:</p>
         <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Grade waren wir in Innsbruck auf dem Christkindlmarkt. Moritz lief plötzlich
 zum Opa hin und biss ihn ins Bein (also eigenlich in die Hose). Sein Kommentar
 dazu "Rasenmäher bin!" ..</p></div></content>
-    </entry><entry>
-        <title>rererik.</title>
-        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2011/11/15/01-rererik.html" type="text/html"/>
-        <id>tag:fnanp.in-ulm.de,2011-11-15:2011/11/15/rererik</id>
-        <updated>2011-11-15T15:56:01Z</updated>
-        <published>2011-11-15T15:55:52Z</published>
-        <category term="moritz"/><category term="sprache"/>
-        <author>
-            <name>michael</name>
-        </author>
-        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Ich wurde grade drüber informiert, dass Moritz jetzt nicht mehr "E-I" zum
-Frederik sagt sondern "Rererik".</p></div></content>
     </entry>
 </feed>
