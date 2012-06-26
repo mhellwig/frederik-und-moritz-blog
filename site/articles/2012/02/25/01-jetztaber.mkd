@@ -14,4 +14,4 @@ ich noch auf meinem Handy nachschauen muss, womöglich sind da welche drauf.
 
 Vorschaubild:
 
-[![Maus](http://fnanp.in-ulm.de/frederik_und_moritz/photos/2011_12/tempdir/640x480/IMG_8091.jpg)](http://fnanp.in-ulm.de/frederik_und_moritz/photos/2011_12/index.html)
+[![Maus](IMG_8091.jpg)](http://fnanp.in-ulm.de/frederik_und_moritz/photos/2011_12/index.html)
