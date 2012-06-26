@@ -4,8 +4,30 @@
     <id>http://example.com/</id>
     <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe" type="text/html"/>
     <link rel="self" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/atom.xml" type="application/atom+xml"/>
-    <updated>2012-06-26T22:01:52Z</updated>
+    <updated>2012-06-26T22:16:18Z</updated>
     <entry>
+        <title>wow.</title>
+        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2012/06/26/01-wow.html" type="text/html"/>
+        <id>tag:fnanp.in-ulm.de,2012-06-26:2012/06/26/wow</id>
+        <updated>2012-06-26T22:15:01Z</updated>
+        <published>2012-06-26T22:14:57Z</published>
+        <category term="administrativa"/><category term="fotos"/>
+        <author>
+            <name>michael</name>
+        </author>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>So, erstens mal hab ich einen ganzen Haufen Bilder hochgeladen, inklusive
+Frederiks Geburtstagsfeier und Ostern. Zusätzlich in älteren Ordnern (erstmal
+zurück bis November glaub ich, muss ich noch checken) noch Bilder von meinem
+Handy mit reingetan.</p>
+<p>Beispielbild: </p>
+<p><a href="http://fnanp.in-ulm.de/frederik_und_moritz/photos/2011_12/index.html"><img alt="Ostern" src="2012/06/26/IMG_8238.jpg"/></a></p>
+<p>Ausserdem hab ich jetzt die Foto-Seite und auch alle Fotos, die dort liegen,
+mit Passwortschutz versehen. Ich schick dann heute noch ein Mail an alle, die
+mir einfallen, wo das Passwort drinsteht. Wer kein Mail kriegt und meint, er
+sollte aber schon das Passwort wissen, kann sich an mich wenden und dann
+schauen wir, ob wir das beide so sehen. Die Gründe dafür sind vielfältig, aber
+im Endeffekt isses einfach "besser" so.</p></div></content>
+    </entry><entry>
         <title>marille.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2012/06/19/01-marille.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2012-06-19:2012/06/19/marille</id>
@@ -540,24 +562,5 @@ gesagt: "Siehst du, das kommt dabei raus, wenn man seinem Kind was nicht
 kauft. Dann kauft das Kind es später in verschärfter Form den eigenen
 Kindern!"</p>
 <p><a href="2012/01/03/darda.jpg"><img alt="Darda Bahn" src="2012/01/03/darda-klein.jpg"/></a></p></div></content>
-    </entry><entry>
-        <title>r.</title>
-        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2011/12/14/01-r.html" type="text/html"/>
-        <id>tag:fnanp.in-ulm.de,2011-12-14:2011/12/14/r</id>
-        <updated>2011-12-14T10:50:02Z</updated>
-        <published>2011-12-14T10:09:27Z</published>
-        <category term="moritz"/><category term="sprache"/>
-        <author>
-            <name>michael</name>
-        </author>
-        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Bis vor kurzem hatte Moritz noch ein bissl Probleme mit dem "r" als
-Buchstaben, sehr lange hiess der Frederik ja auch einfach nur "E-i"
-bei ihm. Inzwischen heisst der Frederik "Rererik" und letztes Wochenende,
-da waren wir zum Nikolaus-Nachfeiern bei den verehrten Grosseltern unserer
-Kinder in Dornbirn, bekamen wir einen weiteren Beweis für die Einführung des
-"r" in seinen aktiven Wortschatz.</p>
-<p>Bis jetzt hiess die Pippi Langstrumpf, die er in Anlehnung an Frederik auch
-sehr verehrt, "Pippi Lumpf". Die wurde nun zur "Pippi Rampfrumpf", was
-ich besonders schön finde. Rampfrumpf. Ein toller Name.</p></div></content>
     </entry>
 </feed>
