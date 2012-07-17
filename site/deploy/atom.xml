@@ -4,8 +4,28 @@
     <id>http://example.com/</id>
     <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe" type="text/html"/>
     <link rel="self" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/atom.xml" type="application/atom+xml"/>
-    <updated>2012-07-17T22:02:34Z</updated>
+    <updated>2012-07-17T22:09:58Z</updated>
     <entry>
+        <title>camping.</title>
+        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2012/07/17/02-camping.html" type="text/html"/>
+        <id>tag:fnanp.in-ulm.de,2012-07-17:2012/07/17/camping</id>
+        <updated>2012-07-17T22:09:58Z</updated>
+        <published>2012-07-17T22:09:02Z</published>
+        <category term="fotos"/><category term="elternbetrachtungen"/><category term="frederik"/><category term="moritz"/>
+        <author>
+            <name>michael</name>
+        </author>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Ende Juni/Anfang Juli waren wir zum Zelten (weil wir das mal ausprobieren
+wollten um den Kindern eine Freude zu machen) in Isny. Dort gibts einen
+Campingplatz namens <a href="http://www.waldbad-camping-isny.de/">WaldbadcampingIsny</a>,
+der ist sehr nett und enthält auch einen Badesee (wie der Name schon erahnen
+lässt). Ein Beispielfoto:</p>
+<p><img alt="Herr B aus V, überrascht" src="2012/07/17/bile_ueberrascht.jpg"/><br/>
+<em>Herr B aus V, überrascht</em></p>
+<p>Jedenfalls hab ich das zum Anlass genommen, neue Bilder hochzuladen.
+Zusätzlich noch von Frederiks zweiter Geburtstagsfeier (mit den
+Kindergartenkindern) und unserem Besuch am Attersee.</p></div></content>
+    </entry><entry>
         <title>alles.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2012/07/17/01-alles.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2012-07-17:2012/07/17/alles</id>
@@ -509,31 +529,5 @@ ich noch auf meinem Handy nachschauen muss, womöglich sind da welche drauf.</p>
 bemühen werde, mal wieder aktuelle Fotos hochzuladen. Sag ich mal.
 Vorsichtig.</p>
 <p>Und danke an den Herrn Schwager für den Hinweis. Irgendwie übersehen.</p></div></content>
-    </entry><entry>
-        <title>tv.</title>
-        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2012/02/08/01-tv.html" type="text/html"/>
-        <id>tag:fnanp.in-ulm.de,2012-02-08:2012/02/08/tv</id>
-        <updated>2012-02-08T15:10:12Z</updated>
-        <published>2012-02-08T15:05:34Z</published>
-        <category term="frederik"/><category term="moritz"/><category term="elternbetrachtungen"/>
-        <author>
-            <name>michael</name>
-        </author>
-        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Seit kurzem besitzen wir jetzt *Trommelwirbel* einen <em>Fernseher</em>.</p>
-<p>Dadurch hat sich aber lustigerweise (zumindest bis jetzt) das
-Mediennutzungsverhalten (so nennt man das wohl) unserer Kinder nicht
-verändert. Nach wie vor schauen sie immer wieder mal das eine oder andere
-Youtube-Video (von Baggern, Geländefahrzeugen, Flugzeugen, Hubschraubern) (das
-kann der Fernseher nämlich direkt, wenn man ihn ans Internet anschliesst) und
-zwischendurch auch die eine oder andere Folge von Kinderserien, die wir auf
-DVD besitzen.</p>
-<p>Derzeitige Lieblingsserie ist <a href="http://de.wikipedia.org/wiki/Michel_aus_L%C3%B6nneberga_(Fernsehserie)">Michel aus
-Lönneberga</a>,
-die Serie aus den 70ern. Moritz sieht am liebsten die Folge, wo Michel den
-Kopf in die Suppenschüssel steckt, während Frederik "Als Michel die Kuh
-überlistete" präferiert.</p>
-<p>Ich finds jedenfalls lustig, dass unser Fernseher eigentlich so gut wie gar
-nicht als Fernseher in seiner eigentlichen Funktion (i.e. zum Empfang von
-Fernsehsendern) genutzt wird.</p></div></content>
     </entry>
 </feed>
