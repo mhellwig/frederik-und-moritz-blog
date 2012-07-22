@@ -4,8 +4,28 @@
     <id>http://example.com/</id>
     <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe" type="text/html"/>
     <link rel="self" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/atom.xml" type="application/atom+xml"/>
-    <updated>2012-07-17T22:12:33Z</updated>
+    <updated>2012-07-22T11:55:35Z</updated>
     <entry>
+        <title>meta.</title>
+        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2012/07/22/01-meta.html" type="text/html"/>
+        <id>tag:fnanp.in-ulm.de,2012-07-22:2012/07/22/meta</id>
+        <updated>2012-07-22T11:55:35Z</updated>
+        <published>2012-07-22T11:55:28Z</published>
+        <category term="frederik"/><category term="sprache"/>
+        <author>
+            <name>michael</name>
+        </author>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Frederik, grade vorhin im Kinderzimmer:</p>
+<blockquote>
+<p>Wir spielen, dass wir zwei Kinder wärn, die zuhause sind und spielen!</p>
+</blockquote>
+<p>... was schon ziemlich meta ist (mal abgesehn vom schönen Konjunktiv). Ein
+nicht viel weniger interessanter Satz kam kurz davor von Moritz, nämlich</p>
+<blockquote>
+<p>Wir sind der Arzt!</p>
+</blockquote>
+<p>da bin ich mir noch nicht ganz sicher, wie ich das interpretiere.</p></div></content>
+    </entry><entry>
         <title>camping.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2012/07/17/02-camping.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2012-07-17:2012/07/17/camping</id>
@@ -61,9 +81,9 @@ Frederik - Du machst immer die coolsten Sachen, wenn wir nicht dabei sind.</p>
         <title>addendum2.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2012/06/27/02-addendum2.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2012-06-27:2012/06/27/addendum2</id>
-        <updated>2012-06-27T10:35:58Z</updated>
+        <updated>2012-07-17T22:13:37Z</updated>
         <published>2012-06-27T10:35:55Z</published>
-        <category term="adminstrativa"/>
+        <category term="administrativa"/>
         <author>
             <name>michael</name>
         </author>
@@ -517,19 +537,5 @@ sind online! Enthält Nikolaus und Weihnachten.</p>
 ich noch auf meinem Handy nachschauen muss, womöglich sind da welche drauf.</p>
 <p>Vorschaubild:</p>
 <p><a href="http://fnanp.in-ulm.de/frederik_und_moritz/photos/2011_12/index.html"><img alt="Maus" src="2012/02/25/IMG_8091.jpg"/></a></p></div></content>
-    </entry><entry>
-        <title>bilder.</title>
-        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2012/02/24/01-bilder.html" type="text/html"/>
-        <id>tag:fnanp.in-ulm.de,2012-02-24:2012/02/24/bilder</id>
-        <updated>2012-02-24T11:47:38Z</updated>
-        <published>2012-02-24T11:47:34Z</published>
-        <category term="administrativa"/>
-        <author>
-            <name>michael</name>
-        </author>
-        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Ich wage jetzt mal ganz vorsichtig zu versprechen, dass ich mich heute abends
-bemühen werde, mal wieder aktuelle Fotos hochzuladen. Sag ich mal.
-Vorsichtig.</p>
-<p>Und danke an den Herrn Schwager für den Hinweis. Irgendwie übersehen.</p></div></content>
     </entry>
 </feed>

@@ -1,7 +1,7 @@
 Title     : addendum2.
 Author    : michael
 Created   : 2012-06-27T10:35:55
-Tags      : adminstrativa
+Tags      : administrativa
 Comments  : Off
 Trackback : Off
 TagURI    : tag:fnanp.in-ulm.de,2012-06-27:2012/06/27/addendum2
