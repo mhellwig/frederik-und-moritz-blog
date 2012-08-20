@@ -4,8 +4,22 @@
     <id>http://example.com/</id>
     <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe" type="text/html"/>
     <link rel="self" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/atom.xml" type="application/atom+xml"/>
-    <updated>2012-07-23T10:38:53Z</updated>
+    <updated>2012-08-20T17:38:19Z</updated>
     <entry>
+        <title>statusmeldung.</title>
+        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2012/08/20/01-statusmeldung.html" type="text/html"/>
+        <id>tag:fnanp.in-ulm.de,2012-08-20:2012/08/20/statusmeldung</id>
+        <updated>2012-08-20T17:38:19Z</updated>
+        <published>2012-08-20T17:38:15Z</published>
+        <category term="administrativa"/>
+        <author>
+            <name>michael</name>
+        </author>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Wir sind, übrigens, seit ca heute aus dem Urlaub zurück und wieder an der
+Arbeit (die Kinder weilen noch in Dornbirn weil der Kindergarten noch zu hat).
+Photographisches Beweismaterial zu unserem ersten "richtigen" Urlaub gibts
+demnächst (inklusive Bewegt-Bilder) in diesem Theater.</p></div></content>
+    </entry><entry>
         <title>rad.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2012/07/23/01-rad.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2012-07-23:2012/07/23/rad</id>
@@ -503,44 +517,5 @@ real, das funktioniert ja bei Politikern auch ..</p></div></content>
 </p>
 </blockquote>
 <p>na gut dass das geklärt ist.</p></div></content>
-    </entry><entry>
-        <title>sprache.</title>
-        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2012/03/02/01-sprache.html" type="text/html"/>
-        <id>tag:fnanp.in-ulm.de,2012-03-02:2012/03/02/sprache</id>
-        <updated>2012-03-02T21:00:30Z</updated>
-        <published>2012-03-02T15:23:50Z</published>
-        <category term="moritz"/><category term="sprache"/>
-        <author>
-            <name>michael</name>
-        </author>
-        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p><em>KORREKTUR</em> ein paar Korrekturen (dank an Simon für Hinweise) hab ich grad
-noch gemacht ..</p>
-<p>Mal ein kleines Update dazu, was Moritz so sagt und macht.</p>
-<p>Neulich hat ihn wohl im Kindergarten eine Hummel (so wurde uns das jedenfalls
-berichtet) in den Finger gebissen/gestochen (ich hätte ja angenommen, dass die
-stechen, aber mir wurde erklärt, es sei ein Biss? Wie auch immer).</p>
-<p>Das hat Susanne mir erzählt, dann den Moritz gefragt, ob er mir seinen Finger
-zeigt. Ich frag ihn also, was da passiert ist, ob ihn da ein Tier gebissen
-hat, und er sagt,</p>
-<blockquote>
-<p>ja, ein 'Rebs!</p>
-</blockquote>
-<p>(Krebs)</p>
-<p>Ich <em>vermute</em> mal, die Idee, dass es sich um einen Krebs handeln könnte kommt
-aus einer oft geschauten Michel-aus-Lönneberga-Folge, wo Michel einen Kübel
-voll Krebse im Elternschlafzimmer stehen lässt, damit der Vater in der Früh
-gleich sieht, was es gutes zum Essen gibt. Und dann entkommen die Krebse aus
-dem Kübel und zwicken den Vater in den Zeh ..</p>
-<p>Und gestern in der Früh fing Moritz während des Frühstücks in der Küche am
-Tisch sitzend plötzlich zu singen an</p>
-<blockquote>
-<p>Häschen in der 'Ruube<br/>
-Saaaaß uuund 'lieeef<br/>
-dass du nicht mehr hüpfen kannst!</p>
-</blockquote>
-<p>(ja, er hat da bissl was ausgelassen).</p>
-<p>Mir fällt jedenfalls auf, dass er bei Wörtern, die mit zwei Konsonanten
-beginnen (so wie auch "zwei") gerne den ersten davon weglässt (das wird dann
-zu "wei").</p></div></content>
     </entry>
 </feed>
