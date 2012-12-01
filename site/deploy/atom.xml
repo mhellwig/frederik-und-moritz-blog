@@ -4,8 +4,22 @@
     <id>http://example.com/</id>
     <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe" type="text/html"/>
     <link rel="self" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/atom.xml" type="application/atom+xml"/>
-    <updated>2012-11-26T19:19:32Z</updated>
+    <updated>2012-12-01T14:28:02Z</updated>
     <entry>
+        <title>pyjama.</title>
+        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2012/12/01/01-pyjama.html" type="text/html"/>
+        <id>tag:fnanp.in-ulm.de,2012-12-01:2012/12/01/pyjama</id>
+        <updated>2012-12-01T14:28:02Z</updated>
+        <published>2012-12-01T14:27:55Z</published>
+        <category term="moritz"/><category term="sprache"/>
+        <author>
+            <name>michael</name>
+        </author>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Kurze Durchsage von Moritz:</p>
+<blockquote>
+<p>Ich will meinen Pyjama nie mehr ausziehen!</p>
+</blockquote></div></content>
+    </entry><entry>
         <title>suess.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2012/11/26/02-suess.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2012-11-26:2012/11/26/suess</id>
@@ -489,34 +503,5 @@ einen Playmobil-Weihnachtsmann in der Hand und erklärte:</p>
 Ich - Oh je, was hat er denn?<br/>
 Moritz - <strong>BLUUT</strong>!</p>
 </blockquote></div></content>
-    </entry><entry>
-        <title>viking.</title>
-        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2012/04/15/02-viking.html" type="text/html"/>
-        <id>tag:fnanp.in-ulm.de,2012-04-15:2012/04/15/viking</id>
-        <updated>2012-04-15T22:53:31Z</updated>
-        <published>2012-04-15T22:53:27Z</published>
-        <category term="moritz"/><category term="sprache"/>
-        <author>
-            <name>michael</name>
-        </author>
-        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Und weil wir schon dabei sind, Moritz, keine 10 Minuten davor:</p>
-<blockquote>
-<p>Ich bin ein <em>Wikinger</em>! * grrrrr *</p>
-</blockquote></div></content>
-    </entry><entry>
-        <title>drachen.</title>
-        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2012/04/15/01-drachen.html" type="text/html"/>
-        <id>tag:fnanp.in-ulm.de,2012-04-15:2012/04/15/drachen</id>
-        <updated>2012-04-15T21:35:14Z</updated>
-        <published>2012-04-15T21:34:48Z</published>
-        <category term="frederik"/><category term="sprache"/>
-        <author>
-            <name>michael</name>
-        </author>
-        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Kurze Durchsage von Frederik:</p>
-<blockquote>
-<p>Drachen kenn ich schon eine <em>Ewigkeit</em>.</p>
-</blockquote>
-<p>That is all.</p></div></content>
     </entry>
 </feed>
