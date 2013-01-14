@@ -4,8 +4,23 @@
     <id>http://example.com/</id>
     <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe" type="text/html"/>
     <link rel="self" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/atom.xml" type="application/atom+xml"/>
-    <updated>2013-01-14T11:07:44Z</updated>
+    <updated>2013-01-14T11:32:58Z</updated>
     <entry>
+        <title>derhelm.</title>
+        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2013/01/14/03-derhelm.html" type="text/html"/>
+        <id>tag:fnanp.in-ulm.de,2013-01-14:2013/01/14/derhelm</id>
+        <updated>2013-01-14T11:32:59Z</updated>
+        <published>2013-01-14T11:32:42Z</published>
+        <category term="administrativa"/>
+        <author>
+            <name>michael</name>
+        </author>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Geklärt. Da wollte ich was zum Thema Ski-Helm schreiben, weil wir nämlich
+welche gekauft haben für Frederiks Skikurs, den er in der Woche zwischen
+Weihnachten und Neujahr auf der Seegrube über Innsbruck gemacht hat.</p>
+<p>War übrigens super! (Bericht später ausführlich)</p>
+<p>Jedenfalls. Ich nehm den alten nicht-Eintrag raus ...</p></div></content>
+    </entry><entry>
         <title>addendum.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2013/01/14/02-addendum.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2013-01-14:2013/01/14/addendum</id>
@@ -44,17 +59,6 @@ neue Geschenke da!</p>
 dann das Haus) sehr schnell voll würde und dann kein Platz mehr für Neues
 wäre.</p>
 <p>Ich weiss noch nicht genau, ob ich ihn damit überzeugt habe.</p></div></content>
-    </entry><entry>
-        <title>helm.</title>
-        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2012/12/11/01-helm.html" type="text/html"/>
-        <id>tag:fnanp.in-ulm.de,2012-12-11:2012/12/11/helm</id>
-        <updated>2013-01-14T10:49:14Z</updated>
-        <published>2012-12-11T20:06:21Z</published>
-        <category term="frederik"/>
-        <author>
-            <name>michael</name>
-        </author>
-        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Nachdem Frederik</p></div></content>
     </entry><entry>
         <title>ordnung.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2012/12/06/01-ordnung.html" type="text/html"/>
