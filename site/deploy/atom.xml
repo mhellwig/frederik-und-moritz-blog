@@ -4,8 +4,26 @@
     <id>http://example.com/</id>
     <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe" type="text/html"/>
     <link rel="self" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/atom.xml" type="application/atom+xml"/>
-    <updated>2013-02-23T11:12:16Z</updated>
+    <updated>2013-02-26T09:35:27Z</updated>
     <entry>
+        <title>spiegel.</title>
+        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2013/02/26/01-spiegel.html" type="text/html"/>
+        <id>tag:fnanp.in-ulm.de,2013-02-26:2013/02/26/spiegel</id>
+        <updated>2013-02-26T09:35:27Z</updated>
+        <published>2013-02-26T09:35:19Z</published>
+        <category term="elternbetrachtungen"/>
+        <author>
+            <name>michael</name>
+        </author>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Warum ist das eigentlich so, dass Kinder absolut nicht zu normalem Verhalten
+fähig sind, sobald sie sich in einem Spiegel sehen? Wir haben im Vorzimmer
+(i.e. da wo man Schuhe und Mantel anzieht) einen großen Spiegel hängen, und
+grad bei Frederik ist das so, dass sobald er in die Richtung schaut er nur
+noch Grimassen schneidet und Blödsinn macht, egal wie sehr man ihm mitzuteilen
+versucht, dass es grade eilig ist.</p>
+<p>Wobei man nicht das Gefühl hat, dass das einer bewussten Kontrolle unterliegt,
+das scheint einfach von selber zu passieren.</p></div></content>
+    </entry><entry>
         <title>monster.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2013/02/23/01-monster.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2013-02-23:2013/02/23/monster</id>
@@ -464,27 +482,5 @@ muss, gibt man ihm eine Aprikose. Dann stirbt er nicht.</p>
 <p>Ich hab kurz gebraucht, bis mir ein Licht aufging.</p>
 <p>Jedenfalls hat ihm das der Florian im Kindergarten erzählt. Wir haben dann mal
 korrigiert und versucht zu erklären, was gemeint ist.</p></div></content>
-    </entry><entry>
-        <title>verschwunden.</title>
-        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2012/06/15/01-verschwunden.html" type="text/html"/>
-        <id>tag:fnanp.in-ulm.de,2012-06-15:2012/06/15/verschwunden</id>
-        <updated>2012-06-15T19:55:34Z</updated>
-        <published>2012-06-15T19:55:24Z</published>
-        <category term="moritz"/><category term="sprache"/>
-        <author>
-            <name>michael</name>
-        </author>
-        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Grade eben waren wir auf der Suche nach dem Griff der elektrischen
-Kinderzahnbürste. Die Aufsteckbürsten lagen da, aber der Griff (wo der Akku
-und der Motor drin sind) war nicht auf seinem Platz am Ladegerät. Kurze
-Nachfrage bei Susanne ergab, dass Moritz heute als Letzter damit beschäftigt
-war (kurz vor dem Besuch beim Zahnarzt).</p>
-<p>Also den Moritz gefragt, wo er den Griff hingetan hat. Er deutet auf die
-Ladestation und meint "da hin". Kurze Pause. "Und dann is sie verschwunden."</p>
-<p>Aha.</p>
-<p>Also frag ich "und weisst du auch, wohin sie verschwunden ist?"</p>
-<p>Daraufhin er "ja" und lief zum Wäschetrockner und holte triumphierend den
-Griff dort raus.</p>
-<p>Man muss immer noch mal weiter nachfragen ...</p></div></content>
     </entry>
 </feed>
