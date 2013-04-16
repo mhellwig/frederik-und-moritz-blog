@@ -4,8 +4,29 @@
     <id>http://example.com/</id>
     <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe" type="text/html"/>
     <link rel="self" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/atom.xml" type="application/atom+xml"/>
-    <updated>2013-04-16T15:54:14Z</updated>
+    <updated>2013-04-16T15:58:30Z</updated>
     <entry>
+        <title>blumenbiehnen.</title>
+        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2013/04/16/02-blumen_bienen.html" type="text/html"/>
+        <id>tag:fnanp.in-ulm.de,2013-04-16:2013/04/16/blumen_bienen</id>
+        <updated>2013-04-16T15:58:30Z</updated>
+        <published>2013-04-16T15:58:26Z</published>
+        <category term="moritz"/><category term="sprachen"/>
+        <author>
+            <name>michael</name>
+        </author>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Zwei Zitate von Moritz, das erste war vor ein paar Tagen, mit viel Aufregung
+in der Stimme:</p>
+<blockquote>
+<p>In meinem Kindergarten, die Mia, die hat <strong>keinen Penis</strong>!</p>
+</blockquote>
+<p>Ich hab ihm dann erklärt, dass das bei Mädchen immer so ist. Gestern waren
+wir grade unterwegs zum Schwimmen, plötzlich ruft es völlig unzusammenhängend
+von hinten aus dem Auto</p>
+<blockquote>
+<p>keinen Penis haben ist <em>so</em> lustig!</p>
+</blockquote></div></content>
+    </entry><entry>
         <title>bemueht.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2013/04/16/01-bemueht.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2013-04-16:2013/04/16/bemueht</id>
@@ -472,29 +493,5 @@ Kindergartenkindern) und unserem Besuch am Attersee.</p>
 Susanne - Wäsche rein tun. [Anm: in die Waschmaschine]<br/>
 Frederik - Du machst immer die coolsten Sachen, wenn wir nicht dabei sind.</p>
 </blockquote></div></content>
-    </entry><entry>
-        <title>addendum2.</title>
-        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2012/06/27/02-addendum2.html" type="text/html"/>
-        <id>tag:fnanp.in-ulm.de,2012-06-27:2012/06/27/addendum2</id>
-        <updated>2012-07-17T22:13:37Z</updated>
-        <published>2012-06-27T10:35:55Z</published>
-        <category term="administrativa"/>
-        <author>
-            <name>michael</name>
-        </author>
-        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Irgendwas ist mit der Reihenfolge der Bilder zB im Dezember ein bissl
-durcheinander. Ich bitte das zu entschuldigen, bis ich mich drum kümmern kann.</p></div></content>
-    </entry><entry>
-        <title>addendum.</title>
-        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2012/06/27/01-addendum.html" type="text/html"/>
-        <id>tag:fnanp.in-ulm.de,2012-06-27:2012/06/27/addendum</id>
-        <updated>2012-06-27T10:23:30Z</updated>
-        <published>2012-06-27T10:23:01Z</published>
-        <category term="administrativa"/>
-        <author>
-            <name>michael</name>
-        </author>
-        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Ich werd dann demnächst auch noch ältere Handy-Bilder mit einpflegen und auch
-schaun was auf Susannes Gerät so rumliegt.</p></div></content>
     </entry>
 </feed>
