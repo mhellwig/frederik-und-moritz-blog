@@ -4,8 +4,41 @@
     <id>http://example.com/</id>
     <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe" type="text/html"/>
     <link rel="self" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/atom.xml" type="application/atom+xml"/>
-    <updated>2013-04-23T12:33:50Z</updated>
+    <updated>2013-04-26T12:41:11Z</updated>
     <entry>
+        <title>horror.</title>
+        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2013/04/26/01-horror.html" type="text/html"/>
+        <id>tag:fnanp.in-ulm.de,2013-04-26:2013/04/26/horror</id>
+        <updated>2013-04-26T12:41:11Z</updated>
+        <published>2013-04-26T12:41:07Z</published>
+        <category term="frederik"/><category term="sprache"/>
+        <author>
+            <name>michael</name>
+        </author>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Neulich, so glaube ich, hat Frederik seine erste Horror-Geschichte
+erzählt (also seinerseits mit Absicht). Wir waren grade zu dritt
+(Moritz, Frederik und ich) mit dem Auto unterwegs, da fragte mich
+Frederik wie das denn sei, wenn man wo auf eine Giftspinne träfe und
+auf die drauftrete, ob einen die dann trotzdem beissen kann.</p>
+<p>Ich hab geantwortet, dass das wohl von den Schuhen abhängt, die man (oder
+nicht) anhat und davon, ob das eine Spinne ist, die springen kann oder so,
+kenn mich ja auch nicht super mit Spinnen aus.</p>
+<p>Daraufhin hat sich Frederik zu Moritz gedreht und gemeint</p>
+<blockquote>
+<p>F - es gibt Giftspinnen, zum Beispiel gibts auch Kreuzspinnen<br/>
+ich - die Kreuzspinnen sind aber gar nicht sooo giftig, da gibts andre die
+viel ärger sind<br/>
+F - [<em>an der Stelle hat er seine Stimme verstellt</em>] es gibt aber auch
+BLUUTSPINNEN!<br/>
+Moritz - <em>schaut ungläubig</em><br/>
+F - die saugen einem das BLUUT aus! Und das Blut braucht man zum Leben!<br/>
+M - ja<br/>
+F - und gestern hab ich am Spielplatz eine gesehn! Bei der Rutsche!<br/>
+[<em>kurze Pause</em>]<br/>
+F - [<em>Stimme wieder normal</em>] ich hab geschwindelt, die gibts gar nicht  </p>
+</blockquote>
+<p>Moritz war ausreichend beeindruckt.</p></div></content>
+    </entry><entry>
         <title>blumenbienen.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2013/04/16/02-blumen_bienen.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2013-04-16:2013/04/16/blumen_bienen</id>
@@ -478,22 +511,6 @@ Kindergartenkindern) und unserem Besuch am Attersee.</p>
         <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Kurze Durchsage von Frederik:</p>
 <blockquote>
 <p>Wenn man fünf is, dann kann man <em>alles</em>, gell?</p>
-</blockquote></div></content>
-    </entry><entry>
-        <title>cool.</title>
-        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2012/06/28/01-cool.html" type="text/html"/>
-        <id>tag:fnanp.in-ulm.de,2012-06-28:2012/06/28/cool</id>
-        <updated>2012-06-28T23:00:15Z</updated>
-        <published>2012-06-28T22:58:06Z</published>
-        <category term="frederik"/><category term="sprache"/>
-        <author>
-            <name>michael</name>
-        </author>
-        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Wie mir berichtet wurde, gab es heute folgendes Zwiegespräch im Badezimmer:</p>
-<blockquote>
-<p>Frederik - Was machst du?<br/>
-Susanne - Wäsche rein tun. [Anm: in die Waschmaschine]<br/>
-Frederik - Du machst immer die coolsten Sachen, wenn wir nicht dabei sind.</p>
 </blockquote></div></content>
     </entry>
 </feed>
