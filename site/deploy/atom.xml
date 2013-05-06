@@ -4,8 +4,32 @@
     <id>http://example.com/</id>
     <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe" type="text/html"/>
     <link rel="self" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/atom.xml" type="application/atom+xml"/>
-    <updated>2013-04-26T12:41:11Z</updated>
+    <updated>2013-05-06T12:40:58Z</updated>
     <entry>
+        <title>reinhold.</title>
+        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2013/05/06/01-reinhold.html" type="text/html"/>
+        <id>tag:fnanp.in-ulm.de,2013-05-06:2013/05/06/reinhold</id>
+        <updated>2013-05-06T12:40:58Z</updated>
+        <published>2013-05-06T12:40:53Z</published>
+        <category term="moritz"/><category term="sprache"/>
+        <author>
+            <name>michael</name>
+        </author>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Eine Begebenheit von neulich abends. Ich hatte Moritz und Frederik ca eine
+dreiviertel Stunde davor ins Bett gebracht und war grade ein Stockwerk tiefer
+damit beschäftigt, ein bissl die Küche aufzuräumen. Da hörte ich bekannte
+Geräusche auf der Treppe, wo der Moritz grade runterkam, mit Maus (von der
+"Sendung mit der -") und Trinkflasche (leer) im Arm. Also hab ich ihm die
+Trinkflasche mit Wasser aufgefüllt und gesagt</p>
+<blockquote>
+<p>ich - dann bring ich dich jetzt wieder ins Bett<br/>
+Moritz - nein, da war ich schon<br/>
+ich - ... ?<br/>
+Moritz - und jetzt bin ich zu euch spaziert.</p>
+</blockquote>
+<p>(mit "zu euch" hat er unser Schlafzimmer gemeint).<br/>
+Sprachs und "spazierte" in unser Schlafzimmer und auf unser Bett ...</p></div></content>
+    </entry><entry>
         <title>horror.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2013/04/26/01-horror.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2013-04-26:2013/04/26/horror</id>
