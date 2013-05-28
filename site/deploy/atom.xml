@@ -4,8 +4,33 @@
     <id>http://example.com/</id>
     <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe" type="text/html"/>
     <link rel="self" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/atom.xml" type="application/atom+xml"/>
-    <updated>2013-05-06T12:40:58Z</updated>
+    <updated>2013-05-28T07:54:11Z</updated>
     <entry>
+        <title>horror2.</title>
+        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2013/05/27/01-horror2.html" type="text/html"/>
+        <id>tag:fnanp.in-ulm.de,2013-05-27:2013/05/27/horror2</id>
+        <updated>2013-05-27T15:02:30Z</updated>
+        <published>2013-05-27T15:02:22Z</published>
+        <category term="frederik"/><category term="sprache"/>
+        <author>
+            <name>michael</name>
+        </author>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Frederik hat neulich (vermutlich aus einer Packung Haarfärbemittel übrig
+geblieben) zwei so Latex-Einmalhandschuhe gefunden und die dann gleich
+angezogen. Zuerst hat er bemerkt, dass, nachdem ihm die ein bissl zu gross
+waren, wenn da an den Handflächen ein bissl Luft drunter ist und er die
+Handflächen zusammendrückt, das ein "lustiges" Geräusch gibt. So weit so gut.</p>
+<p>Dann hatte er also die Handschuhe an und ist in dieser klassischen
+Chirurgen-Handhaltung (Ellbogen abgewinkelt mit Händen nach oben vor dem
+Oberkörper, Handinnenflächen zum Oberkörper gerichtet) herumgelaufen und hat
+monoton immer wieder gerufen "ICH BIN DER ASSISTENT!"</p>
+<p>Zuerst hatte ich ja diverse Horrorfilm-Assoziationen, bis uns klar wurde dass
+er ja grade erst beim Zahnarzt war (also mit dem Kindergarten waren sie bei
+einer Kindergarten-Mutter, die Zahnärztin ist, die ihnen verschiedenes erklärt
+und gezeigt hat und so) und das wohl von dort hat.</p>
+<p>Trotzdem.</p>
+<p>"ICH BIN DER ASSISTENT!"</p></div></content>
+    </entry><entry>
         <title>reinhold.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2013/05/06/01-reinhold.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2013-05-06:2013/05/06/reinhold</id>
@@ -500,41 +525,5 @@ nicht viel weniger interessanter Satz kam kurz davor von Moritz, nämlich</p>
 <p>Wir sind der Arzt!</p>
 </blockquote>
 <p>da bin ich mir noch nicht ganz sicher, wie ich das interpretiere.</p></div></content>
-    </entry><entry>
-        <title>camping.</title>
-        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2012/07/17/02-camping.html" type="text/html"/>
-        <id>tag:fnanp.in-ulm.de,2012-07-17:2012/07/17/camping</id>
-        <updated>2012-07-17T22:12:27Z</updated>
-        <published>2012-07-17T22:09:02Z</published>
-        <category term="fotos"/><category term="elternbetrachtungen"/><category term="frederik"/><category term="moritz"/>
-        <author>
-            <name>michael</name>
-        </author>
-        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Ende Juni/Anfang Juli waren wir zum Zelten (weil wir das mal ausprobieren
-wollten um den Kindern eine Freude zu machen) in Isny. Dort gibts einen
-Campingplatz namens <a href="http://www.waldbad-camping-isny.de/">WaldbadcampingIsny</a>,
-der ist sehr nett und enthält auch einen Badesee (wie der Name schon erahnen
-lässt).</p>
-<p>Ein Beispielfoto:</p>
-<p><img alt="Herr B aus V, überrascht" src="2012/07/17/bile_ueberrascht.jpg"/><br/>
-<em>Herr B aus V, überrascht</em></p>
-<p>Jedenfalls hab ich das zum Anlass genommen, neue Bilder hochzuladen.
-Zusätzlich noch von Frederiks zweiter Geburtstagsfeier (mit den
-Kindergartenkindern) und unserem Besuch am Attersee.</p>
-<p>Die neuen Bilder finden sich am Ende des Juni-Ordners und dann im Juli-Ordner.</p></div></content>
-    </entry><entry>
-        <title>alles.</title>
-        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2012/07/17/01-alles.html" type="text/html"/>
-        <id>tag:fnanp.in-ulm.de,2012-07-17:2012/07/17/alles</id>
-        <updated>2012-07-17T22:02:34Z</updated>
-        <published>2012-07-17T22:02:30Z</published>
-        <category term="frederik"/><category term="sprache"/>
-        <author>
-            <name>michael</name>
-        </author>
-        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Kurze Durchsage von Frederik:</p>
-<blockquote>
-<p>Wenn man fünf is, dann kann man <em>alles</em>, gell?</p>
-</blockquote></div></content>
     </entry>
 </feed>

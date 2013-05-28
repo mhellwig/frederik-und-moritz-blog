@@ -2,7 +2,8 @@
 <?python top = "./" ?>
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml"
-      xmlns:py="http://genshi.edgewall.org/">
+      xmlns:py="http://genshi.edgewall.org/"
+      lang="de">
     <head>
         <title>Frederik und Moritz Blog</title>
         <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
