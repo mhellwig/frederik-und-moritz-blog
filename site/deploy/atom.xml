@@ -4,8 +4,23 @@
     <id>http://example.com/</id>
     <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe" type="text/html"/>
     <link rel="self" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/atom.xml" type="application/atom+xml"/>
-    <updated>2013-09-20T19:14:41Z</updated>
+    <updated>2013-09-21T18:59:19Z</updated>
     <entry>
+        <title>portugal2.</title>
+        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2013/09/21/01-portugal2.html" type="text/html"/>
+        <id>tag:fnanp.in-ulm.de,2013-09-21:2013/09/21/portugal2</id>
+        <updated>2013-09-21T18:59:20Z</updated>
+        <published>2013-09-21T18:59:15Z</published>
+        <category term="moritz"/><category term="sprache"/><category term="portugal"/>
+        <author>
+            <name>michael</name>
+        </author>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Eine weitere Durchsage zum Thema Portugal (von Moritz):</p>
+<blockquote>
+<p>Portugal ist <em>hinter allen anderen Ländern</em>!</p>
+</blockquote>
+<p>Na gottseidank ist das geklärt.</p></div></content>
+    </entry><entry>
         <title>herbst.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2013/09/20/01-herbst.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2013-09-20:2013/09/20/herbst</id>
@@ -589,21 +604,5 @@ Zentimeter weit weg von ihm. Er machte noch einen Schritt und verschwand unter
 Wasser.</p>
 <p>Ich hab ihn dann rausgezogen und er war <em>sehr</em> erstaunt, dass er nicht oben
 auf geschwommen war. Damit hatte er einfach überhaupt nicht gerechnet.</p></div></content>
-    </entry><entry>
-        <title>sch.</title>
-        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2012/10/11/01-sch.html" type="text/html"/>
-        <id>tag:fnanp.in-ulm.de,2012-10-11:2012/10/11/sch</id>
-        <updated>2012-10-11T12:56:43Z</updated>
-        <published>2012-10-11T12:56:39Z</published>
-        <category term="frederik"/><category term="sprache"/>
-        <author>
-            <name>michael</name>
-        </author>
-        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Oft fällt einem ja gar nicht so sehr auf, dass die eigenen Kinder eine andere
-Sprache sprechen als man selbst. Aber die wachsen halt eben dort auf, wo sie
-aufwachsen, mit Kindergartenfreunden und anderen Bekanntschaften, und .. ja.</p>
-<p>Umso lustiger ist es dann, wenn man zu einem Wort kommt, das sie nur von einem
-selbst oder den Grosseltern kennen und deshalb eben so aussprechen, wie sie es
-dort gehört haben. Frederik sagt zum Beispiel "Inschbrugg". Sehr schön.</p></div></content>
     </entry>
 </feed>
