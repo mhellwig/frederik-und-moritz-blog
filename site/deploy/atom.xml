@@ -4,8 +4,31 @@
     <id>http://example.com/</id>
     <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe" type="text/html"/>
     <link rel="self" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/atom.xml" type="application/atom+xml"/>
-    <updated>2013-09-21T18:59:19Z</updated>
+    <updated>2013-09-27T14:20:42Z</updated>
     <entry>
+        <title>rekursion.</title>
+        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2013/09/27/01-rekursion.html" type="text/html"/>
+        <id>tag:fnanp.in-ulm.de,2013-09-27:2013/09/27/rekursion</id>
+        <updated>2013-09-27T14:20:42Z</updated>
+        <published>2013-09-27T14:20:38Z</published>
+        <category term="moritz"/><category term="sprache"/>
+        <author>
+            <name>michael</name>
+        </author>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Moritz lieferte mir neulich ein wunderschönes Beispiel für Rekursion.
+Obwohl eigentlich von der Temperatur her noch nicht nötig (ist ja grade
+eher warm draussen) wünschte er sich unbedingt, seine Spiderman-Mütze
+aufsetzen zu dürfen. Er hatte also diese Mütze auf, auf der sich ein Bild
+der Comic-Figur <a href="http://de.wikipedia.org/wiki/Spiderman">Spiderman</a>
+befindet (nicht, dass er den Comic aus Anschauung kennt, aber die Figur
+ist ihm aus dem Kindergarten ein Begriff). Er lief auf der Strasse neben
+mir her und sagte plötzlich</p>
+<blockquote>
+<p>Der Spiderman auf meiner Mütze hat eine Mütze auf, auf der Spiderman
+drauf is!</p>
+</blockquote>
+<p>(und: nein, hat er nicht. Also weder im Comic noch auf der Mütze)</p></div></content>
+    </entry><entry>
         <title>portugal2.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2013/09/21/01-portugal2.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2013-09-21:2013/09/21/portugal2</id>
@@ -569,40 +592,5 @@ Kleinen Roten Traktor anschauen wollte. Dazu Frederik:</p>
 <p>Überhaupt sind einige Dinge sehr oft "noch nie".</p>
 <p>Moritz meinte dann auch zum Feuerwehrmann Sam, dass sie den "noch nie"
 angeschaut hätten, was Frederik entrüstet korrigiert hat.</p></div></content>
-    </entry><entry>
-        <title>verbluefft.</title>
-        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2012/11/12/01-verbluefft.html" type="text/html"/>
-        <id>tag:fnanp.in-ulm.de,2012-11-12:2012/11/12/verbluefft</id>
-        <updated>2012-11-12T14:49:59Z</updated>
-        <published>2012-11-12T14:49:54Z</published>
-        <category term="moritz"/><category term="frederik"/><category term="fortbewegung"/>
-        <author>
-            <name>michael</name>
-        </author>
-        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Gestern waren wir mal wieder (ganz kurzfristig entschieden) in Blaustein zum
-schwimmen, also im <a href="http://www.badblau.de/">Bad Blau</a>. Abgesehn von der
-erfreulichen Nachricht, dass Frederik inzwischen deutlich weniger Angst vor
-dem Wasser hat als nocht vor einem halben Jahr, ist mein Hauptthema aber hier
-der Moritz.</p>
-<p>Der war ganz ausser sich vor Freude und ist einfach so zuerst eine Treppe
-hinunter und dann auch direkt vom Beckenrand ins Wasser gesprungen
-(jeweils mit Schwimmflügeln). Mit den Schwimmflügeln an ist er auch einfach so
-rumgeschwommen, ohne dass ihm irgendwer gezeigt oder erklärt hätte wie das
-geht, aber er kam problemlos vorwärts.</p>
-<p>Später dann sassen wir beim Baby-Becken und die beiden beschlossen, dass sie
-die Schwimmflügel ausziehen wollen. Nachdem das Babybecken etwa Knie-tief ist
-(wenn überhaupt) hatten wir da nix dagegen. Ein wenig später hab ich dann den
-Moritz gefragt, ob er mit mir nochmal ins grosse Becken zum Rausschwimmen
-gehen mag (das ist im Bad Blau eines mit warmem Wasser, sehr angenehm),
-einfach um zu schauen wie er sich im tiefen Wasser verhält wenn er nicht
-einfach oben auf schwimmt sondern nur meine Hand hat (nachdems da mit dem
-Frederik im Schwimm-Vorbereitungskurs durchaus Angst-Probleme gegeben hatte).</p>
-<p>Moritz war gleich dafür, aber dann an der Treppe war er sehr dagegen, dass ich
-seine Hand nehme. Er bestand vehement darauf, dass er das alleine kann. Also
-dacht ich na gut, hilft ja nix, muss er lernen und blieb mit meiner Hand 10
-Zentimeter weit weg von ihm. Er machte noch einen Schritt und verschwand unter
-Wasser.</p>
-<p>Ich hab ihn dann rausgezogen und er war <em>sehr</em> erstaunt, dass er nicht oben
-auf geschwommen war. Damit hatte er einfach überhaupt nicht gerechnet.</p></div></content>
     </entry>
 </feed>

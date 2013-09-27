@@ -1,0 +1,21 @@
+Title     : rekursion.
+Author    : michael
+Created   : 2013-09-27T14:20:38
+Tags      : moritz, sprache
+Comments  : Off
+Trackback : Off
+TagURI    : tag:fnanp.in-ulm.de,2013-09-27:2013/09/27/rekursion
+
+Moritz lieferte mir neulich ein wunderschönes Beispiel für Rekursion.
+Obwohl eigentlich von der Temperatur her noch nicht nötig (ist ja grade
+eher warm draussen) wünschte er sich unbedingt, seine Spiderman-Mütze
+aufsetzen zu dürfen. Er hatte also diese Mütze auf, auf der sich ein Bild
+der Comic-Figur [Spiderman](http://de.wikipedia.org/wiki/Spiderman)
+befindet (nicht, dass er den Comic aus Anschauung kennt, aber die Figur
+ist ihm aus dem Kindergarten ein Begriff). Er lief auf der Strasse neben
+mir her und sagte plötzlich
+
+> Der Spiderman auf meiner Mütze hat eine Mütze auf, auf der Spiderman
+> drauf is!
+
+(und: nein, hat er nicht. Also weder im Comic noch auf der Mütze)
