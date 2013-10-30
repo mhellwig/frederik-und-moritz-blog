@@ -4,8 +4,34 @@
     <id>http://example.com/</id>
     <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe" type="text/html"/>
     <link rel="self" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/atom.xml" type="application/atom+xml"/>
-    <updated>2013-10-05T12:06:03Z</updated>
+    <updated>2013-10-30T08:22:17Z</updated>
     <entry>
+        <title>fast.</title>
+        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2013/10/30/01-fast.html" type="text/html"/>
+        <id>tag:fnanp.in-ulm.de,2013-10-30:2013/10/30/fast</id>
+        <updated>2013-10-30T08:22:17Z</updated>
+        <published>2013-10-30T08:22:09Z</published>
+        <category term="frederik"/><category term="moritz"/><category term="sprache"/><category term="schule"/>
+        <author>
+            <name>michael</name>
+        </author>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Frederik geht ja jetzt seit einigen Wochen in die erste Klasse einer, wie
+das in Deutschland heisst, Grundschule. Ein bissl wackelig war der Start
+ja, vor allem weil das Konzept Hausaufgabe bei ihm nicht eben auf
+Begeisterung gestossen ist und ausserdem Moritz so gar nicht damit
+einverstanden sein will, dass Frederik jetzt nicht mehr jederzeit mit ihm
+spielen will/kann.</p>
+<p>Aber im Grossen und Ganzen läuft die Sache jetzt ganz gut. Diese Woche
+sind in Baden-Württemberg "Herbstferien" (so richtig kenne ich mich da
+noch nicht aus) und die Kinder sind also daheim. Abends fragte ich
+Frederik, wie er seine ersten Ferien denn findet, ob die gut sind.
+Reaktion:</p>
+<blockquote>
+<p>schon gut<br/>
+fast besser als Schule.</p>
+</blockquote>
+<p>na dann ...</p></div></content>
+    </entry><entry>
         <title>bilder.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2013/10/05/01-bilder.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2013-10-05:2013/10/05/bilder</id>
@@ -585,19 +611,5 @@ Dort haben wir natürlich einige Photos gemacht und jetzt endlich hab ich sie
 auch online gestellt.</p>
 <p>Teaser:</p>
 <p><a href="http://fnanp.in-ulm.de/frederik_und_moritz/photos/2012_08/index.html"><img alt="Sandburg" src="2012/12/04/sandburg_small.jpg"/></a></p></div></content>
-    </entry><entry>
-        <title>pyjama.</title>
-        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2012/12/01/01-pyjama.html" type="text/html"/>
-        <id>tag:fnanp.in-ulm.de,2012-12-01:2012/12/01/pyjama</id>
-        <updated>2012-12-01T14:28:02Z</updated>
-        <published>2012-12-01T14:27:55Z</published>
-        <category term="moritz"/><category term="sprache"/>
-        <author>
-            <name>michael</name>
-        </author>
-        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Kurze Durchsage von Moritz:</p>
-<blockquote>
-<p>Ich will meinen Pyjama nie mehr ausziehen!</p>
-</blockquote></div></content>
     </entry>
 </feed>
