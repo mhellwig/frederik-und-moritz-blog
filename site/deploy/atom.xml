@@ -4,8 +4,42 @@
     <id>http://example.com/</id>
     <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe" type="text/html"/>
     <link rel="self" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/atom.xml" type="application/atom+xml"/>
-    <updated>2013-10-30T08:22:17Z</updated>
+    <updated>2013-11-12T16:35:40Z</updated>
     <entry>
+        <title>hirn.</title>
+        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2013/11/12/01-hirn.html" type="text/html"/>
+        <id>tag:fnanp.in-ulm.de,2013-11-12:2013/11/12/hirn</id>
+        <updated>2013-11-12T16:35:40Z</updated>
+        <published>2013-11-12T16:35:36Z</published>
+        <category term="moritz"/><category term="sprache"/>
+        <author>
+            <name>michael</name>
+        </author>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Letzte Woche saß ich wirklich sprachlos im Auto. Moritz und ich hatten
+einen kleinen Zwist, er war aus irgendeinem nichtigen Grund (also
+eigentlich halt weil er müde war) grade wütend und drohte</p>
+<blockquote>
+<p>Dann schnall ich mich eben ab!</p>
+</blockquote>
+<p>Ich wies ihn darauf hin, dass er das auf keinen Fall dürfe. Kurze Zeit
+später, wir rollten grade mit ca 5 km/h durch einen verkehrsberuhigten
+Bereich, hörte ich von hinten ein vernehmliches "klick". Daraufhin teilte
+ich ihm mit, dass das so richtig wirklich extrem verboten sei und
+überhaupt gar nicht gehe, dass er sich während der Fahrt abschnallt.
+Woraufhin er seine momentane Lieblings-Ausrede ins Spiel brachte, nämlich</p>
+<blockquote>
+<p>Das hab ich nicht gewusst!</p>
+</blockquote>
+<p>Das bringt er hier eben in einem völlig unsinnigen Kontext (i.e. weil ich
+ihn ja grade davor drauf hingewiesen hatte). Daher erklärte ich etwas
+forsch "red doch nicht so einen Blödsinn! Natürlich hast du das gewusst."
+Seine Reaktion war dann ein extremst entrüstet gerufenes</p>
+<blockquote>
+<p>DU WEISST NICHT WAS IN MEINEM HIRN DRIN IS!</p>
+</blockquote>
+<p>Ja. Und dann wusst ich eben nicht mehr was ich da drauf noch antworten
+soll ...</p></div></content>
+    </entry><entry>
         <title>fast.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2013/10/30/01-fast.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2013-10-30:2013/10/30/fast</id>
@@ -596,20 +630,5 @@ Frederik (schulterzuckend) - so halt  </p>
 </blockquote>
 <p>(unsere Vermutung: schön langsam fällt ihm auf, dass das mit den kleinen
 Legosteinen sonst schwierig wird, wenn er sie nicht mehr findet)</p></div></content>
-    </entry><entry>
-        <title>nordfriesland.</title>
-        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2012/12/04/01-nordfriesland.html" type="text/html"/>
-        <id>tag:fnanp.in-ulm.de,2012-12-04:2012/12/04/nordfriesland</id>
-        <updated>2012-12-04T23:28:08Z</updated>
-        <published>2012-12-04T23:23:04Z</published>
-        <category term="frederik"/><category term="moritz"/><category term="fotos"/>
-        <author>
-            <name>michael</name>
-        </author>
-        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Wir waren ja im Sommerurlaub in Nordfriesland (genauergesagt in Dagebüll).
-Dort haben wir natürlich einige Photos gemacht und jetzt endlich hab ich sie
-auch online gestellt.</p>
-<p>Teaser:</p>
-<p><a href="http://fnanp.in-ulm.de/frederik_und_moritz/photos/2012_08/index.html"><img alt="Sandburg" src="2012/12/04/sandburg_small.jpg"/></a></p></div></content>
     </entry>
 </feed>
