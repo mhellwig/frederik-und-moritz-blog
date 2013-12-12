@@ -1,0 +1,30 @@
+Title     : waermer.
+Author    : michael
+Created   : 2013-12-12T16:47:58
+Tags      : moritz, sprache
+Comments  : Off
+Trackback : Off
+TagURI    : tag:fnanp.in-ulm.de,2013-12-12:2013/12/12/waermer
+
+Uns ist neulich aufgefallen, dass es da einen lustigen Verständnis-Fehler
+bei Moritz gibt. Für ihn hat die Temperaturskala drei Werte, nämlich
+
+Kalt - Warm - Heiss
+
+Sowohl bei Essen als auch beim Dusch- oder Badewasse ist "Warm" das, was
+er haben will, "Kalt" und "Heiss" sind unerwünscht.
+
+Kommen wir nun also zum Komparativ "Wärmer". Als Erwachsener denkt man
+sich Temperatur als Koordinaten-Achse, auf der stufenlos Werte aufgetragen
+sind, und auf der eine eindeutige kleiner/größer Relation existiert (von
+links nach rechts). Die Bewegung nach links bezeichnen wir als "kälter",
+die nach rechts als "wärmer".
+
+Der Moritz sieht das anders. "Wärmer" ist für ihn die Bewegung von
+_beiden_ Seiten auf den Punkt hin, den er mit "Warm" (i.e. "korrekt")
+bezeichnet. Es kann also sein, dass man ihm ein Getränk hinstellt, das er
+viel zu heiss findet, und er sagt es soll "wärmer" sein. Damit meint er
+dann eben, er will dass es nicht heiss sondern warm sein soll.
+
+Sollte man bedenken, wenn man ihn fragt, ob die Temperatur von irgendwas
+ihm genehm ist.
