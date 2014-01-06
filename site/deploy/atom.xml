@@ -4,8 +4,26 @@
     <id>http://example.com/</id>
     <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe" type="text/html"/>
     <link rel="self" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/atom.xml" type="application/atom+xml"/>
-    <updated>2013-12-24T15:37:40Z</updated>
+    <updated>2014-01-06T10:49:24Z</updated>
     <entry>
+        <title>zodiak.</title>
+        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2014/01/06/01-zodiak.html" type="text/html"/>
+        <id>tag:fnanp.in-ulm.de,2014-01-06:2014/01/06/zodiak</id>
+        <updated>2014-01-06T10:49:24Z</updated>
+        <published>2014-01-06T10:49:19Z</published>
+        <category term="frederik"/><category term="sprache"/>
+        <author>
+            <name>michael</name>
+        </author>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Manchmal kommt ja einfach so aus heiterem Himmel eine Frage, mit der man
+erst nach etwas Präzisierung etwas anfangen kann. Frederik meinte neulich,
+das sei doch so, dass man irgendwas ist. Je nachdem wann man Geburtstag
+hat. Dann ist man irgendwas. "Zum Beispiel Hirsch oder Sturm oder so." Und
+er wollte also wissen was davon er ist ... Wir haben ihm dann erklärt,
+dass es leider weder Hirsch noch Sturm gibt (obwohl wir Sturm sehr cool
+fänden), und dass er Zwilling ist. Und dass der Moritz Löwe ist. Was
+wiederum der Moritz sehr gut fand.</p></div></content>
+    </entry><entry>
         <title>dumpa.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2013/12/24/01-dumpa.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2013-12-24:2013/12/24/dumpa</id>
