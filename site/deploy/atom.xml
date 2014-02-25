@@ -4,8 +4,23 @@
     <id>http://example.com/</id>
     <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe" type="text/html"/>
     <link rel="self" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/atom.xml" type="application/atom+xml"/>
-    <updated>2014-02-14T08:58:59Z</updated>
+    <updated>2014-02-25T23:36:54Z</updated>
     <entry>
+        <title>marlene.</title>
+        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2014/02/25/01-marlene.html" type="text/html"/>
+        <id>tag:fnanp.in-ulm.de,2014-02-25:2014/02/25/marlene</id>
+        <updated>2014-02-25T23:36:54Z</updated>
+        <published>2014-02-25T23:36:51Z</published>
+        <category term="marlene"/><category term="administrativa"/>
+        <author>
+            <name>michael</name>
+        </author>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Am 17.2., um 14:45, ist <a href="2014/02/25/">Marlene</a> gesund zur Welt gekommen. Nicht nur
+Susanne und ich sondern auch die zwei Brüder haben uns sehr gefreut (und
+freuen sich natürlich auch dauerhaft weiter). Bilder werde ich demnächst
+hochladen (mal abgesehen von dem einen, das unter o.g. Link zu finden
+ist).</p></div></content>
+    </entry><entry>
         <title>zitate.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2014/02/14/01-zitate.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2014-02-14:2014/02/14/zitate</id>
@@ -630,22 +645,5 @@ M - Andere Kinder.<br/>
 i - da kann man also Kinder kaufen?<br/>
 M - ja, für die Monster</p>
 </blockquote></div></content>
-    </entry><entry>
-        <title>spiel.</title>
-        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2013/02/16/01-spiel.html" type="text/html"/>
-        <id>tag:fnanp.in-ulm.de,2013-02-16:2013/02/16/spiel</id>
-        <updated>2013-02-16T18:51:10Z</updated>
-        <published>2013-02-16T18:50:45Z</published>
-        <category term="moritz"/><category term="sprache"/>
-        <author>
-            <name>michael</name>
-        </author>
-        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Moritz soeben zur Großmama:</p>
-<blockquote>
-<p>spiel mit mir!<br/>
-du spielst die Verlierer!<br/>
-du musst mitspielen, ich hab dich rausgesiegt.</p>
-</blockquote>
-<p>Keine weiteren Fragen.</p></div></content>
     </entry>
 </feed>
