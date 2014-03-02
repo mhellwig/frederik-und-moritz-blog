@@ -4,8 +4,24 @@
     <id>http://example.com/</id>
     <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe" type="text/html"/>
     <link rel="self" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/atom.xml" type="application/atom+xml"/>
-    <updated>2014-02-25T23:38:10Z</updated>
+    <updated>2014-03-02T22:21:38Z</updated>
     <entry>
+        <title>bad.</title>
+        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2014/03/02/01-bad.html" type="text/html"/>
+        <id>tag:fnanp.in-ulm.de,2014-03-02:2014/03/02/bad</id>
+        <updated>2014-03-02T22:21:38Z</updated>
+        <published>2014-03-02T22:21:30Z</published>
+        <category term="untagged"/>
+        <author>
+            <name>michael</name>
+        </author>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Tag: marlene</p>
+<p>Ich kann vermelden, dass Marlene heute zum ersten Mal gebadet hat/wurde.</p>
+<p>Das Feedback war positiv.</p>
+<p>Vor allem auch war das Feedback zum wieder-heraus-genommen-werden äußerst
+negativ.</p>
+<p>Baden also: gerne wieder, alles wunderbar.</p></div></content>
+    </entry><entry>
         <title>marlene.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2014/02/25/01-marlene.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2014-02-25:2014/02/25/marlene</id>
@@ -622,28 +638,5 @@ noch Grimassen schneidet und Blödsinn macht, egal wie sehr man ihm mitzuteilen
 versucht, dass es grade eilig ist.</p>
 <p>Wobei man nicht das Gefühl hat, dass das einer bewussten Kontrolle unterliegt,
 das scheint einfach von selber zu passieren.</p></div></content>
-    </entry><entry>
-        <title>monster.</title>
-        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2013/02/23/01-monster.html" type="text/html"/>
-        <id>tag:fnanp.in-ulm.de,2013-02-23:2013/02/23/monster</id>
-        <updated>2013-02-23T11:12:16Z</updated>
-        <published>2013-02-23T11:12:02Z</published>
-        <category term="moritz"/><category term="sprache"/>
-        <author>
-            <name>michael</name>
-        </author>
-        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Grade ist Frederik beim Schwimmkurs und ich hab mit Moritz besprochen, dass
-wir nachher wo bei einem Geschäft eine Breze kaufen oder sowas. Daraufhin:</p>
-<blockquote>
-<p>Mo - vielleicht gibts da auch ein Monster-Geschäft<br/>
-ich - was kann man da kaufen, Monster?<br/>
-M - Nein, ein Geschäft <em>für</em> Monster!<br/>
-i - und was kann man da kaufen?<br/>
-M - Sachen für Monster zum Essen.<br/>
-i - was essen die so?<br/>
-M - Andere Kinder.<br/>
-i - da kann man also Kinder kaufen?<br/>
-M - ja, für die Monster</p>
-</blockquote></div></content>
     </entry>
 </feed>
