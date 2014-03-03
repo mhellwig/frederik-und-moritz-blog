@@ -5,18 +5,18 @@
       xmlns:py="http://genshi.edgewall.org/"
       lang="de">
     <head>
-        <title>Frederik und Moritz Blog</title>
+        <title>Frederik und Moritz und Marlene Blog</title>
         <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
         <meta name="date" py:if="c" content="${c[0].get_article().created.isoformat()}" />
         <meta name="robots" content="index, follow" />
         <meta http-equiv="content-language" content="de" />
         <link rel="stylesheet" type="text/css" href="${top}css/all-min.css" />
-        <link rel="alternate" type="application/atom+xml" title="Frederik und Moritz Blog" href="${top}atom.xml" />
+        <link rel="alternate" type="application/atom+xml" title="Frederik und Moritz und Marlene Blog" href="${top}atom.xml" />
     </head>
     <body>
     <div id="wrap">
         <div id="header">
-            <h1><a href="${top}">Frederik und Moritz Blog</a></h1>
+            <h1><a href="${top}">Frederik und Moritz und Marlene Blog</a></h1>
 	    <p class="claim">väterliche Betrachtungen</p>
             <ul py:def="navigation(node_list)" class="nav">
                 <li class="prev">

@@ -3,7 +3,7 @@
 <?python home = s.defaults["url"] ?>
 <feed xmlns="http://www.w3.org/2005/Atom" 
       xmlns:py="http://genshi.edgewall.org/">
-    <title>Frederik und Moritz Blog</title>
+    <title>Frederik und Moritz und Marlene Blog</title>
     <id>http://example.com/</id>
     <link rel="alternate" href="${home}" type="text/html"/>
     <link rel="self" href="${home}/atom.xml" type="application/atom+xml"/>

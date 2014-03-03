@@ -20,7 +20,7 @@
     <body>
     <div id="wrap">
         <div id="header">
-            <h1><a href="${top}">Frederik und Moritz Blog</a></h1>
+            <h1><a href="${top}">Frederik und Moritz und Marlene Blog</a></h1>
  	    <p class="claim">väterliche Betrachtungen</p>
             <ul py:def="navigation(node)" class="nav">
                 <li class="prev">
