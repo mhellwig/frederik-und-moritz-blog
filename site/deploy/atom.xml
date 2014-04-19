@@ -4,8 +4,29 @@
     <id>http://example.com/</id>
     <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe" type="text/html"/>
     <link rel="self" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/atom.xml" type="application/atom+xml"/>
-    <updated>2014-03-05T09:54:56Z</updated>
+    <updated>2014-04-19T19:12:21Z</updated>
     <entry>
+        <title>krebs.</title>
+        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2014/04/19/01-krebs.html" type="text/html"/>
+        <id>tag:fnanp.in-ulm.de,2014-04-19:2014/04/19/krebs</id>
+        <updated>2014-04-19T19:12:21Z</updated>
+        <published>2014-04-19T19:12:16Z</published>
+        <category term="moritz"/><category term="frederik"/><category term="sprache"/>
+        <author>
+            <name>michael</name>
+        </author>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Anscheinend ergab sich vorhin folgender Dialog, mit den handelnden
+Personen "GP" = Grosspapa, "F" = Frederik, "M" = Moritz</p>
+<blockquote>
+<p>F - wir freuen uns schon auf morgen!<br/>
+GP - ich glaub "morgen" ist abgesagt.<br/>
+F,M - wieso?<br/>
+GP - Weil der Osterhase krank ist.<br/>
+F - Genau. Der hat Husten und Schnupfen und Kopfweh und Fieber und
+Krebs.<br/>
+M - und Hummer!</p>
+</blockquote></div></content>
+    </entry><entry>
         <title>frage.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2014/03/05/01-frage.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2014-03-05:2014/03/05/frage</id>
@@ -626,24 +647,5 @@ Ausgewählte Zitate:</p>
 <p>ich hab mir gedacht, weil du Blumen magst, ich stell dir den Teller mit den
 Blumen drauf hin.</p>
 </blockquote></div></content>
-    </entry><entry>
-        <title>feinschmecker.</title>
-        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2013/03/29/01-feinschmecker.html" type="text/html"/>
-        <id>tag:fnanp.in-ulm.de,2013-03-29:2013/03/29/feinschmecker</id>
-        <updated>2013-03-29T18:08:35Z</updated>
-        <published>2013-03-29T18:05:57Z</published>
-        <category term="frederik"/><category term="sprache"/>
-        <author>
-            <name>michael</name>
-        </author>
-        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Neulich war Susanne grade mit den Kindern auf dem Heimweg und begann ein
-Gespräch darüber, was man denn abends essen könnte. Sie schlug Salamibrot vor,
-oder was mit Salat oder so.</p>
-<p>Frederik legte daraufhin den Kopf schief, schaute sehr nachdenklich und meinte</p>
-<blockquote>
-<p>Weisst du, <em>eigentlich</em> hatte ich eher an Waffeln gedacht oder Pfannkuchen
-oder so ...</p>
-</blockquote>
-<p>Milchreis wäre auch noch angeboten worden, fand er auch nicht OK.</p></div></content>
     </entry>
 </feed>
