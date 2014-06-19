@@ -4,8 +4,24 @@
     <id>http://example.com/</id>
     <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe" type="text/html"/>
     <link rel="self" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/atom.xml" type="application/atom+xml"/>
-    <updated>2014-04-19T19:12:21Z</updated>
+    <updated>2014-06-19T18:16:22Z</updated>
     <entry>
+        <title>brei.</title>
+        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2014/06/19/01-brei.html" type="text/html"/>
+        <id>tag:fnanp.in-ulm.de,2014-06-19:2014/06/19/brei</id>
+        <updated>2014-06-19T18:16:22Z</updated>
+        <published>2014-06-19T18:16:17Z</published>
+        <category term="marlene"/><category term="nahrung"/>
+        <author>
+            <name>michael</name>
+        </author>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Heute haben wir Marlene zum ersten Mal Brei gefüttert (auf dem Glas stand
+"feine Pastinake", eigentlich ein Widerspruch in sich .. aber Pastinake
+hat den Vorteil, keine so hässlichen orangen Flecken zu machen wie
+Karotte). Sie war nicht unbedingt restlos begeistert (kein Wunder, siehe
+Pastinake), aber hat alles geschluckt was wir reingelöffelt haben und
+nicht negativ reagiert.</p></div></content>
+    </entry><entry>
         <title>krebs.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2014/04/19/01-krebs.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2014-04-19:2014/04/19/krebs</id>
