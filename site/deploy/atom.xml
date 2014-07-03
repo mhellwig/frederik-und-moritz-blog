@@ -4,8 +4,25 @@
     <id>http://example.com/</id>
     <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe" type="text/html"/>
     <link rel="self" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/atom.xml" type="application/atom+xml"/>
-    <updated>2014-06-19T18:16:22Z</updated>
+    <updated>2014-07-03T09:35:13Z</updated>
     <entry>
+        <title>namen.</title>
+        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2014/07/03/01-namen.html" type="text/html"/>
+        <id>tag:fnanp.in-ulm.de,2014-07-03:2014/07/03/namen</id>
+        <updated>2014-07-03T09:35:13Z</updated>
+        <published>2014-07-03T09:35:10Z</published>
+        <category term="moritz"/><category term="marlene"/><category term="sprache"/>
+        <author>
+            <name>michael</name>
+        </author>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Moritz macht sich noch immer Gedanken darüber, wie das insgesamt so ist
+mit den Babies und dem zur-Welt-kommen undsoweiter. Zum Beispiel neulich
+abends beim ins-Bett-bringen:</p>
+<blockquote>
+<p>Papa, wenn ein Baby aus dem Bauch rauskommt, woher weiss es dann den
+Namen von seiner Mama?</p>
+</blockquote></div></content>
+    </entry><entry>
         <title>brei.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2014/06/19/01-brei.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2014-06-19:2014/06/19/brei</id>
@@ -617,51 +634,5 @@ F - und gestern hab ich am Spielplatz eine gesehn! Bei der Rutsche!<br/>
 F - [<em>Stimme wieder normal</em>] ich hab geschwindelt, die gibts gar nicht  </p>
 </blockquote>
 <p>Moritz war ausreichend beeindruckt.</p></div></content>
-    </entry><entry>
-        <title>blumenbienen.</title>
-        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2013/04/16/02-blumen_bienen.html" type="text/html"/>
-        <id>tag:fnanp.in-ulm.de,2013-04-16:2013/04/16/blumen_bienen</id>
-        <updated>2013-04-23T12:33:14Z</updated>
-        <published>2013-04-16T15:58:26Z</published>
-        <category term="moritz"/><category term="sprachen"/>
-        <author>
-            <name>michael</name>
-        </author>
-        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Zwei Zitate von Moritz, das erste war vor ein paar Tagen, mit viel Aufregung
-in der Stimme:</p>
-<blockquote>
-<p>In meinem Kindergarten, die Mia, die hat <strong>keinen Penis</strong>!</p>
-</blockquote>
-<p>Ich hab ihm dann erklärt, dass das bei Mädchen immer so ist. Gestern waren
-wir grade unterwegs zum Schwimmen, plötzlich ruft es völlig unzusammenhängend
-von hinten aus dem Auto</p>
-<blockquote>
-<p>keinen Penis haben ist <em>so</em> lustig!</p>
-</blockquote>
-<p>UPDATE: danke für den Hinweis nach Graz. Die Insekten mit dem Stachel schreibt
-man dann doch immer noch ohne 'h'.</p></div></content>
-    </entry><entry>
-        <title>bemueht.</title>
-        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2013/04/16/01-bemueht.html" type="text/html"/>
-        <id>tag:fnanp.in-ulm.de,2013-04-16:2013/04/16/bemueht</id>
-        <updated>2013-04-16T15:54:07Z</updated>
-        <published>2013-04-16T15:39:56Z</published>
-        <category term="moritz"/><category term="sprache"/>
-        <author>
-            <name>michael</name>
-        </author>
-        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Aus unerklärlichen Gründen hat Moritz beschlossen, dass er zu seiner Oma ganz
-besonders nett sein will. Also wirklich fundamental anders als sonst.
-Ausgewählte Zitate:</p>
-<blockquote>
-<p>*treuherziger Blick* kann ich dir <em>irgendwie</em> helfen, Oma?</p>
-</blockquote>
-<blockquote>
-<p>mir schmeckt <em>alles</em> was du kochst!</p>
-</blockquote>
-<blockquote>
-<p>ich hab mir gedacht, weil du Blumen magst, ich stell dir den Teller mit den
-Blumen drauf hin.</p>
-</blockquote></div></content>
     </entry>
 </feed>
