@@ -4,8 +4,21 @@
     <id>http://example.com/</id>
     <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe" type="text/html"/>
     <link rel="self" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/atom.xml" type="application/atom+xml"/>
-    <updated>2014-07-03T09:35:13Z</updated>
+    <updated>2014-07-09T22:09:38Z</updated>
     <entry>
+        <title>sprache.</title>
+        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2014/07/09/01-sprache.html" type="text/html"/>
+        <id>tag:fnanp.in-ulm.de,2014-07-09:2014/07/09/sprache</id>
+        <updated>2014-07-09T22:09:38Z</updated>
+        <published>2014-07-09T22:09:33Z</published>
+        <category term="moritz"/><category term="sprache"/><category term="portugal"/>
+        <author>
+            <name>michael</name>
+        </author>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Mir fällt grade auf, das hab ich noch gar nie erwähnt. Jedenfalls, kurze
+Durchsage von Moritz, in Portugal spricht man "portugallisch". Oder
+"portugalisch". Seine Aussprache variiert da ein bissl.</p></div></content>
+    </entry><entry>
         <title>namen.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2014/07/03/01-namen.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2014-07-03:2014/07/03/namen</id>
@@ -601,38 +614,5 @@ Moritz - und jetzt bin ich zu euch spaziert.</p>
 </blockquote>
 <p>(mit "zu euch" hat er unser Schlafzimmer gemeint).<br/>
 Sprachs und "spazierte" in unser Schlafzimmer und auf unser Bett ...</p></div></content>
-    </entry><entry>
-        <title>horror.</title>
-        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2013/04/26/01-horror.html" type="text/html"/>
-        <id>tag:fnanp.in-ulm.de,2013-04-26:2013/04/26/horror</id>
-        <updated>2013-04-26T12:41:11Z</updated>
-        <published>2013-04-26T12:41:07Z</published>
-        <category term="frederik"/><category term="sprache"/>
-        <author>
-            <name>michael</name>
-        </author>
-        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Neulich, so glaube ich, hat Frederik seine erste Horror-Geschichte
-erzählt (also seinerseits mit Absicht). Wir waren grade zu dritt
-(Moritz, Frederik und ich) mit dem Auto unterwegs, da fragte mich
-Frederik wie das denn sei, wenn man wo auf eine Giftspinne träfe und
-auf die drauftrete, ob einen die dann trotzdem beissen kann.</p>
-<p>Ich hab geantwortet, dass das wohl von den Schuhen abhängt, die man (oder
-nicht) anhat und davon, ob das eine Spinne ist, die springen kann oder so,
-kenn mich ja auch nicht super mit Spinnen aus.</p>
-<p>Daraufhin hat sich Frederik zu Moritz gedreht und gemeint</p>
-<blockquote>
-<p>F - es gibt Giftspinnen, zum Beispiel gibts auch Kreuzspinnen<br/>
-ich - die Kreuzspinnen sind aber gar nicht sooo giftig, da gibts andre die
-viel ärger sind<br/>
-F - [<em>an der Stelle hat er seine Stimme verstellt</em>] es gibt aber auch
-BLUUTSPINNEN!<br/>
-Moritz - <em>schaut ungläubig</em><br/>
-F - die saugen einem das BLUUT aus! Und das Blut braucht man zum Leben!<br/>
-M - ja<br/>
-F - und gestern hab ich am Spielplatz eine gesehn! Bei der Rutsche!<br/>
-[<em>kurze Pause</em>]<br/>
-F - [<em>Stimme wieder normal</em>] ich hab geschwindelt, die gibts gar nicht  </p>
-</blockquote>
-<p>Moritz war ausreichend beeindruckt.</p></div></content>
     </entry>
 </feed>
