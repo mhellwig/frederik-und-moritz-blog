@@ -4,8 +4,24 @@
     <id>http://example.com/</id>
     <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe" type="text/html"/>
     <link rel="self" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/atom.xml" type="application/atom+xml"/>
-    <updated>2014-07-24T11:26:59Z</updated>
+    <updated>2014-07-29T09:44:24Z</updated>
     <entry>
+        <title>politik.</title>
+        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2014/07/29/01-politik.html" type="text/html"/>
+        <id>tag:fnanp.in-ulm.de,2014-07-29:2014/07/29/politik</id>
+        <updated>2014-07-29T09:44:24Z</updated>
+        <published>2014-07-29T09:44:16Z</published>
+        <category term="moritz"/><category term="sprache"/>
+        <author>
+            <name>michael</name>
+        </author>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Grade vorhin war Susanne mit Moritz zusammen unterwegs (von zuhause in
+Richtung Kindergarten). Da erreichte mich ein SMS mit dem Inhalt</p>
+<blockquote>
+<p>Dein Sohn wüsste gern, warum wir nicht in der Regierung sind</p>
+</blockquote>
+<p>ja äh .. warum eigentlich nicht?</p></div></content>
+    </entry><entry>
         <title>ohr.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2014/07/24/01-ohr.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2014-07-24:2014/07/24/ohr</id>
@@ -582,33 +598,5 @@ Mo - [<em>Pause</em>] dann kämpfen nur wir beide!  </p>
 </blockquote>
 <p>Portugal ist also doch nicht das Land, das wie ein permanentes
 Mittelalterfest aussieht .. </p></div></content>
-    </entry><entry>
-        <title>horror2.</title>
-        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2013/05/27/01-horror2.html" type="text/html"/>
-        <id>tag:fnanp.in-ulm.de,2013-05-27:2013/05/27/horror2</id>
-        <updated>2013-05-28T08:45:10Z</updated>
-        <published>2013-05-27T15:02:22Z</published>
-        <category term="frederik"/><category term="sprache"/>
-        <author>
-            <name>michael</name>
-        </author>
-        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Frederik hat neulich (vermutlich aus einer Packung Haarfärbemittel übrig
-geblieben) zwei so Latex-Einmalhandschuhe gefunden und die dann gleich
-angezogen. Zuerst hat er bemerkt, dass, nachdem ihm die ein bissl zu gross
-waren, wenn da an den Handflächen ein bissl Luft drunter ist und er die
-Handflächen zusammendrückt, das ein "lustiges" Geräusch gibt. So weit so gut.</p>
-<p>Dann hatte er also die Handschuhe an und ist in dieser klassischen
-Chirurgen-Handhaltung (Ellbogen abgewinkelt mit Händen nach oben vor dem
-Oberkörper, Handinnenflächen zum Oberkörper gerichtet) herumgelaufen und hat
-monoton immer wieder gerufen "ICH BIN DER ASSISTENT!"</p>
-<p>Zuerst hatte ich ja diverse Horrorfilm-Assoziationen, bis uns klar wurde dass
-er ja grade erst beim Zahnarzt war (also mit dem Kindergarten waren sie bei
-einer Kindergarten-Mutter, die Zahnärztin ist, die ihnen verschiedenes erklärt
-und gezeigt hat und so) und das wohl von dort hat.</p>
-<p>Trotzdem.</p>
-<p>"ICH BIN DER ASSISTENT!"</p>
-<p>UPDATE:<br/>
-Susanne hat mir soeben noch die Quelle der Handschuhe nachgereicht, die sind
-auch von dem Zahnarzt-Besuch als Mitbringsel übrig geblieben.</p></div></content>
     </entry>
 </feed>
