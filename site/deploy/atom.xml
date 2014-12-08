@@ -4,19 +4,19 @@
     <id>http://example.com/</id>
     <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe" type="text/html"/>
     <link rel="self" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/atom.xml" type="application/atom+xml"/>
-    <updated>2014-11-23T15:23:42Z</updated>
+    <updated>2014-12-08T15:11:25Z</updated>
     <entry>
         <title>kosmos.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2014/11/23/01-kosmos.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2014-11-23:2014/11/23/kosmos</id>
-        <updated>2014-11-23T15:23:43Z</updated>
+        <updated>2014-12-08T15:10:22Z</updated>
         <published>2014-11-23T15:23:36Z</published>
         <category term="frederik"/><category term="moritz"/><category term="sprache"/>
         <author>
             <name>michael</name>
         </author>
         <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Wir stehen vor einem Schnellimbiss, Frederik liest auf dem Schild "Asia".
-Darauf Moritz "wieso steht da nicht 'Astronaut", das waere doch viel
+Darauf Moritz "wieso steht da nicht "Astronaut", das waere doch viel
 cooler?"</p></div></content>
     </entry><entry>
         <title>morgen.</title>
