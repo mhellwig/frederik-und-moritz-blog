@@ -4,8 +4,22 @@
     <id>http://example.com/</id>
     <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe" type="text/html"/>
     <link rel="self" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/atom.xml" type="application/atom+xml"/>
-    <updated>2015-01-07T09:44:03Z</updated>
+    <updated>2015-01-10T13:29:42Z</updated>
     <entry>
+        <title>felix.</title>
+        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2015/01/10/01-felix.html" type="text/html"/>
+        <id>tag:fnanp.in-ulm.de,2015-01-10:2015/01/10/felix</id>
+        <updated>2015-01-10T13:29:42Z</updated>
+        <published>2015-01-10T13:29:33Z</published>
+        <category term="moritz"/><category term="sprache"/>
+        <author>
+            <name>michael</name>
+        </author>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Derzeit besucht uns ja das Sturmtief "Felix". Moritz dazu:</p>
+<blockquote>
+<p>gottseidank hat der Wind keine Häuser ausgerissen</p>
+</blockquote></div></content>
+    </entry><entry>
         <title>2015.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2015/01/07/01-2015.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2015-01-07:2015/01/07/2015</id>
@@ -666,35 +680,5 @@ drauf is!</p>
 <p>Portugal ist <em>hinter allen anderen Ländern</em>!</p>
 </blockquote>
 <p>Na gottseidank ist das geklärt.</p></div></content>
-    </entry><entry>
-        <title>herbst.</title>
-        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2013/09/20/01-herbst.html" type="text/html"/>
-        <id>tag:fnanp.in-ulm.de,2013-09-20:2013/09/20/herbst</id>
-        <updated>2013-09-20T19:14:39Z</updated>
-        <published>2013-09-20T19:12:01Z</published>
-        <category term="produkt"/>
-        <author>
-            <name>michael</name>
-        </author>
-        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Jetzt ist ja wieder Herbst. Was macht man im Herbst, wenn man Kinder hat?
-(Bzw auch wenn man keine Kinder hat, je nachdem wie man halt so drauf ist)</p>
-<p>Drachen steigen lassen.</p>
-<p>Ein Bild, das man von so mancher Drachenwiese kennt sind Kinder (mit
-Eltern dabei) die irgendeinen flattrigen Drachen in Schmetterlings- oder
-Vogel-Form an einer Schnur hinter sich herziehen, während sie über den
-Acker rennen und der Drachen purzelt hinter ihnen Ecke über Ecke durch den
-Dreck ...</p>
-<p>Wir haben inzwischen ein Drachenmodell gefunden, bei dem das nicht
-passiert, weil es reproduzierbar sobald auch nur wenig Wind vorhanden ist
-so gut wie von selber fliegt und auch nicht kaputt zu kriegen ist, weil es
-nämlich gar kein Gestänge enthält.</p>
-<p>Ist das Modell
-"<a href="http://www.invento-hq.com/index.php?option=com_content&amp;task=blogcategory&amp;id=35&amp;Itemid=54">Sleddy</a>"
-von der Firma <a href="http://www.invento-hq.com/">Invento HQ</a>. In unserem Fall
-natürlich in doppelter Ausführung im Piraten-Design vorhanden. Einzige
-Änderung, die man dran vornehmen können wollen würde wäre potentiell eine
-leichtere, gleich starke Leine (die mitgelieferte ist nämlich recht schwer
-und limitiert dadurch die möglichen Windstärken nach unten hin).</p>
-<p>Wir sind jedenfalls begeistert, uneingeschränkte Empfehlung.</p></div></content>
     </entry>
 </feed>
