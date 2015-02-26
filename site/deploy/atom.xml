@@ -4,8 +4,28 @@
     <id>http://example.com/</id>
     <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe" type="text/html"/>
     <link rel="self" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/atom.xml" type="application/atom+xml"/>
-    <updated>2015-01-10T13:29:42Z</updated>
+    <updated>2015-02-26T08:28:27Z</updated>
     <entry>
+        <title>schritt.</title>
+        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2015/02/26/01-schritt.html" type="text/html"/>
+        <id>tag:fnanp.in-ulm.de,2015-02-26:2015/02/26/schritt</id>
+        <updated>2015-02-26T08:28:27Z</updated>
+        <published>2015-02-26T08:28:22Z</published>
+        <category term="marlene"/><category term="fortbewegung"/>
+        <author>
+            <name>michael</name>
+        </author>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Ich vergaß:</p>
+<p>seit Sonntag geht Marlene. Ist ihr wohl eher so passiert, sonst kennt man
+das ja manchmal, dass Kinder sich riesig freuen, wenn sie die ersten
+Schritte machen. War hier eher nicht der Fall. So weit mir berichtet wurde
+stand sie an einem Hocker, wollte ein Spielzeug holen, das 1.5 Meter weit
+weg am Boden lag, und anstatt in die Knie zu gehen und hinzukrabbeln (wie
+sie es sonst immer gemacht hat) ist sie wohl einfach hingegangen.</p>
+<p>Ich habs leider nur telefonisch berichtet bekommen, ich war nämlich grade
+mit den zwei Buben im Schwimmbad. Ein Video von den zweiten Schritten (für
+die ersten kams zu überraschend) hab ich allerdings gesehen.</p></div></content>
+    </entry><entry>
         <title>felix.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2015/01/10/01-felix.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2015-01-10:2015/01/10/felix</id>
@@ -665,20 +685,5 @@ mir her und sagte plötzlich</p>
 drauf is!</p>
 </blockquote>
 <p>(und: nein, hat er nicht. Also weder im Comic noch auf der Mütze)</p></div></content>
-    </entry><entry>
-        <title>portugal2.</title>
-        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2013/09/21/01-portugal2.html" type="text/html"/>
-        <id>tag:fnanp.in-ulm.de,2013-09-21:2013/09/21/portugal2</id>
-        <updated>2013-09-21T18:59:20Z</updated>
-        <published>2013-09-21T18:59:15Z</published>
-        <category term="moritz"/><category term="sprache"/><category term="portugal"/>
-        <author>
-            <name>michael</name>
-        </author>
-        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Eine weitere Durchsage zum Thema Portugal (von Moritz):</p>
-<blockquote>
-<p>Portugal ist <em>hinter allen anderen Ländern</em>!</p>
-</blockquote>
-<p>Na gottseidank ist das geklärt.</p></div></content>
     </entry>
 </feed>
