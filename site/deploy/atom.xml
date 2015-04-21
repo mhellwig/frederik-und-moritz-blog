@@ -4,8 +4,26 @@
     <id>http://example.com/</id>
     <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe" type="text/html"/>
     <link rel="self" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/atom.xml" type="application/atom+xml"/>
-    <updated>2015-04-21T15:41:09Z</updated>
+    <updated>2015-04-21T15:51:53Z</updated>
     <entry>
+        <title>addendum.</title>
+        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2015/04/21/02-addendum.html" type="text/html"/>
+        <id>tag:fnanp.in-ulm.de,2015-04-21:2015/04/21/addendum</id>
+        <updated>2015-04-21T15:51:53Z</updated>
+        <published>2015-04-21T15:51:50Z</published>
+        <category term="administrativa"/><category term="fotos"/>
+        <author>
+            <name>michael</name>
+        </author>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Man muss dazu sagen, dass ich genau von diesem Zeitraum (also August 2013
+bis ca März 2014) leider so gut wie alle meine am Handy gemachten Fotos
+verschmissen hab. Das Handy musste mal neu installiert werden, davor hab
+ich alle Bilder als Backup am Laptop gespeichert. Kurz danach ging auch
+der Laptop kaputt und schwupps waren die Bilder weg.</p>
+<p>Sehr ärgerlich...</p>
+<p>Was lernen wir daraus: Immer auch noch ein zusätzliches Backup woanders
+haben.</p></div></content>
+    </entry><entry>
         <title>luja.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2015/04/21/01-luja.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2015-04-21:2015/04/21/luja</id>
@@ -659,28 +677,5 @@ diesmal aus den Monaten April bis Juli. Enthält unter anderem unseren
 Urlaub in Imperia (im Juni) und somit ganz schön viele Photos.</p>
 <p>Vorschaubild:<br/>
 <img alt="Denker" src="http://fnanp.in-ulm.de/frederik_und_moritz/photos/2013_05/tempdir/640x480/IMG_9627.jpg"/></p></div></content>
-    </entry><entry>
-        <title>kulturimperialismus.</title>
-        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2013/10/02/01-kulturimperialismus.html" type="text/html"/>
-        <id>tag:fnanp.in-ulm.de,2013-10-02:2013/10/02/kulturimperialismus</id>
-        <updated>2013-10-02T17:31:14Z</updated>
-        <published>2013-10-02T17:27:59Z</published>
-        <category term="frederik"/><category term="sprache"/>
-        <author>
-            <name>michael</name>
-        </author>
-        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Der <em>K</em> wird ja normalerweise den Amerikanern vorgeworfen, im vorliegenden
-Fall geht es allerdings um die bajuwarische Variante. Vor einigen Tagen
-saßen wir zuhausen auf dem Sofa, Moritz tat irgendwas, was den Frederik
-ärgerte, woraufhin wiederum der sich mit einem "Herrschaftzeiten!"
-bemerkbar machte.</p>
-<p>Ich war erstmal verwundert und fragte mich, woher <em>das</em> Wort denn nun
-wieder kommt. Ob das womöglich die Lehrerin ...?</p>
-<p>Aber nein, ein paar Sekunden später kam die Auflösung. Frederik war so
-glücklich über die eigene Unmutsäußerung, dass er sie ziemlich oft
-wiederholen musste. Und irgendwann auch in der vollständigen Form, nämlich
-"Ja, Herrschaftzeiten <a href="http://de.wikipedia.org/wiki/Pumuckl">Pumuckl</a>!".</p>
-<p>Diese Bayern und ihre Medien-Erzeugnisse! Dass die auch alles beeinflussen
-müssen!</p></div></content>
     </entry>
 </feed>
