@@ -4,8 +4,28 @@
     <id>http://example.com/</id>
     <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe" type="text/html"/>
     <link rel="self" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/atom.xml" type="application/atom+xml"/>
-    <updated>2015-02-26T08:28:27Z</updated>
+    <updated>2015-04-21T15:41:09Z</updated>
     <entry>
+        <title>luja.</title>
+        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2015/04/21/01-luja.html" type="text/html"/>
+        <id>tag:fnanp.in-ulm.de,2015-04-21:2015/04/21/luja</id>
+        <updated>2015-04-21T15:41:10Z</updated>
+        <published>2015-04-21T15:41:05Z</published>
+        <category term="administrativa"/><category term="fotos"/><category term="frederik"/><category term="moritz"/><category term="marlene"/>
+        <author>
+            <name>michael</name>
+        </author>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p><a href="http://de.wikipedia.org/wiki/Ein_Münchner_im_Himmel">Luja, sog i</a>.
+Beziehungsweise "Zefix!". Oder so irgendwas. Jedenfalls hat sich da ganz
+schön was angestaut, bei den Fotos.</p>
+<p>Ich hab jetzt mal einen ganzen Haufen online gestellt, von August 2013 bis
+inklusive Februar 2014, der Rest folgt noch (da muss ich auch noch durch
+all die Fotos durch, die Susanne auf ihrem Handy gemacht hat seit Marlene
+da ist, und das sind ganz schön viele, wie man sich denken kann).</p>
+<p>Jedenfalls, die Bilder finden sich am <a href="http://fnanp.in-ulm.de/frederik_und_moritz/photos/">selben Ort wie
+immer</a>. Wer das
+Passwort nicht mehr weiss kann mich ja fragen.</p></div></content>
+    </entry><entry>
         <title>schritt.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2015/02/26/01-schritt.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2015-02-26:2015/02/26/schritt</id>
@@ -662,28 +682,5 @@ wiederholen musste. Und irgendwann auch in der vollständigen Form, nämlich
 "Ja, Herrschaftzeiten <a href="http://de.wikipedia.org/wiki/Pumuckl">Pumuckl</a>!".</p>
 <p>Diese Bayern und ihre Medien-Erzeugnisse! Dass die auch alles beeinflussen
 müssen!</p></div></content>
-    </entry><entry>
-        <title>rekursion.</title>
-        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2013/09/27/01-rekursion.html" type="text/html"/>
-        <id>tag:fnanp.in-ulm.de,2013-09-27:2013/09/27/rekursion</id>
-        <updated>2013-09-27T14:20:42Z</updated>
-        <published>2013-09-27T14:20:38Z</published>
-        <category term="moritz"/><category term="sprache"/>
-        <author>
-            <name>michael</name>
-        </author>
-        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Moritz lieferte mir neulich ein wunderschönes Beispiel für Rekursion.
-Obwohl eigentlich von der Temperatur her noch nicht nötig (ist ja grade
-eher warm draussen) wünschte er sich unbedingt, seine Spiderman-Mütze
-aufsetzen zu dürfen. Er hatte also diese Mütze auf, auf der sich ein Bild
-der Comic-Figur <a href="http://de.wikipedia.org/wiki/Spiderman">Spiderman</a>
-befindet (nicht, dass er den Comic aus Anschauung kennt, aber die Figur
-ist ihm aus dem Kindergarten ein Begriff). Er lief auf der Strasse neben
-mir her und sagte plötzlich</p>
-<blockquote>
-<p>Der Spiderman auf meiner Mütze hat eine Mütze auf, auf der Spiderman
-drauf is!</p>
-</blockquote>
-<p>(und: nein, hat er nicht. Also weder im Comic noch auf der Mütze)</p></div></content>
     </entry>
 </feed>
