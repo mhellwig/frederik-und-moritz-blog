@@ -9,11 +9,14 @@ TagURI    : tag:fnanp.in-ulm.de,2015-07-09:2015/07/09/mehrworte
 Susanne hat Anmerkungen.
 
 Erstens:
+
 * "Gurke"
 * "Bauch"
+
 werden inzwischen korrekt ausgesprochen.
 
 Außerdem von mir nicht erwähnt:
+
 * "Appe" = Apfel
 * "Us" = Fuß
 * "Mu" = Mund
