@@ -4,8 +4,71 @@
     <id>http://example.com/</id>
     <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe" type="text/html"/>
     <link rel="self" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/atom.xml" type="application/atom+xml"/>
-    <updated>2015-07-08T12:11:18Z</updated>
+    <updated>2015-07-09T00:01:16Z</updated>
     <entry>
+        <title>mehrworte.</title>
+        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2015/07/09/02-mehrworte.html" type="text/html"/>
+        <id>tag:fnanp.in-ulm.de,2015-07-09:2015/07/09/mehrworte</id>
+        <updated>2015-07-09T00:01:16Z</updated>
+        <published>2015-07-09T00:01:10Z</published>
+        <category term="marlene"/><category term="sprache"/>
+        <author>
+            <name>michael</name>
+        </author>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Susanne hat Anmerkungen.</p>
+<p>Erstens:
+<em> "Gurke"
+</em> "Bauch"
+werden inzwischen korrekt ausgesprochen.</p>
+<p>Außerdem von mir nicht erwähnt:
+<em> "Appe" = Apfel
+</em> "Us" = Fuß
+<em> "Mu" = Mund
+</em> "Och" = Auge
+<em> "Bär" = Bär
+</em> "Fis" = Fisch
+<em> "Aha" = Fahrrad
+</em> "Ua" = Rucksack
+<em> "habich" = Besteck (das ist irgendwie passiert ..)
+</em> irgendein Wort das uns grade nicht einfällt für Joghurt
+<em> "Eis" = Eis
+</em> "heiss" = heiss
+<em> "nei" = nein
+</em> "Ti" = Till (Freund von Moritz)
+<em> "aua" = es passiert irgendwas, was ich nicht will
+</em> "Nune" = Nudeln
+<em> "Nka" = Windelinhalt, feststofflich
+</em> "Hauf" = Haus
+<em> "auf" = auf(stehen), Türe/Schrank/Flasche/sonstwas öffnen
+</em> "Ball" = Ball</p>
+<p>sowie Wörter für Windel, Schlüssel, Butter und Licht, die ich grade nicht
+wirklich schriftlich dargestellt bekomme.</p></div></content>
+    </entry><entry>
+        <title>logik.</title>
+        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2015/07/09/01-logik.html" type="text/html"/>
+        <id>tag:fnanp.in-ulm.de,2015-07-09:2015/07/09/logik</id>
+        <updated>2015-07-09T00:01:16Z</updated>
+        <published>2015-07-09T00:00:49Z</published>
+        <category term="moritz"/><category term="sprache"/>
+        <author>
+            <name>michael</name>
+        </author>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Moritz überrascht mich immer wieder mit Logik, die einen Schritt
+weiterdenkt, als man das normalerweise tun würde. Neulich (gut, schon vor
+einer Weile) waren wir zu zweit draussen unterwegs und er begann eines der
+typischen Kinderspiele zu spielen, mit denen man sich so die Zeit
+vertreibt. In dem Fall "ich darf nur auf Schatten treten". </p>
+<p>An einer Stelle, an der's nicht mehr weiterging fand er dann den
+workaround, dass einfach ich neben ihm her gehen muss, damit er auf meinen
+Schatten treten kann.</p>
+<p>Und plötzlich lief er einfach so mitten über den Sonnen-beschienenen
+Gehsteig. Ich dachte zuerst, es sei ihm einfach langweilig geworden aber
+er meinte</p>
+<blockquote>
+<p>Papa, soll ich dir was verraten? Unter meinen Schuhsohlen ist <em>immer</em>
+Schatten!</p>
+</blockquote></div></content>
+    </entry><entry>
         <title>worte.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2015/07/08/01-worte.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2015-07-08:2015/07/08/worte</id>
@@ -633,65 +696,5 @@ viel zu heiss findet, und er sagt es soll "wärmer" sein. Damit meint er
 dann eben, er will dass es nicht heiss sondern warm sein soll.</p>
 <p>Sollte man bedenken, wenn man ihn fragt, ob die Temperatur von irgendwas
 ihm genehm ist.</p></div></content>
-    </entry><entry>
-        <title>hirn.</title>
-        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2013/11/12/01-hirn.html" type="text/html"/>
-        <id>tag:fnanp.in-ulm.de,2013-11-12:2013/11/12/hirn</id>
-        <updated>2013-11-12T16:35:40Z</updated>
-        <published>2013-11-12T16:35:36Z</published>
-        <category term="moritz"/><category term="sprache"/>
-        <author>
-            <name>michael</name>
-        </author>
-        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Letzte Woche saß ich wirklich sprachlos im Auto. Moritz und ich hatten
-einen kleinen Zwist, er war aus irgendeinem nichtigen Grund (also
-eigentlich halt weil er müde war) grade wütend und drohte</p>
-<blockquote>
-<p>Dann schnall ich mich eben ab!</p>
-</blockquote>
-<p>Ich wies ihn darauf hin, dass er das auf keinen Fall dürfe. Kurze Zeit
-später, wir rollten grade mit ca 5 km/h durch einen verkehrsberuhigten
-Bereich, hörte ich von hinten ein vernehmliches "klick". Daraufhin teilte
-ich ihm mit, dass das so richtig wirklich extrem verboten sei und
-überhaupt gar nicht gehe, dass er sich während der Fahrt abschnallt.
-Woraufhin er seine momentane Lieblings-Ausrede ins Spiel brachte, nämlich</p>
-<blockquote>
-<p>Das hab ich nicht gewusst!</p>
-</blockquote>
-<p>Das bringt er hier eben in einem völlig unsinnigen Kontext (i.e. weil ich
-ihn ja grade davor drauf hingewiesen hatte). Daher erklärte ich etwas
-forsch "red doch nicht so einen Blödsinn! Natürlich hast du das gewusst."
-Seine Reaktion war dann ein extremst entrüstet gerufenes</p>
-<blockquote>
-<p>DU WEISST NICHT WAS IN MEINEM HIRN DRIN IS!</p>
-</blockquote>
-<p>Ja. Und dann wusst ich eben nicht mehr was ich da drauf noch antworten
-soll ...</p></div></content>
-    </entry><entry>
-        <title>fast.</title>
-        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2013/10/30/01-fast.html" type="text/html"/>
-        <id>tag:fnanp.in-ulm.de,2013-10-30:2013/10/30/fast</id>
-        <updated>2013-10-30T08:22:17Z</updated>
-        <published>2013-10-30T08:22:09Z</published>
-        <category term="frederik"/><category term="moritz"/><category term="sprache"/><category term="schule"/>
-        <author>
-            <name>michael</name>
-        </author>
-        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Frederik geht ja jetzt seit einigen Wochen in die erste Klasse einer, wie
-das in Deutschland heisst, Grundschule. Ein bissl wackelig war der Start
-ja, vor allem weil das Konzept Hausaufgabe bei ihm nicht eben auf
-Begeisterung gestossen ist und ausserdem Moritz so gar nicht damit
-einverstanden sein will, dass Frederik jetzt nicht mehr jederzeit mit ihm
-spielen will/kann.</p>
-<p>Aber im Grossen und Ganzen läuft die Sache jetzt ganz gut. Diese Woche
-sind in Baden-Württemberg "Herbstferien" (so richtig kenne ich mich da
-noch nicht aus) und die Kinder sind also daheim. Abends fragte ich
-Frederik, wie er seine ersten Ferien denn findet, ob die gut sind.
-Reaktion:</p>
-<blockquote>
-<p>schon gut<br/>
-fast besser als Schule.</p>
-</blockquote>
-<p>na dann ...</p></div></content>
     </entry>
 </feed>
