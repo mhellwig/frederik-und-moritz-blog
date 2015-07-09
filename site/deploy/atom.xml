@@ -4,8 +4,36 @@
     <id>http://example.com/</id>
     <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe" type="text/html"/>
     <link rel="self" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/atom.xml" type="application/atom+xml"/>
-    <updated>2015-07-09T00:03:08Z</updated>
+    <updated>2015-07-09T15:54:11Z</updated>
     <entry>
+        <title>nochmehrworte.</title>
+        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2015/07/09/03-nochmehrworte.html" type="text/html"/>
+        <id>tag:fnanp.in-ulm.de,2015-07-09:2015/07/09/nochmehrworte</id>
+        <updated>2015-07-09T15:54:11Z</updated>
+        <published>2015-07-09T15:54:02Z</published>
+        <category term="marlene"/><category term="sprache"/>
+        <author>
+            <name>michael</name>
+        </author>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Und wie das so is, wenn man gemeinsam nachdenkt fällt einem noch mehr ein:</p>
+<ul>
+<li>"Ucha" = Rucksack, das ist also inzwischen schon definierter als ua</li>
+<li>"Ecke" = Deckel</li>
+<li>"Guka" = Manduca (das ist diese Babytrage, die wir verwenden)</li>
+<li>"Gatte" = Karte (im Sinne von Kredit-), wobei Geld auch Gatte is</li>
+<li>"Gacke" = Jacke</li>
+<li>"Hatschi" = Blume und wenn jemand niest</li>
+<li>"Ti-Ta" = Uhr</li>
+<li>"Ei" = Ei</li>
+<li>"daisa!" = irgendwas/irgendwer wurde gefunden/entdeckt</li>
+<li>"tschü" = Verabschiedung</li>
+<li>"hei" = Begrüßung</li>
+<li>"data" = rausgehen, spazierengehen (wie "atta" bei den anderen damals)</li>
+<li>"Bibi" = Brille</li>
+<li>"Hlm" = Helm (tatsächlich ohne Vokal)</li>
+</ul>
+<p>mir werden sicher noch mehr einfallen, sobald ich das hier gepostet hab ..</p></div></content>
+    </entry><entry>
         <title>mehrworte.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2015/07/09/02-mehrworte.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2015-07-09:2015/07/09/mehrworte</id>
@@ -673,32 +701,5 @@ wiederum der Moritz sehr gut fand.</p></div></content>
         <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Allen Lesern dieses Blogs, die ich in den nächsten Tagen nicht sowieso
 treffe, seien hiermit schöne Feiertage gewünscht.</p>
 <p>Ich mach mich jetzt jedenfalls ans Kochen.</p></div></content>
-    </entry><entry>
-        <title>waermer.</title>
-        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2013/12/12/01-waermer.html" type="text/html"/>
-        <id>tag:fnanp.in-ulm.de,2013-12-12:2013/12/12/waermer</id>
-        <updated>2013-12-12T16:49:23Z</updated>
-        <published>2013-12-12T16:47:58Z</published>
-        <category term="moritz"/><category term="sprache"/>
-        <author>
-            <name>michael</name>
-        </author>
-        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Uns ist neulich aufgefallen, dass es da einen lustigen Verständnis-Fehler
-bei Moritz gibt. Für ihn hat die Temperaturskala drei Werte, nämlich</p>
-<p>Kalt - Warm - Heiss</p>
-<p>Sowohl bei Essen als auch beim Dusch- oder Badewasser ist "Warm" das, was
-er haben will, "Kalt" und "Heiss" sind unerwünscht.</p>
-<p>Kommen wir nun also zum Komparativ "Wärmer". Als Erwachsener denkt man
-sich Temperatur als Koordinaten-Achse, auf der stufenlos Werte aufgetragen
-sind, und auf der eine eindeutige kleiner/größer Relation existiert (von
-links nach rechts). Die Bewegung nach links bezeichnen wir als "kälter",
-die nach rechts als "wärmer".</p>
-<p>Der Moritz sieht das anders. "Wärmer" ist für ihn die Bewegung von
-<em>beiden</em> Seiten auf den Punkt hin, den er mit "Warm" (i.e. "korrekt")
-bezeichnet. Es kann also sein, dass man ihm ein Getränk hinstellt, das er
-viel zu heiss findet, und er sagt es soll "wärmer" sein. Damit meint er
-dann eben, er will dass es nicht heiss sondern warm sein soll.</p>
-<p>Sollte man bedenken, wenn man ihn fragt, ob die Temperatur von irgendwas
-ihm genehm ist.</p></div></content>
     </entry>
 </feed>
