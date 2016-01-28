@@ -18,7 +18,7 @@ Dinge für eine Torte zu besorgen. Folgender Dialog:
 > S - und jetzt brauchen wir noch Schokolade, Eier und Sahne  
 > M - Nein! Keine Sahne kaufen, Parmesan kaufen!  
 > S - aber wir haben doch Parmesan zu Hause?  
-> M - **kurze Pause** mehr Parmesan kaufen!
+> M - \*kurze Pause\* mehr Parmesan kaufen!
 
 Man kann nämlich, liebe Leserin, lieber Leser, nie genug Parmesan zu Hause
 haben!
