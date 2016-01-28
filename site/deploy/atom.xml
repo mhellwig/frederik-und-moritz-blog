@@ -4,8 +4,33 @@
     <id>http://example.com/</id>
     <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe" type="text/html"/>
     <link rel="self" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/atom.xml" type="application/atom+xml"/>
-    <updated>2016-01-20T15:27:55Z</updated>
+    <updated>2016-01-28T12:02:37Z</updated>
     <entry>
+        <title>washabeichgetan.</title>
+        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2016/01/28/01-washabeichgetan.html" type="text/html"/>
+        <id>tag:fnanp.in-ulm.de,2016-01-28:2016/01/28/washabeichgetan</id>
+        <updated>2016-01-28T12:02:37Z</updated>
+        <published>2016-01-28T12:02:33Z</published>
+        <category term="marlene"/><category term="nahrung"/><category term="sprache"/>
+        <author>
+            <name>michael</name>
+        </author>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>"Was habe ich getan!". Also nicht im Sinne von "womit hab ich das
+verdient", sondern im Sinne von "ich habe ein Monster erschaffen!" (also
+quasi Frankenstein). Ich habe nämlich neulich mal den Fehler gemacht,
+Marlene zu zeigen, dass man Parmesan auch am Stück essen kann. Das findet
+sie gut.</p>
+<p>Gestern wollte Susanne mit ihr zusammen einkaufen gehen, um noch ein paar
+Dinge für eine Torte zu besorgen. Folgender Dialog:</p>
+<blockquote>
+<p>S - und jetzt brauchen wir noch Schokolade, Eier und Sahne<br/>
+M - Nein! Keine Sahne kaufen, Parmesan kaufen!<br/>
+S - aber wir haben doch Parmesan zu Hause?<br/>
+M - <strong>kurze Pause</strong> mehr Parmesan kaufen!</p>
+</blockquote>
+<p>Man kann nämlich, liebe Leserin, lieber Leser, nie genug Parmesan zu Hause
+haben!</p></div></content>
+    </entry><entry>
         <title>frederikstatus.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2016/01/20/01-frederikstatus.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2016-01-20:2016/01/20/frederikstatus</id>
@@ -765,20 +790,5 @@ wir den Bausatz bekamen ...</p></div></content>
 <p>Vor allem auch war das Feedback zum wieder-heraus-genommen-werden äußerst
 negativ.</p>
 <p>Baden also: gerne wieder, alles wunderbar.</p></div></content>
-    </entry><entry>
-        <title>marlene.</title>
-        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2014/02/25/01-marlene.html" type="text/html"/>
-        <id>tag:fnanp.in-ulm.de,2014-02-25:2014/02/25/marlene</id>
-        <updated>2014-02-25T23:38:05Z</updated>
-        <published>2014-02-25T23:36:51Z</published>
-        <category term="marlene"/><category term="administrativa"/>
-        <author>
-            <name>michael</name>
-        </author>
-        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Am 17.2., um 14:45, ist <a href="http://fnanp.in-ulm.de/marlene/">Marlene</a> gesund zur Welt gekommen. Nicht nur
-Susanne und ich sondern auch die zwei Brüder haben uns sehr gefreut (und
-freuen sich natürlich auch dauerhaft weiter). Bilder werde ich demnächst
-hochladen (mal abgesehen von dem einen, das unter o.g. Link zu finden
-ist).</p></div></content>
     </entry>
 </feed>
