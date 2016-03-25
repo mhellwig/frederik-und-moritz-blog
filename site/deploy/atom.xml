@@ -4,8 +4,28 @@
     <id>http://example.com/</id>
     <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe" type="text/html"/>
     <link rel="self" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/atom.xml" type="application/atom+xml"/>
-    <updated>2016-03-20T18:16:02Z</updated>
+    <updated>2016-03-25T16:50:08Z</updated>
     <entry>
+        <title>bilder.</title>
+        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2016/03/25/01-bilder.html" type="text/html"/>
+        <id>tag:fnanp.in-ulm.de,2016-03-25:2016/03/25/bilder</id>
+        <updated>2016-03-25T16:50:08Z</updated>
+        <published>2016-03-25T16:50:04Z</published>
+        <category term="frederik"/><category term="moritz"/><category term="marlene"/><category term="fotos"/>
+        <author>
+            <name>michael</name>
+        </author>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Unter dem rechts auffindbaren Link mit dem Titel "Photo-Seite" ist jetzt
+neuer Inhalt dazu gekommen. Hab mal nachgeschaut und mit großem Schrecken
+festgestellt, dass Februar 2014 der letzte verfügbare Monat war. Jetzt
+geht es mal zumindest weiter bis inklusive September 2014, der Rest des
+Jahres kommt hoffentlich diese Tage auch gleich hinterher. 2015 und 2016
+hoffe ich mich jetzt im Oster-Urlaub ein bissl kümmern zu können auch.</p>
+<p>Eigentlich hatte ich ja vorgehabt, eine neue Gallery-Software zu benutzen.
+Aber irgendwie gefällt mir nix von dem, was ich ausprobiere so richtig
+wirklich. Also bleibe ich halt erstmal weiterhin bei dem, was schon
+vorhanden war ..</p></div></content>
+    </entry><entry>
         <title>gesund.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2016/03/20/01-gesund.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2016-03-20:2016/03/20/gesund</id>
@@ -771,28 +791,5 @@ Familien sind, stellen sich wohl den zwei Buben ganz neue Fragen.</p>
 </blockquote>
 <p>Susanne hat dann versucht, ihm zu erklären, dass sich das nicht
 unterscheidet zu Buben (also konkret zu ihm selber).</p></div></content>
-    </entry><entry>
-        <title>verschwoerung.</title>
-        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2014/03/03/01-verschwoerung.html" type="text/html"/>
-        <id>tag:fnanp.in-ulm.de,2014-03-03:2014/03/03/verschwoerung</id>
-        <updated>2014-03-03T09:23:39Z</updated>
-        <published>2014-03-03T09:23:34Z</published>
-        <category term="frederik"/><category term="sprache"/><category term="produkt"/>
-        <author>
-            <name>michael</name>
-        </author>
-        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Frederik hat da eine gar grausliche Verschwörung rund um die <a href="http://www.amazon.de/dp/B005KISLGC">Lego
-Dino-Forschungsstation</a> (also wir haben die noch zu einem <em>deutlich</em>
-niedrigeren Preis bekommen) aufgedeckt. Nämlich:</p>
-<blockquote>
-<p>Die forschen ja gar nicht an den Dinos! Die erschiessen die, die wollen
-nur ihre Skelette für Museen haben!</p>
-</blockquote>
-<p>Er klang da schon ein wenig entrüstet ob dieser Erkenntnis.</p>
-<p>Noch deutlich stärker in die Kategorie "wieso hab ich das als Kind nicht
-gehabt?" gehört übrigens <a href="http://www.amazon.de/dp/B005KISL6M">der hier</a>. Ist schliesslich ein
-<a href="https://de.wikipedia.org/wiki/Skycrane">Sikorsky Skycrane</a>, und cooler geht ja fast nicht mehr. Da
-mussten wir dann auch gleich einige Youtube-Videos anschaun, damals, wo
-wir den Bausatz bekamen ...</p></div></content>
     </entry>
 </feed>
