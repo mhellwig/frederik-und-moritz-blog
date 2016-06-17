@@ -4,8 +4,21 @@
     <id>http://example.com/</id>
     <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe" type="text/html"/>
     <link rel="self" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/atom.xml" type="application/atom+xml"/>
-    <updated>2016-06-17T15:38:44Z</updated>
+    <updated>2016-06-17T15:54:55Z</updated>
     <entry>
+        <title>dada2.</title>
+        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2016/06/17/02-dada2.html" type="text/html"/>
+        <id>tag:fnanp.in-ulm.de,2016-06-17:2016/06/17/dada2</id>
+        <updated>2016-06-17T15:54:55Z</updated>
+        <published>2016-06-17T15:54:49Z</published>
+        <category term="marlene"/><category term="photos"/>
+        <author>
+            <name>michael</name>
+        </author>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Immer noch unklar. Aber beim Interpretieren war ich ja nie besonders gut
+(Hallo Frau Prof. Egg!)</p>
+<p><img alt="dadaismus" src="2016/06/17/dada.jpg" title="dadaismus"/></p></div></content>
+    </entry><entry>
         <title>dada.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2016/06/17/01-dada.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2016-06-17:2016/06/17/dada</id>
@@ -772,26 +785,5 @@ hat den Vorteil, keine so hässlichen orangen Flecken zu machen wie
 Karotte). Sie war nicht unbedingt restlos begeistert (kein Wunder, siehe
 Pastinake), aber hat alles geschluckt was wir reingelöffelt haben und
 nicht negativ reagiert.</p></div></content>
-    </entry><entry>
-        <title>krebs.</title>
-        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2014/04/19/01-krebs.html" type="text/html"/>
-        <id>tag:fnanp.in-ulm.de,2014-04-19:2014/04/19/krebs</id>
-        <updated>2014-04-19T19:12:21Z</updated>
-        <published>2014-04-19T19:12:16Z</published>
-        <category term="moritz"/><category term="frederik"/><category term="sprache"/>
-        <author>
-            <name>michael</name>
-        </author>
-        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Anscheinend ergab sich vorhin folgender Dialog, mit den handelnden
-Personen "GP" = Grosspapa, "F" = Frederik, "M" = Moritz</p>
-<blockquote>
-<p>F - wir freuen uns schon auf morgen!<br/>
-GP - ich glaub "morgen" ist abgesagt.<br/>
-F,M - wieso?<br/>
-GP - Weil der Osterhase krank ist.<br/>
-F - Genau. Der hat Husten und Schnupfen und Kopfweh und Fieber und
-Krebs.<br/>
-M - und Hummer!</p>
-</blockquote></div></content>
     </entry>
 </feed>
