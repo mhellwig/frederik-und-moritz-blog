@@ -4,8 +4,28 @@
     <id>http://example.com/</id>
     <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe" type="text/html"/>
     <link rel="self" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/atom.xml" type="application/atom+xml"/>
-    <updated>2016-03-25T16:50:08Z</updated>
+    <updated>2016-06-17T15:38:44Z</updated>
     <entry>
+        <title>dada.</title>
+        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2016/06/17/01-dada.html" type="text/html"/>
+        <id>tag:fnanp.in-ulm.de,2016-06-17:2016/06/17/dada</id>
+        <updated>2016-06-17T15:38:44Z</updated>
+        <published>2016-06-17T15:38:34Z</published>
+        <category term="marlene"/><category term="sprache"/>
+        <author>
+            <name>michael</name>
+        </author>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Das schöne am Zusammenleben mit kleinen Kindern is ja, dass das komplett
+unbeschwerte Dadaisten sind.</p>
+<p>Ich war vorhin grade mit Marlene im Wohnzimmer und wir haben mit
+Bauklötzen gespielt. Dann musste ich kurz einen Stock höher zu Frederik,
+kam nach geschätzt zwei Minuten wieder runter. Marlene nicht zu sehen.</p>
+<p>Ich also "Marlene, wo bist du?"</p>
+<p>Aus der Küche "Da bin ich wieder, jetzt können wir!". Rief sie und bog
+grinsend um die Ecke, in der Hand eine Rolle Spagat und vier
+Eiswürfelbeutel. Bis jetzt ist noch unklar, was eigentlich genau der Plan
+ist.</p></div></content>
+    </entry><entry>
         <title>bilder.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2016/03/25/01-bilder.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2016-03-25:2016/03/25/bilder</id>
@@ -773,23 +793,5 @@ F - Genau. Der hat Husten und Schnupfen und Kopfweh und Fieber und
 Krebs.<br/>
 M - und Hummer!</p>
 </blockquote></div></content>
-    </entry><entry>
-        <title>frage.</title>
-        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2014/03/05/01-frage.html" type="text/html"/>
-        <id>tag:fnanp.in-ulm.de,2014-03-05:2014/03/05/frage</id>
-        <updated>2014-03-05T09:54:56Z</updated>
-        <published>2014-03-05T09:54:53Z</published>
-        <category term="moritz"/><category term="marlene"/><category term="sprache"/>
-        <author>
-            <name>michael</name>
-        </author>
-        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Jetzt, wo ausser Susanne noch weitere weibliche Wesen Teil unserer
-Familien sind, stellen sich wohl den zwei Buben ganz neue Fragen.</p>
-<p>Moritz, neulich abends im Bett ganz nachdenklich:</p>
-<blockquote>
-<p>Mama, wie fühlt ein Mädchen?</p>
-</blockquote>
-<p>Susanne hat dann versucht, ihm zu erklären, dass sich das nicht
-unterscheidet zu Buben (also konkret zu ihm selber).</p></div></content>
     </entry>
 </feed>
