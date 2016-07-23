@@ -4,8 +4,37 @@
     <id>http://example.com/</id>
     <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe" type="text/html"/>
     <link rel="self" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/atom.xml" type="application/atom+xml"/>
-    <updated>2016-06-17T16:00:09Z</updated>
+    <updated>2016-07-24T01:07:43Z</updated>
     <entry>
+        <title>lennard.</title>
+        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2016/07/24/01-lennard.html" type="text/html"/>
+        <id>tag:fnanp.in-ulm.de,2016-07-24:2016/07/24/lennard</id>
+        <updated>2016-07-24T01:07:43Z</updated>
+        <published>2016-07-24T01:07:40Z</published>
+        <category term="lennard"/>
+        <author>
+            <name>michael</name>
+        </author>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Hiermit zur allgemeinen Kenntnis, am 13.7.2016 ist Kind Nummer vier zur
+Welt gekommen. Er heißt <a href="http://fnanp.in-ulm.de/lennard/">Lennard
+Bastian</a>.</p>
+<p>Sowohl er als auch Susanne durften direkt am Tag der Geburt aus dem
+Krankenhaus nach Hause gehen, weil alles so problemlos und schnell
+verlaufen ist. Vor allem schnell. Sowohl Susanne als auch ich kamen um
+knapp nach 10 Uhr in der Klinik an. Im Kreißsaal waren wir wohl so um
+10:20. Und Lennard war um 11:20 da.</p>
+<p>Viel kann man zu ihm natürlich noch nicht sagen. Er trinkt, schläft, macht
+in die Windel und hebt schon den Kopf und schaut sich seine Umwelt an.</p>
+<p>Seine Geschwister finden ihn ganz toll, bei Marlene müssen wir natürlich
+noch etwas vorsichtig sein, weil sie ihn zwar immer wieder halten will
+aber insgesamt nicht so vorsichtig ist bzw sein kann wie das notwendig
+wäre.</p>
+<p>Und um der Frage zuvor zu kommen: Nein, er ist nicht nach einem Charakter
+aus einer beliebten
+<a href="https://de.wikipedia.org/wiki/The_Big_Bang_Theory">Comedy-Serie</a> benannt,
+in der mehrere Physiker vorkommen. Der Charakter dort hieße auch Leonard,
+nicht Lennard.</p></div></content>
+    </entry><entry>
         <title>dada2.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2016/06/17/02-dada2.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2016-06-17:2016/06/17/dada2</id>
@@ -769,21 +798,5 @@ abends beim ins-Bett-bringen:</p>
 <p>Papa, wenn ein Baby aus dem Bauch rauskommt, woher weiss es dann den
 Namen von seiner Mama?</p>
 </blockquote></div></content>
-    </entry><entry>
-        <title>brei.</title>
-        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2014/06/19/01-brei.html" type="text/html"/>
-        <id>tag:fnanp.in-ulm.de,2014-06-19:2014/06/19/brei</id>
-        <updated>2014-06-19T18:16:22Z</updated>
-        <published>2014-06-19T18:16:17Z</published>
-        <category term="marlene"/><category term="nahrung"/>
-        <author>
-            <name>michael</name>
-        </author>
-        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Heute haben wir Marlene zum ersten Mal Brei gefüttert (auf dem Glas stand
-"feine Pastinake", eigentlich ein Widerspruch in sich .. aber Pastinake
-hat den Vorteil, keine so hässlichen orangen Flecken zu machen wie
-Karotte). Sie war nicht unbedingt restlos begeistert (kein Wunder, siehe
-Pastinake), aber hat alles geschluckt was wir reingelöffelt haben und
-nicht negativ reagiert.</p></div></content>
     </entry>
 </feed>
