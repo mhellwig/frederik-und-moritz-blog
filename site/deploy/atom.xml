@@ -4,8 +4,29 @@
     <id>http://example.com/</id>
     <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe" type="text/html"/>
     <link rel="self" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/atom.xml" type="application/atom+xml"/>
-    <updated>2016-07-24T01:07:43Z</updated>
+    <updated>2016-07-24T23:00:08Z</updated>
     <entry>
+        <title>korrektur.</title>
+        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2016/07/24/02-korrektur.html" type="text/html"/>
+        <id>tag:fnanp.in-ulm.de,2016-07-24:2016/07/24/korrektur</id>
+        <updated>2016-07-24T23:00:08Z</updated>
+        <published>2016-07-24T23:00:05Z</published>
+        <category term="lennard"/>
+        <author>
+            <name>michael</name>
+        </author>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Nach Durchsicht unserer Telefone und der Anruflisten:</p>
+<ul>
+<li>Susanne hat mich um 09:23 in der Arbeit angerufen, dass sie jetzt doch
+  drüber nachdenkt, in die Klinik zu gehen (gottseidank haben ihre Eltern
+  drauf bestanden, sie zu begleiten).</li>
+<li>Um 10:23 hat Susanne mir am Telefon mitgeteilt, dass sie jetz an der
+  Anmeldung der Ambulanz sei. Ich war zu dem Zeitpunkt grade dabei, mein
+  Auto im Parkhaus der Klinik zu parken</li>
+<li>Wir waren dann folglich knapp nach 10:30 (geschätzt) im Kreißsaal</li>
+<li>Geburt wie gesagt 11:20</li>
+</ul></div></content>
+    </entry><entry>
         <title>lennard.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2016/07/24/01-lennard.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2016-07-24:2016/07/24/lennard</id>
@@ -781,22 +802,5 @@ Knick hat. Für einen derartigen Fehler gibt es doch bestimmt ein Wort ..</p>
         <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Mir fällt grade auf, das hab ich noch gar nie erwähnt. Jedenfalls, kurze
 Durchsage von Moritz, in Portugal spricht man "portugallisch". Oder
 "portugalisch". Seine Aussprache variiert da ein bissl.</p></div></content>
-    </entry><entry>
-        <title>namen.</title>
-        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2014/07/03/01-namen.html" type="text/html"/>
-        <id>tag:fnanp.in-ulm.de,2014-07-03:2014/07/03/namen</id>
-        <updated>2014-07-03T09:35:13Z</updated>
-        <published>2014-07-03T09:35:10Z</published>
-        <category term="moritz"/><category term="marlene"/><category term="sprache"/>
-        <author>
-            <name>michael</name>
-        </author>
-        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Moritz macht sich noch immer Gedanken darüber, wie das insgesamt so ist
-mit den Babies und dem zur-Welt-kommen undsoweiter. Zum Beispiel neulich
-abends beim ins-Bett-bringen:</p>
-<blockquote>
-<p>Papa, wenn ein Baby aus dem Bauch rauskommt, woher weiss es dann den
-Namen von seiner Mama?</p>
-</blockquote></div></content>
     </entry>
 </feed>
