@@ -4,8 +4,22 @@
     <id>http://example.com/</id>
     <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe" type="text/html"/>
     <link rel="self" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/atom.xml" type="application/atom+xml"/>
-    <updated>2016-10-08T19:01:55Z</updated>
+    <updated>2016-10-08T19:26:30Z</updated>
     <entry>
+        <title>dada3.</title>
+        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2016/10/08/01-dada3.html" type="text/html"/>
+        <id>tag:fnanp.in-ulm.de,2016-10-08:2016/10/08/dada3</id>
+        <updated>2016-10-08T19:26:30Z</updated>
+        <published>2016-10-08T19:26:23Z</published>
+        <category term="marlene"/><category term="sprache"/>
+        <author>
+            <name>michael</name>
+        </author>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><blockquote>
+<p>S - Marlene, was reimt sich denn auf "Keller"?<br/>
+M - "Krokodil" und "Glatze"!</p>
+</blockquote></div></content>
+    </entry><entry>
         <title>heirat.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2016/10/06/01-heirat.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2016-10-06:2016/10/06/heirat</id>
@@ -853,21 +867,5 @@ wackelig, aber inzwischen schon ganz schön stabil, so lang sie sich mit
 einer Hand festhalten kann. Das wieder hinsetzen war zuerst auch einfach
 nur ein hinfallen, das hat sie jetzt aber auch heraussen. Wir sind
 neugierig, wie es weitergeht ...</p></div></content>
-    </entry><entry>
-        <title>update.</title>
-        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2014/09/22/01-update.html" type="text/html"/>
-        <id>tag:fnanp.in-ulm.de,2014-09-22:2014/09/22/update</id>
-        <updated>2014-09-22T08:50:55Z</updated>
-        <published>2014-09-22T08:50:48Z</published>
-        <category term="administrativa"/>
-        <author>
-            <name>michael</name>
-        </author>
-        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Ich war jetzt einen Monat in Elternzeit (plus 2 Wochen Urlaub drangehängt)
-und werde auch noch im Jahr 2015 einen Monat Elternzeit nehmen (2 Monate
-scheint eine recht übliche Zeitspanne zu sein für Väter).</p>
-<p>Jedenfalls war ich teilweise ganz schön länglich ohne brauchbaren
-Internet-Zugang, womit ich jetzt mal versuche die hieramtliche Stille zu
-entschuldigen.</p></div></content>
     </entry>
 </feed>
