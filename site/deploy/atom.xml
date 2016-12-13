@@ -4,7 +4,7 @@
     <id>http://example.com/</id>
     <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe" type="text/html"/>
     <link rel="self" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/atom.xml" type="application/atom+xml"/>
-    <updated>2016-12-13T09:43:01Z</updated>
+    <updated>2016-12-13T09:45:23Z</updated>
     <entry>
         <title>trinita.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2016/10/17/01-trinita.html" type="text/html"/>
@@ -28,10 +28,10 @@ Spiegel mit den Worten:</p>
 <p>Aua. Ich kann die Filmmusik schon richtig hören ..</p>
 <p><a href="https://www.youtube.com/watch?v=k4PYRdb71_w">Die hier.</a></p></div></content>
     </entry><entry>
-        <title>dada3.</title>
-        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2016/10/08/01-dada3.html" type="text/html"/>
-        <id>tag:fnanp.in-ulm.de,2016-10-08:2016/10/08/dada3</id>
-        <updated>2016-10-08T19:26:30Z</updated>
+        <title>dada4.</title>
+        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2016/10/08/01-dada4.html" type="text/html"/>
+        <id>tag:fnanp.in-ulm.de,2016-10-08:2016/10/08/dada4</id>
+        <updated>2016-12-13T09:45:05Z</updated>
         <published>2016-10-08T19:26:23Z</published>
         <category term="marlene"/><category term="sprache"/>
         <author>
@@ -139,8 +139,8 @@ vergessen, dass er sie blöd und langweilig finden wollte. </p>
     </entry><entry>
         <title>dada3.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2016/08/22/01-dada3.html" type="text/html"/>
-        <id>tag:fnanp.in-ulm.de,2016-08-22:2016/08/22/dada2</id>
-        <updated>2016-12-13T09:42:53Z</updated>
+        <id>tag:fnanp.in-ulm.de,2016-08-22:2016/08/22/dada3</id>
+        <updated>2016-12-13T09:45:17Z</updated>
         <published>2016-08-22T18:49:54Z</published>
         <category term="marlene"/><category term="sprache"/>
         <author>
