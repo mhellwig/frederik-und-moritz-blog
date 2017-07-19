@@ -9,14 +9,14 @@ TagURI    : tag:fnanp.in-ulm.de,2017-07-19:2017/07/19/wissen
 In letzter Zeit wiederholte sich immer wieder, auf die eine oder andre
 Art, sowas wie der folgende Dialog
 
-> Marlene - \*stellt eine Frage\* 
-> ich - \*versuche eine halbwegs korrekte Antwort\* 
+> Marlene - \*stellt eine Frage\*  
+> ich - \*versuche eine halbwegs korrekte Antwort\*  
 > M - ich weiss! 
 
 Vor ein paar Tagen hats mich dann doch zu viel genervt und ich hab
 geantwortet
 
-> i - warum fragst du dann? 
+> i - warum fragst du dann?  
 > M - sonst weiss ich es ja nicht! 
 
 Nachdem ich also verstanden hatte, dass es hier quasi um eine

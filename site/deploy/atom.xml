@@ -4,12 +4,12 @@
     <id>http://example.com/</id>
     <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe" type="text/html"/>
     <link rel="self" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/atom.xml" type="application/atom+xml"/>
-    <updated>2017-07-19T15:26:55Z</updated>
+    <updated>2017-07-19T15:28:35Z</updated>
     <entry>
         <title>wissen.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2017/07/19/01-wissen.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2017-07-19:2017/07/19/wissen</id>
-        <updated>2017-07-19T15:26:42Z</updated>
+        <updated>2017-07-19T15:28:31Z</updated>
         <published>2017-07-19T15:24:41Z</published>
         <category term="marlene"/><category term="sprache"/>
         <author>
@@ -18,14 +18,14 @@
         <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>In letzter Zeit wiederholte sich immer wieder, auf die eine oder andre
 Art, sowas wie der folgende Dialog</p>
 <blockquote>
-<p>Marlene - *stellt eine Frage*
-ich - *versuche eine halbwegs korrekte Antwort*
+<p>Marlene - *stellt eine Frage*<br/>
+ich - *versuche eine halbwegs korrekte Antwort*<br/>
 M - ich weiss! </p>
 </blockquote>
 <p>Vor ein paar Tagen hats mich dann doch zu viel genervt und ich hab
 geantwortet</p>
 <blockquote>
-<p>i - warum fragst du dann?
+<p>i - warum fragst du dann?<br/>
 M - sonst weiss ich es ja nicht! </p>
 </blockquote>
 <p>Nachdem ich also verstanden hatte, dass es hier quasi um eine
