@@ -4,8 +4,33 @@
     <id>http://example.com/</id>
     <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe" type="text/html"/>
     <link rel="self" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/atom.xml" type="application/atom+xml"/>
-    <updated>2017-07-19T15:28:35Z</updated>
+    <updated>2017-10-05T10:32:09Z</updated>
     <entry>
+        <title>spanien.</title>
+        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2017/10/05/01-spanien.html" type="text/html"/>
+        <id>tag:fnanp.in-ulm.de,2017-10-05:2017/10/05/spanien</id>
+        <updated>2017-10-05T10:32:09Z</updated>
+        <published>2017-10-05T10:32:00Z</published>
+        <category term="fotos"/>
+        <author>
+            <name>michael</name>
+        </author>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Ist eine Weile her, aber letztes Jahr (also 2016) waren wir in den
+Pfingstferien für drei Tage in Barcelona und dann noch für eine Woche an
+der Costa Brava, genauergesagt in <a href="https://de.wikipedia.org/wiki/Tossa_de_Mar">Tossa de Mar</a>. Von dort aus
+haben wir einige Ausflüge gemacht und am letzten Tag vor dem Abflug waren
+wir auch noch einen Tag lang in <a href="https://de.wikipedia.org/wiki/Girona">Girona</a>, wo sich eben der Flughafen
+befindet, von dem aus Ryan Air und ähnliche Fluglinien diesen Teil
+Spaniens bedienen.</p>
+<p>Jedenfalls wars dort sehr schön und ich hab nun <em>endlich</em> eine
+Foto-Gallerie zu diesem Urlaub fertig und online. Sie findet sich hinter
+<a href="https://hammer.in-ulm.de/html/Lychee/#14745389661957">diesem Link</a>. Das Passwort, um die Fotos anschauen zu können
+ist noch immer das Gleiche wie für die alte Fotoseite. Ich werd aber zur
+Sicherheit noch ein Mail an alle rausschicken, von denen ich denke, dass
+sie das Passwort haben sollten ...</p>
+<p>Wer kein Mail bekommt und aber meint, er sollte das Passwort haben - bitte
+melden.</p></div></content>
+    </entry><entry>
         <title>wissen.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2017/07/19/01-wissen.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2017-07-19:2017/07/19/wissen</id>
@@ -683,19 +708,5 @@ sie es sonst immer gemacht hat) ist sie wohl einfach hingegangen.</p>
 <p>Ich habs leider nur telefonisch berichtet bekommen, ich war nämlich grade
 mit den zwei Buben im Schwimmbad. Ein Video von den zweiten Schritten (für
 die ersten kams zu überraschend) hab ich allerdings gesehen.</p></div></content>
-    </entry><entry>
-        <title>felix.</title>
-        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2015/01/10/01-felix.html" type="text/html"/>
-        <id>tag:fnanp.in-ulm.de,2015-01-10:2015/01/10/felix</id>
-        <updated>2015-01-10T13:29:42Z</updated>
-        <published>2015-01-10T13:29:33Z</published>
-        <category term="moritz"/><category term="sprache"/>
-        <author>
-            <name>michael</name>
-        </author>
-        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Derzeit besucht uns ja das Sturmtief "Felix". Moritz dazu:</p>
-<blockquote>
-<p>gottseidank hat der Wind keine Häuser ausgerissen</p>
-</blockquote></div></content>
     </entry>
 </feed>
