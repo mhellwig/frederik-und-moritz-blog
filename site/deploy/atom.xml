@@ -4,8 +4,31 @@
     <id>http://example.com/</id>
     <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe" type="text/html"/>
     <link rel="self" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/atom.xml" type="application/atom+xml"/>
-    <updated>2017-10-08T22:28:06Z</updated>
+    <updated>2017-10-08T22:40:50Z</updated>
     <entry>
+        <title>notiz.</title>
+        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2017/10/08/02-notiz.html" type="text/html"/>
+        <id>tag:fnanp.in-ulm.de,2017-10-08:2017/10/08/notiz</id>
+        <updated>2017-10-08T22:40:50Z</updated>
+        <published>2017-10-08T22:40:47Z</published>
+        <category term="fotos"/>
+        <author>
+            <name>michael</name>
+        </author>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Ach so. Wer jetzt die Fotos anschaut und sich fragt, wer so die handelnden
+Personen abgesehen von meiner eigenen Kernfamilie sind ..</p>
+<ul>
+<li>an der Nordsee waren wir teilweise mit Susannes Eltern unterwegs</li>
+<li>bei einem kurzen Zwischenstopp in Büdelsdorf haben wir einen Kollegen
+  getroffen, den ich von der Arbeit her kenne</li>
+<li>in Eckernförde haben wir Freunde besucht, die aus Ulm da rauf gezogen
+  sind</li>
+<li>in Tirol waren meine Eltern mit dabei</li>
+<li>und mein Freund Norbert aka Bile</li>
+<li>und meine Tante Piz</li>
+<li>und Susannes Bruder Simon mit Familie</li>
+</ul></div></content>
+    </entry><entry>
         <title>norden.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2017/10/08/01-norden.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2017-10-08:2017/10/08/norden</id>
