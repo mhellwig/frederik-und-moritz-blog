@@ -1,0 +1,25 @@
+Title     : norden.
+Author    : michael
+Created   : 2017-10-08T22:26:01
+Tags      : fotos
+Comments  : Off
+Trackback : Off
+TagURI    : tag:fnanp.in-ulm.de,2017-10-08:2017/10/08/norden
+
+So, und jetzt folgt der zweite Streich ..
+
+Im Sommer 2017 waren wir auch unterwegs, und zwar zuerst an der Nordsee
+(auf [Nordstrand][], um genau zu sein), dann an der Ostsee ([Eckernförde][]), am
+Rückweg noch in Kassel und danach eine Woche in Tirol. Da hab ich
+natürlich auch so einige Fotos gemacht. Die Gallerie dazu findet sich
+[hier][gal].
+
+Teaser-Bild zum Thema Nordsee (aufgenommen auf der [Hamburger
+Hallig][HH]):
+
+![Hamburger Hallig](hallig.jpg)
+
+[Nordstrand]: https://de.wikipedia.org/wiki/Nordstrand
+[Eckernförde]: https://de.wikipedia.org/wiki/Eckernf%C3%B6rde
+[gal]: https://hammer.in-ulm.de/html/Lychee/#15038301047662
+[HH]: https://de.wikipedia.org/wiki/Hamburger_Hallig

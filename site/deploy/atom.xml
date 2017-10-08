@@ -4,8 +4,27 @@
     <id>http://example.com/</id>
     <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe" type="text/html"/>
     <link rel="self" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/atom.xml" type="application/atom+xml"/>
-    <updated>2017-10-05T10:32:09Z</updated>
+    <updated>2017-10-08T22:26:08Z</updated>
     <entry>
+        <title>norden.</title>
+        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2017/10/08/01-norden.html" type="text/html"/>
+        <id>tag:fnanp.in-ulm.de,2017-10-08:2017/10/08/norden</id>
+        <updated>2017-10-08T22:26:08Z</updated>
+        <published>2017-10-08T22:26:01Z</published>
+        <category term="fotos"/>
+        <author>
+            <name>michael</name>
+        </author>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>So, und jetzt folgt der zweite Streich ..</p>
+<p>Im Sommer 2017 waren wir auch unterwegs, und zwar zuerst an der Nordsee
+(auf <a href="https://de.wikipedia.org/wiki/Nordstrand">Nordstrand</a>, um genau zu sein), dann an der Ostsee (<a href="https://de.wikipedia.org/wiki/Eckernf%C3%B6rde">Eckernförde</a>), am
+Rückweg noch in Kassel und danach eine Woche in Tirol. Da hab ich
+natürlich auch so einige Fotos gemacht. Die Gallerie dazu findet sich
+<a href="https://hammer.in-ulm.de/html/Lychee/#15038301047662">hier</a>.</p>
+<p>Teaser-Bild zum Thema Nordsee (aufgenommen auf der <a href="https://de.wikipedia.org/wiki/Hamburger_Hallig">Hamburger
+Hallig</a>):</p>
+<p><img alt="Hamburger Hallig" src="2017/10/08/hallig.jpg"/></p></div></content>
+    </entry><entry>
         <title>spanien.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2017/10/05/01-spanien.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2017-10-05:2017/10/05/spanien</id>
@@ -688,25 +707,5 @@ da ist, und das sind ganz schön viele, wie man sich denken kann).</p>
 <p>Jedenfalls, die Bilder finden sich am <a href="http://fnanp.in-ulm.de/frederik_und_moritz/photos/">selben Ort wie
 immer</a>. Wer das
 Passwort nicht mehr weiss kann mich ja fragen.</p></div></content>
-    </entry><entry>
-        <title>schritt.</title>
-        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2015/02/26/01-schritt.html" type="text/html"/>
-        <id>tag:fnanp.in-ulm.de,2015-02-26:2015/02/26/schritt</id>
-        <updated>2015-02-26T08:28:27Z</updated>
-        <published>2015-02-26T08:28:22Z</published>
-        <category term="marlene"/><category term="fortbewegung"/>
-        <author>
-            <name>michael</name>
-        </author>
-        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Ich vergaß:</p>
-<p>seit Sonntag geht Marlene. Ist ihr wohl eher so passiert, sonst kennt man
-das ja manchmal, dass Kinder sich riesig freuen, wenn sie die ersten
-Schritte machen. War hier eher nicht der Fall. So weit mir berichtet wurde
-stand sie an einem Hocker, wollte ein Spielzeug holen, das 1.5 Meter weit
-weg am Boden lag, und anstatt in die Knie zu gehen und hinzukrabbeln (wie
-sie es sonst immer gemacht hat) ist sie wohl einfach hingegangen.</p>
-<p>Ich habs leider nur telefonisch berichtet bekommen, ich war nämlich grade
-mit den zwei Buben im Schwimmbad. Ein Video von den zweiten Schritten (für
-die ersten kams zu überraschend) hab ich allerdings gesehen.</p></div></content>
     </entry>
 </feed>
