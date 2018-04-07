@@ -4,8 +4,23 @@
     <id>http://example.com/</id>
     <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe" type="text/html"/>
     <link rel="self" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/atom.xml" type="application/atom+xml"/>
-    <updated>2018-04-07T21:33:01Z</updated>
+    <updated>2018-04-07T21:46:05Z</updated>
     <entry>
+        <title>prinzip.</title>
+        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2018/04/07/01-prinzip.html" type="text/html"/>
+        <id>tag:fnanp.in-ulm.de,2018-04-07:2018/04/07/01-prinzip</id>
+        <updated>2018-04-07T21:46:05Z</updated>
+        <published>2018-04-07T21:46:03Z</published>
+        <category term="marlene"/><category term="sprache"/>
+        <author>
+            <name>michael</name>
+        </author>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Ein Dialog-Fragment. Marlene sitzt am Klo, Susanne wartet davor.</p>
+<blockquote>
+<p>S - Bist du dann fertig?<br/>
+M - Im Prinzip ja.</p>
+</blockquote></div></content>
+    </entry><entry>
         <title>notiz.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2017/10/08/02-notiz.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2017-10-08:2017/10/08/notiz</id>
@@ -692,43 +707,5 @@ Schatten!</p>
 </ul>
 <p>das sind mal die, die mir grade akut einfallen. Potentiell wird mir
 Susanne gleich mitteilen, wie viele ich vergessen hab.</p></div></content>
-    </entry><entry>
-        <title>addendum.</title>
-        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2015/04/21/02-addendum.html" type="text/html"/>
-        <id>tag:fnanp.in-ulm.de,2015-04-21:2015/04/21/addendum</id>
-        <updated>2015-04-21T15:51:53Z</updated>
-        <published>2015-04-21T15:51:50Z</published>
-        <category term="administrativa"/><category term="fotos"/>
-        <author>
-            <name>michael</name>
-        </author>
-        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Man muss dazu sagen, dass ich genau von diesem Zeitraum (also August 2013
-bis ca März 2014) leider so gut wie alle meine am Handy gemachten Fotos
-verschmissen hab. Das Handy musste mal neu installiert werden, davor hab
-ich alle Bilder als Backup am Laptop gespeichert. Kurz danach ging auch
-der Laptop kaputt und schwupps waren die Bilder weg.</p>
-<p>Sehr ärgerlich...</p>
-<p>Was lernen wir daraus: Immer auch noch ein zusätzliches Backup woanders
-haben.</p></div></content>
-    </entry><entry>
-        <title>luja.</title>
-        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2015/04/21/01-luja.html" type="text/html"/>
-        <id>tag:fnanp.in-ulm.de,2015-04-21:2015/04/21/luja</id>
-        <updated>2015-04-21T15:41:10Z</updated>
-        <published>2015-04-21T15:41:05Z</published>
-        <category term="administrativa"/><category term="fotos"/><category term="frederik"/><category term="moritz"/><category term="marlene"/>
-        <author>
-            <name>michael</name>
-        </author>
-        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p><a href="http://de.wikipedia.org/wiki/Ein_Münchner_im_Himmel">Luja, sog i</a>.
-Beziehungsweise "Zefix!". Oder so irgendwas. Jedenfalls hat sich da ganz
-schön was angestaut, bei den Fotos.</p>
-<p>Ich hab jetzt mal einen ganzen Haufen online gestellt, von August 2013 bis
-inklusive Februar 2014, der Rest folgt noch (da muss ich auch noch durch
-all die Fotos durch, die Susanne auf ihrem Handy gemacht hat seit Marlene
-da ist, und das sind ganz schön viele, wie man sich denken kann).</p>
-<p>Jedenfalls, die Bilder finden sich am <a href="http://fnanp.in-ulm.de/frederik_und_moritz/photos/">selben Ort wie
-immer</a>. Wer das
-Passwort nicht mehr weiss kann mich ja fragen.</p></div></content>
     </entry>
 </feed>
