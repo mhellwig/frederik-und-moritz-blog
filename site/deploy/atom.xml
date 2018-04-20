@@ -4,8 +4,26 @@
     <id>http://example.com/</id>
     <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe" type="text/html"/>
     <link rel="self" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/atom.xml" type="application/atom+xml"/>
-    <updated>2018-04-07T21:46:05Z</updated>
+    <updated>2018-04-20T14:42:45Z</updated>
     <entry>
+        <title>update.</title>
+        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2018/04/20/01-update.html" type="text/html"/>
+        <id>tag:fnanp.in-ulm.de,2018-04-20:2018/04/20/update</id>
+        <updated>2018-04-20T14:42:45Z</updated>
+        <published>2018-04-20T14:42:40Z</published>
+        <category term="administrativa"/>
+        <author>
+            <name>michael</name>
+        </author>
+        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul>
+<li>Mir ist bewusst, dass Lennard noch immer im Titel fehlt</li>
+<li>Lennards letzter Eintrag besagte, dass er krabbelt. Inzwischen tut er
+  natürlich deutlich mehr. Demnächst mehr dazu</li>
+<li>Zu Frederik und Moritz auch demnächst mehr, die sind ja in der Schule
+  und so und das ist auch nicht gänzlich uninteressant</li>
+<li>Mir ist bewusst, dass die Frequenz an Blog-Einträgen etwas niedrig ist</li>
+</ul></div></content>
+    </entry><entry>
         <title>prinzip.</title>
         <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2018/04/07/01-prinzip.html" type="text/html"/>
         <id>tag:fnanp.in-ulm.de,2018-04-07:2018/04/07/01-prinzip</id>
@@ -675,37 +693,5 @@ er meinte</p>
 <p>Papa, soll ich dir was verraten? Unter meinen Schuhsohlen ist <em>immer</em>
 Schatten!</p>
 </blockquote></div></content>
-    </entry><entry>
-        <title>worte.</title>
-        <link rel="alternate" href="http://fnanp.in-ulm.de/frederik_und_moritz/sbe/2015/07/08/01-worte.html" type="text/html"/>
-        <id>tag:fnanp.in-ulm.de,2015-07-08:2015/07/08/worte</id>
-        <updated>2015-07-08T12:11:18Z</updated>
-        <published>2015-07-08T12:11:13Z</published>
-        <category term="marlene"/><category term="sprache"/>
-        <author>
-            <name>michael</name>
-        </author>
-        <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Ich sollte mal versuchen aufzuschreiben, was Marlene so alles sagt ..</p>
-<p>Also wir hätten da:</p>
-<ul>
-<li>"sisse" = sitzen</li>
-<li>"esse" = essen</li>
-<li>"Buch" = Buch, du sollst mir jetzt vorlesen</li>
-<li>"Boch" = Brot</li>
-<li>"Gogge" = Gurke</li>
-<li>"Hu" = Hut</li>
-<li>"U-e" = Schuhe</li>
-<li>"Nane" = Nase</li>
-<li>"Bau" = Bauch</li>
-<li>"Oa" = Ohr</li>
-<li>"Bicha" = Becher</li>
-<li>"mea" = mehr (meistens im Zusammenhang mit Essen)</li>
-<li>"Nanine" = Banane (bin ich mir grad nicht sicher ob ich das i an der
-  richtigen Stelle hab)</li>
-<li>"Mama" = Mama (italienisch ausgesprochen)</li>
-<li>"Papa" = Papa</li>
-</ul>
-<p>das sind mal die, die mir grade akut einfallen. Potentiell wird mir
-Susanne gleich mitteilen, wie viele ich vergessen hab.</p></div></content>
     </entry>
 </feed>
